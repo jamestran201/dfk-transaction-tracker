@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dfk-transaction-tracker"
+version = "0.1.0"
+description = "A web application for viewing transactions made in the DeFi Kingdoms game"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
