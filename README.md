@@ -17,19 +17,19 @@
 - Run `poetry add package-name`. Replace `package-name` with the dependency name, and pin the dependency version when possible
 - Check in the `poetry.toml` and `Poetry.lock` files to Git
 
-## Managing a local database
+## Managing local database and Redis instances
 
-To create a database locally:
+To create the instances locally:
 ```bash
 docker-compose up -d
 ```
 
-To stop the local database:
+To stop all instances:
 ```bash
 docker-compose stop
 ```
 
-To destroy the local database:
+To destroy all instances:
 ```bash
 docker-compose down --volumes
 ```
@@ -39,4 +39,10 @@ docker-compose down --volumes
 To apply new database migrations:
 ```bash
 make migrate-up
+```
+
+## Starting a Celery worker locally
+
+```bash
+make start-celery
 ```
