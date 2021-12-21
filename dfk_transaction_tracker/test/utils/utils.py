@@ -1,5 +1,6 @@
 from utils.abi_parser import ABIParser
 from contracts.contract_address import SerendaleContractAddress
+from contracts.contract_address import Tokens
 from web3 import Web3
 
 def receipt_data():
@@ -75,6 +76,10 @@ def _process_address(address,main_address):
     for key,values in CONTRACT_ADDRESSES.items():
         if address.lower() == values.lower():
             return key
+    TOKEN_ADDRESSES = Tokens.TOKEN_ADDRESS
+    for key,values in TOKEN_ADDRESSES.items():
+        if address.lower() == values.lower():
+            return key
     return address
 
 def _process_input(_input,_input_type,main_address,list_flag=False):
@@ -104,12 +109,22 @@ def _process_input(_input,_input_type,main_address,list_flag=False):
         red_console.print("INPUT_TYPE [{_input_type}] NOT IMPLEMENTED.")
         return None
 
-def process_transaction_data(transaction_data,main_address=None,verbose=True):
+def process_transaction_data(transaction_data,main_address=None,verbose=True,logpath=None):
     if verbose:
         if not bool(transaction_data):
-            print(f"------TRANSACTION RECEIPT------\nEMPTY")
+            print(f"------[PROCESSED] TRANSACTION RECEIPT------\nEMPTY")
         else:
-            print(f"------TRANSACTION RECEIPT------")
+            print(f"------[PROCESSED] TRANSACTION RECEIPT------")
+
+    if logpath is None:
+        pass
+    else:
+        with open(logpath,'a') as f:
+            if not bool(transaction_data):
+                f.write(f"------[PROCESSED] TRANSACTION RECEIPT------\nEMPTY\n")
+            else:
+                f.write(f"------[PROCESSED] TRANSACTION RECEIPT------\n")
+
     for abi in transaction_data.keys():
         for _type in transaction_data[abi].keys():
             for _type_key in transaction_data[abi][_type].keys():
@@ -119,7 +134,16 @@ def process_transaction_data(transaction_data,main_address=None,verbose=True):
                         _input = values[0]
                         _input_type = values[1]
                         _processed_input = _process_input(_input,_input_type,main_address)
+                        # Output to terminal
                         if verbose:
                             loop_elements = [abi,_type,_type_key,i,name,_processed_input,_input_type]
                             log = ' | '.join([str(i) for i in loop_elements])
                             print(f"{log}")
+                        # Write to logpath
+                        if logpath is None:
+                            pass
+                        else:
+                            loop_elements = [abi,_type,_type_key,i,name,_processed_input,_input_type]
+                            log = ' | '.join([str(i) for i in loop_elements])
+                            with open(logpath,'a') as f:
+                                f.write(f"{log}\n")

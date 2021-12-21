@@ -2,6 +2,7 @@ from utils.pyhmy.pyhmy import account
 from utils.pyhmy.pyhmy import numbers
 from utils.pyhmy.pyhmy.util import convert_one_to_hex
 from contracts.contract_address import SerendaleContractAddress
+from contracts.contract_address import Tokens
 from datetime import datetime
 from collections import Counter
 import pandas as pd
@@ -13,10 +14,16 @@ def _convert_one_to_hex(x):
     return convert_one_to_hex( x )
 
 def _map_address(x,main_address):
+    # Parse with SerendaleContractAddress
     CONTRACT_ADDRESSES = SerendaleContractAddress.CONTRACT_ADDRESS
     CONTRACT_ADDRESSES['USER'] = main_address
     for key,values in CONTRACT_ADDRESSES.items():
-        if x == values:
+        if x.lower() == values.lower():
+            return key
+    # Parse with Tokens
+    TOKEN_ADDRESSES = Tokens.TOKEN_ADDRESS
+    for key,values in TOKEN_ADDRESSES.items():
+        if x.lower() == values.lower():
             return key
     return None 
 

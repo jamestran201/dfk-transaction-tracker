@@ -1,0 +1,112 @@
+
+[2021/12/17, 07:29:44] || [TXN HASH] 0xd67a27ad8b1d1f25371b15087b9608adb8bb933f3163e392f85425bcdb1dc7ac|| 54
+USER > Serendale_AuctionHouse
+gas: 1.84066e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 177
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 66999 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 66999 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 292210 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 66999 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 66999 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 292210 | uint256
+
+[2021/12/17, 07:29:28] || [TXN HASH] 0x36753ce04ceadf754fa2866103743620b81f82b560a20033dc88f01752352002|| 55
+USER > Serendale_AuctionHouse
+gas: 1.95125e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 176
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 292198 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 292198 | uint256
+
+[2021/12/16, 21:41:28] || [TXN HASH] 0x0a4f48fb438dce0cc3cdbf805d54526bcb2afe9ea6eb7d69636ae194cb059c69|| 62
+USER > Serendale_AuctionHouse
+gas: 1.53107e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 169
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 66999 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 66999 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 288470 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 66999 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 66999 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 288470 | uint256
+
+[2021/12/16, 21:41:08] || [TXN HASH] 0xa8980559df0e61c29cbb2141f64d49a4b84a2d5e7f6b5a467ec585f3b4ce4961|| 63
+USER > Serendale_AuctionHouse
+gas: 1.95125e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 168
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 288458 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 288458 | uint256
+
+[2021/12/14, 05:56:49] || [TXN HASH] 0x506ae4fc98ee77fcd0e13a53354d7891dbd439322ddce8a7535f5cfd0dad57fc|| 98
+USER > Serendale_AuctionHouse
+gas: 1.84066e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 133
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 66999 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 66999 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 256832 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 66999 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 66999 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 256832 | uint256
+
+[2021/12/14, 05:56:39] || [TXN HASH] 0xf05eab52ceb2189bf9277d2eb128ab3d063af0b06b60a4e86515209190571c51|| 99
+USER > Serendale_AuctionHouse
+gas: 1.95125e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 132
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 256822 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 256822 | uint256
+
+[2021/12/13, 19:49:43] || [TXN HASH] 0x903250d268a2d08272f1e60641250810c958f65c479413c509fc04467e1cacb7|| 113
+USER > Serendale_AuctionHouse
+gas: 1.84054e-13 [ONE]
+gasPrice: 1.1e-08 [ONE]
+nonce: 119
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 252680 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 252680 | uint256
+
+[2021/12/13, 06:57:43] || [TXN HASH] 0x77fc7f2d9f44c78dac479b95798b3ac8609e348e8133f5e555012e8d24fdc03a|| 121
+USER > Serendale_AuctionHouse
+gas: 1.84054e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 111
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 245193 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 52310 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 245193 | uint256
