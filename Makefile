@@ -7,7 +7,7 @@ migrate-up:
 	python manage.py migrate
 
 runserver:
-	python py runserver
+	python manage.py runserver
 
 start-celery:
 	celery -A dfk_transaction_tracker worker -l INFO
