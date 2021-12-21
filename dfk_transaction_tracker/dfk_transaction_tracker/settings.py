@@ -12,8 +12,14 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 from pathlib import Path
 
+import environ
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
+PROJECT_ROOT_DIR = BASE_DIR.parent
+
+env = environ.Env()
+env.read_env(f"{PROJECT_ROOT_DIR}/.env")
 
 
 # Quick-start development settings - unsuitable for production
@@ -27,6 +33,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+ADMIN_ENABLED = False
+
 
 # Application definition
 
@@ -37,6 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'api',
 ]
 
 MIDDLEWARE = [
@@ -75,8 +84,12 @@ WSGI_APPLICATION = 'dfk_transaction_tracker.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': env("POSTGRES_DB"),
+        'USER': env("POSTGRES_USER"),
+        'PASSWORD': env("POSTGRES_PASSWORD"),
+        'HOST': env("POSTGRES_HOST"),
+        'PORT': env("POSTGRES_PORT"),
     }
 }
 
@@ -121,3 +134,20 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Celery
+# ------------------------------------------------------------------------------
+# http://docs.celeryproject.org/en/latest/userguide/configuration.html#std:setting-timezone
+CELERY_TIMEZONE = TIME_ZONE
+# http://docs.celeryproject.org/en/latest/userguide/configuration.html#std:setting-broker_url
+CELERY_BROKER_URL = env("CELERY_BROKER_URL")
+# http://docs.celeryproject.org/en/latest/userguide/configuration.html#std:setting-result-backend
+CELERY_RESULT_BACKEND = CELERY_BROKER_URL
+# http://docs.celeryproject.org/en/latest/userguide/configuration.html#std:setting-accept_content
+CELERY_ACCEPT_CONTENT = ["json"]
+# http://docs.celeryproject.org/en/latest/userguide/configuration.html#std:setting-task_serializer
+CELERY_TASK_SERIALIZER = "json"
+# http://docs.celeryproject.org/en/latest/userguide/configuration.html#std:setting-result_serializer
+CELERY_RESULT_SERIALIZER = "json"
+# http://docs.celeryproject.org/en/latest/userguide/configuration.html#task-time-limit
+CELERY_TASK_TIME_LIMIT = 3 * 60
