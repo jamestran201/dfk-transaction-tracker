@@ -11,6 +11,10 @@ Django = "4.0"
 psycopg2 = "2.9.2"
 django-environ = "0.8.1"
 celery = {version = "5.2.1", extras = ["redis"]}
+djangorestframework = "3.13.1"
+django-cors-headers = "3.10.1"
+pytest-django = "4.5.2"
+web3 = "5.25.0"
 
 [tool.poetry.dev-dependencies]
 

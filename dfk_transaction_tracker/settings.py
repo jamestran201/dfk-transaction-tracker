@@ -16,10 +16,9 @@ import environ
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
-PROJECT_ROOT_DIR = BASE_DIR.parent
 
 env = environ.Env()
-env.read_env(f"{PROJECT_ROOT_DIR}/.env")
+env.read_env(f"{BASE_DIR}/.env")
 
 
 # Quick-start development settings - unsuitable for production
@@ -38,18 +37,29 @@ ADMIN_ENABLED = False
 
 # Application definition
 
-INSTALLED_APPS = [
+DJANGO_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'api',
 ]
+
+THIRD_PARTY_APPS = [
+    "rest_framework",
+    "corsheaders",
+]
+
+CUSTOM_APPS = [
+    "api",
+]
+
+INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + CUSTOM_APPS
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -151,3 +161,10 @@ CELERY_TASK_SERIALIZER = "json"
 CELERY_RESULT_SERIALIZER = "json"
 # http://docs.celeryproject.org/en/latest/userguide/configuration.html#task-time-limit
 CELERY_TASK_TIME_LIMIT = 3 * 60
+
+# django-cors-headers
+# TODO: Use a more appropriate CORS configuration when we are ready to deploy to production
+CORS_ALLOW_ALL_ORIGINS = True
+
+# Django REST Framework
+REST_FRAME_WORK = {}
