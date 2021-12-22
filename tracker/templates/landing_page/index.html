@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+  <form action="{% url 'tracker:wallet_address' %}" method="post">
+    {% csrf_token %}
+    <fieldset>
+        <legend><h1>Enter your 0x wallet address</h1></legend>
+        {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+        <input type="text" name="wallet_address" id="wallet_address" value="">
+        <label for="wallet_address">Wallet Address</label><br>
+    </fieldset>
+    <input type="submit" value="Submit">
+  </form>
+{% endblock %}

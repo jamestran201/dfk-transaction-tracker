@@ -9,11 +9,13 @@ services:
       - app-db-data:/var/lib/postgresql/data
     env_file:
       - .env
+    restart: "unless-stopped"
 
   redis:
     image: redis:6.2
     ports:
       - "6379:6379"
+    restart: "unless-stopped"
 
 volumes:
   app-db-data:
