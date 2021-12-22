@@ -11,8 +11,10 @@ Django = "4.0"
 psycopg2 = "2.9.2"
 django-environ = "0.8.1"
 celery = {version = "5.2.1", extras = ["redis"]}
+web3 = "5.25.0"
 
 [tool.poetry.dev-dependencies]
+pytest-django = "4.5.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
