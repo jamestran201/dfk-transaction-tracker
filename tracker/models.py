@@ -3,7 +3,7 @@ from django.db import models
 class TransactionSynchronization(models.Model):
 
     class Meta:
-        db_table = "transaction_syncrhonization"
+        db_table = "transaction_synchronization"
 
     class Status(models.TextChoices):
         PENDING = "PENDING"
