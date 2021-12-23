@@ -1,0 +1,40 @@
+.wallet-address-container {
+  margin-right: 0.5rem!important;
+  margin-left: 0.5rem!important;
+}
+
+@media (min-width: 576px) {
+  .wallet-address-container {
+    width: 75%!important;
+  }
+}
+
+@media (min-width: 992px) {
+  .wallet-address-container {
+    width: 50%!important;
+  }
+}
+
+.wallet-address-input {
+  position: relative;
+  flex: 1 1 auto;
+  width: 1%;
+  min-width: 0;
+  display: block;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+}
+
+input.wallet-address-input:focus {
+    outline-width: 0;
+}
