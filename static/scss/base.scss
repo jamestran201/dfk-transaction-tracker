@@ -1,3 +1,6 @@
+// Overriding default variables from boostrap.scss
+$danger: #f83b4d;
+
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
 
 .btn-primary {
@@ -10,3 +13,4 @@
     #212529
   );
 }
+
