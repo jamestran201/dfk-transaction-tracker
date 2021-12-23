@@ -8,12 +8,21 @@
 {% block content %}
 <div class="d-flex flex-column justify-content-center vh-100">
   <h1 class="d-flex justify-content-center">DFK Transaction Tracker</h1>
+
   <form action="{% url 'tracker:wallet_address' %}" method="post" class="d-flex justify-content-center">
     {% csrf_token %}
-    {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
-    <div class="input-group wallet-address-container">
-      <input type="text" name="wallet_address" id="wallet_address" class="wallet-address-input" placeholder="Enter your 0x wallet address">
-      <button type="submit" class="btn btn-primary" type="button">Search</button>
+    <div class="input-group has-validation wallet-address-container">
+      <input type="text" name="wallet_address" id="wallet_address"
+        class="form-control {% if error_message %} is-invalid {% endif %}"
+        placeholder="Enter your 0x wallet address">
+
+      <button type="submit" id="wallet_address_submit" class="btn btn-primary" type="button">Search</button>
+
+      {% if error_message %}
+        <div id="wallet_address_error_message" class="invalid-feedback">
+          {{ error_message }}
+        </div>
+      {% endif %}
     </div>
   </form>
 </div>
