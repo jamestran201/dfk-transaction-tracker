@@ -6,11 +6,12 @@
 - [Poetry](https://python-poetry.org/docs/#installation)
 - Make
 
-## Set up the Python project
+## Set up the development environment
 
 - Install dependencies: `make install`
 - Activate virtualenv: `. .venv/bin/activate`
 - Create a `.env` file to store environment variables for local development: `cp .env.example .env`
+- In the `static/` directory, run `yarn install`
 
 ## Adding a new Python dependency
 
@@ -45,4 +46,10 @@ make migrate-up
 
 ```bash
 make start-celery
+```
+
+## Starting the Django server locally
+
+```bash
+make runserver
 ```
