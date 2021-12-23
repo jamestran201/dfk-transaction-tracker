@@ -11,7 +11,7 @@ class WalletAddressView(View):
         wallet_address = request.POST["wallet_address"]
 
         if not Web3.isAddress(wallet_address):
-            return render(request, "landing_page/index.html", {"error_message": "The given wallet address is not a valid 0x address."})
+            return render(request, "landing_page/index.html", {"error_message": "Please enter a valid 0x wallet address."})
 
         checksum_address = Web3.toChecksumAddress(wallet_address)
         with transaction.atomic():
