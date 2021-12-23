@@ -1,8 +1,10 @@
 {% extends "base.html" %}
-{% load static %}
+{% load static compress %}
 
 {% block css %}
-<link rel="stylesheet" href="{% static 'css/landing_page.css' %}" type="text/css">
+  {% compress css %}
+    <link type="text/x-scss" href="{% static 'scss/landing_page.scss' %}" rel="stylesheet">
+  {% endcompress %}
 {% endblock %}
 
 {% block content %}

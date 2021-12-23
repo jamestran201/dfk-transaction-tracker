@@ -1,0 +1,12 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+.btn-primary {
+  @include button-variant(
+    #009C44,
+    #100F21,
+    #FFFFFF,
+    #FBE375,
+    #100F21,
+    #212529
+  );
+}
