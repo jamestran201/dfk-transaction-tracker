@@ -5,6 +5,7 @@
 - Python 3.8
 - [Poetry](https://python-poetry.org/docs/#installation)
 - Make
+- [yarn](https://yarnpkg.com/getting-started/install)
 
 ## Set up the development environment
 
