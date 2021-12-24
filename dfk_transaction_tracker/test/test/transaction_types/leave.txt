@@ -1,5 +1,5 @@
 
-[2021/11/28, 23:30:13] || [TXN HASH] 0x54838bf0b99f82cc7375864884a3a9a093994d569a09cad4660cd3e36ba7c15d|| 699
+[2021/11/28, 23:30:13] || [TXN HASH] 0x54838bf0b99f82cc7375864884a3a9a093994d569a09cad4660cd3e36ba7c15d|| 774
 USER > Serendale_xJEWEL
 gas: 6.9612e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -14,7 +14,7 @@ Bank.json | event | Transfer | 3 | from | Serendale_xJEWEL | address
 Bank.json | event | Transfer | 4 | to | USER | address
 Bank.json | event | Transfer | 5 | value | 8018063195393130613653 | uint256
 
-[2021/11/18, 00:44:15] || [TXN HASH] 0xfcbc06b8ebdedbf7194c6b761e21b22a06404549291a8e0a008e810ac7f6dcbf|| 825
+[2021/11/18, 00:44:15] || [TXN HASH] 0xfcbc06b8ebdedbf7194c6b761e21b22a06404549291a8e0a008e810ac7f6dcbf|| 900
 USER > Serendale_xJEWEL
 gas: 6.9612e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -29,7 +29,7 @@ Bank.json | event | Transfer | 3 | from | Serendale_xJEWEL | address
 Bank.json | event | Transfer | 4 | to | USER | address
 Bank.json | event | Transfer | 5 | value | 7939843931768487787255 | uint256
 
-[2021/11/14, 19:02:39] || [TXN HASH] 0x5f002cdedf6491c012cac5c6d4052dafcca59ae650352a91004707610ae9f3bc|| 871
+[2021/11/14, 19:02:39] || [TXN HASH] 0x5f002cdedf6491c012cac5c6d4052dafcca59ae650352a91004707610ae9f3bc|| 946
 USER > Serendale_xJEWEL
 gas: 6.9612e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -44,7 +44,7 @@ Bank.json | event | Transfer | 3 | from | Serendale_xJEWEL | address
 Bank.json | event | Transfer | 4 | to | USER | address
 Bank.json | event | Transfer | 5 | value | 7904351160610155330966 | uint256
 
-[2021/11/13, 23:28:00] || [TXN HASH] 0xcd9c8776793a390c0a93f02132cc75af1a3e87e71ce521cc9ca8d51a83fb22c3|| 876
+[2021/11/13, 23:28:00] || [TXN HASH] 0xcd9c8776793a390c0a93f02132cc75af1a3e87e71ce521cc9ca8d51a83fb22c3|| 955
 USER > Serendale_xJEWEL
 gas: 6.9612e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -59,7 +59,7 @@ Bank.json | event | Transfer | 3 | from | Serendale_xJEWEL | address
 Bank.json | event | Transfer | 4 | to | USER | address
 Bank.json | event | Transfer | 5 | value | 7893672896782868723139 | uint256
 
-[2021/11/12, 23:27:31] || [TXN HASH] 0xf195ccd8c3e1144e36c23a74850fe3c79183f2fa2d4f978896f88d39a04417d8|| 882
+[2021/11/12, 23:27:31] || [TXN HASH] 0xf195ccd8c3e1144e36c23a74850fe3c79183f2fa2d4f978896f88d39a04417d8|| 961
 USER > Serendale_xJEWEL
 gas: 6.9612e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -74,7 +74,7 @@ Bank.json | event | Transfer | 3 | from | Serendale_xJEWEL | address
 Bank.json | event | Transfer | 4 | to | USER | address
 Bank.json | event | Transfer | 5 | value | 7880262734679036021697 | uint256
 
-[2021/11/12, 15:53:22] || [TXN HASH] 0x0050d6ea6ac24b6fa8c2619c1223b5de16b8535d2058d20794c2626c264f06c4|| 893
+[2021/11/12, 15:53:22] || [TXN HASH] 0x0050d6ea6ac24b6fa8c2619c1223b5de16b8535d2058d20794c2626c264f06c4|| 972
 USER > Serendale_xJEWEL
 gas: 6.9612e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -89,7 +89,7 @@ Bank.json | event | Transfer | 3 | from | Serendale_xJEWEL | address
 Bank.json | event | Transfer | 4 | to | USER | address
 Bank.json | event | Transfer | 5 | value | 7875900754175367658654 | uint256
 
-[2021/11/11, 21:11:17] || [TXN HASH] 0x5b26e27fc9fabae2c104412975c63fbe74716be9dce6ebdea60085924d48a847|| 904
+[2021/11/11, 21:11:17] || [TXN HASH] 0x5b26e27fc9fabae2c104412975c63fbe74716be9dce6ebdea60085924d48a847|| 983
 USER > Serendale_xJEWEL
 gas: 6.9612e-14 [ONE]
 gasPrice: 1e-08 [ONE]

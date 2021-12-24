@@ -1,5 +1,5 @@
 
-[2021/12/11, 13:00:22] || [TXN HASH] 0xab7453b50fbdf181c1be2d62d5ab8c4df64601a8aa0128d87360e9984055f9ee|| 326
+[2021/12/11, 13:00:22] || [TXN HASH] 0xab7453b50fbdf181c1be2d62d5ab8c4df64601a8aa0128d87360e9984055f9ee|| 408
 USER > Serendale_UniswapV2Router02
 gas: 2.17735e-13 [ONE]
 gasPrice: 1e-08 [ONE]

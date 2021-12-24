@@ -1,5 +1,5 @@
 
-[2021/12/16, 23:27:22] || [TXN HASH] 0xcf695b61ca757896df4f7c7ed502ba382e0846983a5a01a0c48750e85d98d2ed|| 56
+[2021/12/16, 23:27:22] || [TXN HASH] 0xcf695b61ca757896df4f7c7ed502ba382e0846983a5a01a0c48750e85d98d2ed|| 81
 USER > Serendale_AuctionHouse
 gas: 3.62159e-13 [ONE]
 gasPrice: 1e-09 [ONE]
@@ -31,7 +31,7 @@ SaleAuction.json | event | AuctionCreated | 4 | endingPrice | 900000000000000000
 SaleAuction.json | event | AuctionCreated | 5 | duration | 60 | uint256
 SaleAuction.json | event | AuctionCreated | 6 | winner | 0x0000000000000000000000000000000000000000 | address
 
-[2021/12/16, 23:26:06] || [TXN HASH] 0x00f7414c91cf22aec41090da4ec2416b000d97223efda9c2265246286e139771|| 57
+[2021/12/16, 23:26:06] || [TXN HASH] 0x00f7414c91cf22aec41090da4ec2416b000d97223efda9c2265246286e139771|| 82
 USER > Serendale_AuctionHouse
 gas: 3.6973e-13 [ONE]
 gasPrice: 1e-09 [ONE]
@@ -63,7 +63,7 @@ SaleAuction.json | event | AuctionCreated | 4 | endingPrice | 650000000000000000
 SaleAuction.json | event | AuctionCreated | 5 | duration | 60 | uint256
 SaleAuction.json | event | AuctionCreated | 6 | winner | 0x0000000000000000000000000000000000000000 | address
 
-[2021/12/16, 15:30:12] || [TXN HASH] 0x66f435f82324219331cbf5f4a183d4e8c44c44aff3a9920e2d5a000a87e9b3e7|| 64
+[2021/12/16, 15:30:12] || [TXN HASH] 0x66f435f82324219331cbf5f4a183d4e8c44c44aff3a9920e2d5a000a87e9b3e7|| 89
 USER > Serendale_AuctionHouse
 gas: 3.62186e-13 [ONE]
 gasPrice: 1e-09 [ONE]
@@ -95,7 +95,7 @@ SaleAuction.json | event | AuctionCreated | 4 | endingPrice | 100000000000000000
 SaleAuction.json | event | AuctionCreated | 5 | duration | 60 | uint256
 SaleAuction.json | event | AuctionCreated | 6 | winner | 0x0000000000000000000000000000000000000000 | address
 
-[2021/12/16, 15:28:50] || [TXN HASH] 0xc714a47da576faa95bb52f28d9585143413dcf5c7f429269175bca954ad4f5b6|| 65
+[2021/12/16, 15:28:50] || [TXN HASH] 0xc714a47da576faa95bb52f28d9585143413dcf5c7f429269175bca954ad4f5b6|| 90
 USER > Serendale_AuctionHouse
 gas: 3.6973e-13 [ONE]
 gasPrice: 1e-09 [ONE]
@@ -127,7 +127,7 @@ SaleAuction.json | event | AuctionCreated | 4 | endingPrice | 700000000000000000
 SaleAuction.json | event | AuctionCreated | 5 | duration | 60 | uint256
 SaleAuction.json | event | AuctionCreated | 6 | winner | 0x0000000000000000000000000000000000000000 | address
 
-[2021/12/13, 22:58:26] || [TXN HASH] 0x0900d62ffca817a5571e704296989e6838d8b7dce5f3ca0b9cb3f0804c574176|| 100
+[2021/12/13, 22:58:26] || [TXN HASH] 0x0900d62ffca817a5571e704296989e6838d8b7dce5f3ca0b9cb3f0804c574176|| 125
 USER > Serendale_AuctionHouse
 gas: 3.45686e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -159,7 +159,7 @@ SaleAuction.json | event | AuctionCreated | 4 | endingPrice | 890000000000000000
 SaleAuction.json | event | AuctionCreated | 5 | duration | 60 | uint256
 SaleAuction.json | event | AuctionCreated | 6 | winner | 0x0000000000000000000000000000000000000000 | address
 
-[2021/12/13, 22:57:09] || [TXN HASH] 0x32673391f51e83e59e2fbd9cef81f82c2e37e2181afc89a7354ce957c1ed7859|| 101
+[2021/12/13, 22:57:09] || [TXN HASH] 0x32673391f51e83e59e2fbd9cef81f82c2e37e2181afc89a7354ce957c1ed7859|| 126
 USER > Serendale_AuctionHouse
 gas: 3.6973e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -191,7 +191,7 @@ SaleAuction.json | event | AuctionCreated | 4 | endingPrice | 650000000000000000
 SaleAuction.json | event | AuctionCreated | 5 | duration | 60 | uint256
 SaleAuction.json | event | AuctionCreated | 6 | winner | 0x0000000000000000000000000000000000000000 | address
 
-[2021/12/13, 14:45:40] || [TXN HASH] 0xe71680e7fe28226efd321bd26c9e3dffcf492ca877206da52dc024cd9e621730|| 114
+[2021/12/13, 14:45:40] || [TXN HASH] 0xe71680e7fe28226efd321bd26c9e3dffcf492ca877206da52dc024cd9e621730|| 139
 USER > Serendale_AuctionHouse
 gas: 3.57526e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -223,7 +223,7 @@ SaleAuction.json | event | AuctionCreated | 4 | endingPrice | 900000000000000000
 SaleAuction.json | event | AuctionCreated | 5 | duration | 60 | uint256
 SaleAuction.json | event | AuctionCreated | 6 | winner | 0x0000000000000000000000000000000000000000 | address
 
-[2021/12/12, 21:36:42] || [TXN HASH] 0x2e96e2042bf3953ae10289862bc6fdc629b3747ef1ee16ef4597ec8306100fe7|| 122
+[2021/12/12, 21:36:42] || [TXN HASH] 0x2e96e2042bf3953ae10289862bc6fdc629b3747ef1ee16ef4597ec8306100fe7|| 147
 USER > Serendale_AuctionHouse
 gas: 3.62172e-13 [ONE]
 gasPrice: 1e-08 [ONE]

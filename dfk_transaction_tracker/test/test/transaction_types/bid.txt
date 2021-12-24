@@ -1,5 +1,5 @@
 
-[2021/12/13, 22:00:24] || [TXN HASH] 0x04ba530fb7449441a384bc8e770a6d95ae1dedd9f9c8560ed44476cee517d9f5|| 106
+[2021/12/13, 22:00:24] || [TXN HASH] 0x04ba530fb7449441a384bc8e770a6d95ae1dedd9f9c8560ed44476cee517d9f5|| 131
 USER > Serendale_AuctionHouse
 gas: 4.08074e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -11,7 +11,7 @@ HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 79000000000000
 SaleAuction.json | function | bid | 0 | _tokenId | 66999 | uint256
 SaleAuction.json | function | bid | 1 | _bidAmount | 79000000000000000000 | uint256
 
-[2021/12/13, 22:00:20] || [TXN HASH] 0x8889b58969bb8f98d23fd00818ec2b4f8cada201900814072a882331f10a3abc|| 107
+[2021/12/13, 22:00:20] || [TXN HASH] 0x8889b58969bb8f98d23fd00818ec2b4f8cada201900814072a882331f10a3abc|| 132
 USER > Serendale_AuctionHouse
 gas: 4.08074e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -23,7 +23,7 @@ HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 79000000000000
 SaleAuction.json | function | bid | 0 | _tokenId | 66999 | uint256
 SaleAuction.json | function | bid | 1 | _bidAmount | 79000000000000000000 | uint256
 
-[2021/12/13, 22:00:16] || [TXN HASH] 0xd16f7641804ec30ab971245b83cfca176c5e6ebd3929ccc67e4bb0bbccf81af3|| 108
+[2021/12/13, 22:00:16] || [TXN HASH] 0xd16f7641804ec30ab971245b83cfca176c5e6ebd3929ccc67e4bb0bbccf81af3|| 133
 USER > Serendale_AuctionHouse
 gas: 4.08074e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -43,7 +43,7 @@ SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 256302 | uint256
 SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 79000000000000000000 | uint256
 SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
 
-[2021/12/12, 20:29:38] || [TXN HASH] 0x1fde4b419a248d36f3bd84ce5989225160c86508f6d88f15a1561460696c44d8|| 128
+[2021/12/12, 20:29:38] || [TXN HASH] 0x1fde4b419a248d36f3bd84ce5989225160c86508f6d88f15a1561460696c44d8|| 153
 USER > Serendale_AuctionHouse
 gas: 4.54294e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -63,7 +63,7 @@ SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 242779 | uint256
 SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 50000000000000000000 | uint256
 SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
 
-[2021/12/18, 23:52:50] || [TXN HASH] 0xc52cd78d444b5d76a50174a973f81f62386cbe2d2bee5d955d05686c0b52a0ff|| 93
+[2021/12/18, 23:52:50] || [TXN HASH] 0xc52cd78d444b5d76a50174a973f81f62386cbe2d2bee5d955d05686c0b52a0ff|| 175
 USER > Serendale_AuctionHouse
 gas: 4.08074e-13 [ONE]
 gasPrice: 1e-08 [ONE]

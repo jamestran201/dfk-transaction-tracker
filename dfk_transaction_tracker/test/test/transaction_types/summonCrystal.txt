@@ -1,5 +1,5 @@
 
-[2021/11/28, 23:39:24] || [TXN HASH] 0x8939499450bb808e327fdb3344d4cb416a5c241df1df8f9660333be671a87277|| 692
+[2021/11/28, 23:39:24] || [TXN HASH] 0x8939499450bb808e327fdb3344d4cb416a5c241df1df8f9660333be671a87277|| 767
 USER > Serendale_summoning
 gas: 1.331056e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -25,7 +25,7 @@ HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
 
-[2021/11/28, 23:36:27] || [TXN HASH] 0x9307cfbde1b93cc90e0acabd34c978962126cdfa03a3274e3df022cc78a97c48|| 694
+[2021/11/28, 23:36:27] || [TXN HASH] 0x9307cfbde1b93cc90e0acabd34c978962126cdfa03a3274e3df022cc78a97c48|| 769
 USER > Serendale_summoning
 gas: 1.31402e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -51,7 +51,7 @@ HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
 
-[2021/11/28, 23:33:52] || [TXN HASH] 0x0bb96cb039bc83d8a9401d2ed5cb8512f8ca56017ce3d9641135605a4df84107|| 696
+[2021/11/28, 23:33:52] || [TXN HASH] 0x0bb96cb039bc83d8a9401d2ed5cb8512f8ca56017ce3d9641135605a4df84107|| 771
 USER > Serendale_summoning
 gas: 1.313811e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -77,7 +77,7 @@ HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
 
-[2021/11/28, 23:31:16] || [TXN HASH] 0xe6cbc98ae9b8fbca85c3ffb28cac3b08db1ec1a5c8c06ae831c7d12559ba55d1|| 698
+[2021/11/28, 23:31:16] || [TXN HASH] 0xe6cbc98ae9b8fbca85c3ffb28cac3b08db1ec1a5c8c06ae831c7d12559ba55d1|| 773
 USER > Serendale_summoning
 gas: 1.330245e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -103,7 +103,7 @@ HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
 
-[2021/11/28, 23:27:13] || [TXN HASH] 0xcb8c03027e509ccd450f634ae2cb3bba2888c42a7d9476e5668e5ee00be73239|| 701
+[2021/11/28, 23:27:13] || [TXN HASH] 0xcb8c03027e509ccd450f634ae2cb3bba2888c42a7d9476e5668e5ee00be73239|| 776
 USER > Serendale_summoning
 gas: 1.325949e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -129,7 +129,7 @@ HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
 
-[2021/11/28, 23:21:56] || [TXN HASH] 0x7f850498f05cc7c682ddf7e147c0287cdc22e29918855ce66dd61f233fd6010a|| 703
+[2021/11/28, 23:21:56] || [TXN HASH] 0x7f850498f05cc7c682ddf7e147c0287cdc22e29918855ce66dd61f233fd6010a|| 778
 USER > Serendale_summoning
 gas: 1.330352e-12 [ONE]
 gasPrice: 1e-08 [ONE]
