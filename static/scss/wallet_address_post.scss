@@ -1,0 +1,17 @@
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/variables';
+@import '../node_modules/bootstrap/scss/mixins/_breakpoints.scss';
+
+span {
+  color: #FBE375;
+}
+
+.info-text {
+  font-size: 1rem !important;
+}
+
+@include media-breakpoint-up(md) {
+  .info-text {
+    font-size: 1.25rem !important;
+  }
+}
