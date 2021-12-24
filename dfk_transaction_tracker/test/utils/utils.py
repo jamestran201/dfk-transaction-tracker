@@ -69,6 +69,20 @@ def get_transaction_receipt_data(txn_receipt,txn_input,contract_address,main_add
 
     return data
 
+def process_address(address,main_address):
+    assert main_address is not None and isinstance(address,str)
+    CONTRACT_ADDRESSES = SerendaleContractAddress.CONTRACT_ADDRESS
+    CONTRACT_ADDRESSES['USER'] = main_address
+    for key,values in CONTRACT_ADDRESSES.items():
+        if address.lower() == values.lower():
+            return key
+    TOKEN_ADDRESSES = Tokens.TOKEN_ADDRESS
+    for key,values in TOKEN_ADDRESSES.items():
+        if address.lower() == values.lower():
+            return key
+    return address
+
+# Removal later
 def _process_address(address,main_address):
     assert main_address is not None and isinstance(address,str)
     CONTRACT_ADDRESSES = SerendaleContractAddress.CONTRACT_ADDRESS

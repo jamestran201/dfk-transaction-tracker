@@ -27,7 +27,7 @@ def _map_address(x,main_address):
             return key
     return None 
 
-class TXNParser:
+class TransactionParser:
     def __init__(self,main_address,main_net='https://rpc.s0.t.hmny.io'):
         self.main_address = main_address
         self.main_net = main_net
@@ -66,29 +66,6 @@ class TXNParser:
         return df.sort_values(by='timestamp',ascending=False)
 
     def get_transactions(self,n_loops=1):
-        """
-        account.get_transaction_history returns inconsistent output
-        * run loop and get the most frequent output
-
-        converts all transactions into a pd DataFrame
-        """
-        
-        """
-        # Get most common 'value'
-        repeats = []
-        for i in range(n_loops):
-            print(f"LOOP {i}")
-            all_txns = self._get_transactions()
-            repeats.append(all_txns[-1]['value'])
-        most_common = Counter(repeats).most_common(1)[0][0]
-        # Use most common value to parse most frequent txn history
-        log_flag = True
-        while log_flag:
-            all_txns = self._get_transactions()
-            if all_txns[-1]['value'] == most_common:
-                log_flag = False
-        """
-
         all_txns = self._get_transactions()
         all_txns = self._process(all_txns)
 
