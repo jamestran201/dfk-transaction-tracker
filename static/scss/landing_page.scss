@@ -24,11 +24,15 @@ h1 {
 }
 
 input.form-control:focus {
-    border: 1px solid #ced4da;
-    box-shadow: None;
+  border: 1px solid #ced4da;
+  box-shadow: None;
 }
 
 input.form-control.is-invalid:focus {
-    border: 1px solid #ced4da;
-    box-shadow: None;
+  border: 1px solid #ced4da;
+  box-shadow: None;
+}
+
+.btn-primary:focus {
+  box-shadow: None;
 }
