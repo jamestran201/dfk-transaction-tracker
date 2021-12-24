@@ -3,6 +3,10 @@ $danger: #f83b4d;
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
 
+body {
+  background: #100F21;
+}
+
 .btn-primary {
   @include button-variant(
     #009C44,
