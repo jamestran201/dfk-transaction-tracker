@@ -1,0 +1,38 @@
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/variables';
+@import '../node_modules/bootstrap/scss/mixins/_breakpoints.scss';
+
+body {
+  background: #100F21;
+}
+
+h1 {
+  color: #FBE375;
+}
+
+.wallet-address-container {
+  margin-right: 0.5rem!important;
+  margin-left: 0.5rem!important;
+}
+
+@include media-breakpoint-up(sm) {
+  .wallet-address-container {
+    width: 75%!important;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .wallet-address-container {
+    width: 50%!important;
+  }
+}
+
+input.form-control:focus {
+    border: 1px solid #ced4da;
+    box-shadow: None;
+}
+
+input.form-control.is-invalid:focus {
+    border: 1px solid #ced4da;
+    box-shadow: None;
+}

@@ -36,7 +36,7 @@ class TestWalletAddressView(TestCase):
         template_names = [template.name for template in response.templates]
         assert response.status_code == 200
         assert "landing_page/index.html" in template_names
-        assert response.context["error_message"] == "The given wallet address is not a valid 0x address."
+        assert response.context["error_message"] == "Please enter a valid 0x wallet address."
 
 
     def test_post_does_not_create_new_task_when_task_is_pending_or_in_progress(self):
