@@ -4,6 +4,7 @@ from django.views import View
 from web3 import Web3
 
 from tracker.models import TransactionSynchronization
+from tracker.tasks import sync_transactions
 
 
 class WalletAddressView(View):
@@ -15,11 +16,10 @@ class WalletAddressView(View):
 
         checksum_address = Web3.toChecksumAddress(wallet_address)
         with transaction.atomic():
-            # TODO: pass the function that enqueues a Celery task into on_commit()
-            # transaction.on_commit()
-
             last_task = TransactionSynchronization.objects.filter(wallet_address=checksum_address).last()
             if last_task is None or last_task.status not in ("PENDING", "IN_PROGRESS"):
-                TransactionSynchronization(wallet_address=checksum_address).save()
+                sync_task = TransactionSynchronization(wallet_address=checksum_address)
+                sync_task.save()
+                sync_transactions.delay(checksum_address, sync_task.id)
 
             return render(request, "wallet_address/post.html")
