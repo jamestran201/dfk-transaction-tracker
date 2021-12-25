@@ -10,9 +10,6 @@ import pandas as pd
 def _convert_timestamp(x):
     return datetime.fromtimestamp( x ).strftime("%Y/%m/%d, %H:%M:%S")
 
-def _convert_one_to_hex(x):
-    return convert_one_to_hex( x )
-
 def _map_address_to_readable_name(address, main_address):
     # Parse with SerendaleContractAddress
     address = address.lower()
@@ -51,9 +48,9 @@ class TransactionParser:
         df['TxHash'] = df['hash']
         df['input'] = df['input'] # TRANSACTION DATA, for smart contracts
         df['nonce'] = df['nonce']
-        df['to'] = df.apply(lambda row: _convert_one_to_hex(row['to']),axis=1)
+        df['to'] = df.apply(lambda row: convert_one_to_hex(row['to']),axis=1)
         df['to_mapped'] = df.apply(lambda row: _map_address_to_readable_name(row['to'],self.main_address),axis=1)
-        df['from'] = df.apply(lambda row: _convert_one_to_hex(row['from']),axis=1)
+        df['from'] = df.apply(lambda row: convert_one_to_hex(row['from']),axis=1)
         df['from_mapped'] = df.apply(lambda row: _map_address_to_readable_name(row['from'],self.main_address),axis=1)
         df['transactionIndex'] = df['transactionIndex']
         df['value'] = df['value'] / 10e17
