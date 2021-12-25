@@ -1,5 +1,6 @@
 import pytest
-from django.test import TestCase
+
+from django.test import Client
 from unittest.mock import patch
 from web3 import Web3
 
@@ -15,7 +16,7 @@ def sync_task_mock():
         yield mock_task
 
 class TestWalletAddressView:
-    def test_post_success(self, client, sync_task_mock):
+    def test_post_success(self, client: Client, sync_task_mock):
         wallet_address = "0x17d717eb3dd20a202dce9e8e396a444db1af1d28"
 
         response = client.post(
@@ -34,7 +35,7 @@ class TestWalletAddressView:
 
         sync_task_mock.delay.assert_called_with(checksum_address, task.id)
 
-    def test_post_invalid_address_returns_error(self, client, sync_task_mock):
+    def test_post_invalid_address_returns_error(self, client: Client, sync_task_mock):
         response = client.post(
             "/wallet_address/",
             {"wallet_address": "dummy"},
@@ -49,7 +50,7 @@ class TestWalletAddressView:
         sync_task_mock.delay.assert_not_called()
 
 
-    def test_post_does_not_create_new_task_when_task_is_pending_or_in_progress(self, client, sync_task_mock):
+    def test_post_does_not_create_new_task_when_task_is_pending_or_in_progress(self, client: Client, sync_task_mock):
         wallet_address = "0x17d717eb3dd20a202dce9e8e396a444db1af1d28"
         client.post(
             "/wallet_address/",
