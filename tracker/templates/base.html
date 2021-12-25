@@ -1,12 +1,20 @@
-{% load static i18n %}
+{% load static i18n compress %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>DeFi Kingdoms Transaction Tracker</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="DeFi Kingdoms Transaction Tracker">
+
+    <title>DeFi Kingdoms Transaction Tracker</title>
+
+    {% compress css %}
+    <link type="text/x-scss" href="{% static 'scss/base.scss' %}" rel="stylesheet">
+    {% endcompress %}
+
+    {% block css %}
+    {% endblock %}
   </head>
 
   <body>
