@@ -13,19 +13,18 @@ def _convert_timestamp(x):
 def _convert_one_to_hex(x):
     return convert_one_to_hex( x )
 
-def _map_address(x,main_address):
+def _map_address_to_readable_name(address, main_address):
     # Parse with SerendaleContractAddress
+    address = address.lower()
+
     CONTRACT_ADDRESSES = SerendaleContractAddress.CONTRACT_ADDRESS
-    CONTRACT_ADDRESSES['USER'] = main_address
-    for key,values in CONTRACT_ADDRESSES.items():
-        if x.lower() == values.lower():
-            return key
-    # Parse with Tokens
-    TOKEN_ADDRESSES = Tokens.TOKEN_ADDRESS
-    for key,values in TOKEN_ADDRESSES.items():
-        if x.lower() == values.lower():
-            return key
-    return None 
+    CONTRACT_ADDRESSES[main_address.lower()] = "USER"
+    name = CONTRACT_ADDRESSES.get(address, None)
+    if name:
+        return name
+
+    name = Tokens.TOKEN_ADDRESS.get(address, None)
+    return name
 
 class TransactionParser:
     def __init__(self,main_address,main_net='https://rpc.s0.t.hmny.io'):
@@ -53,9 +52,9 @@ class TransactionParser:
         df['input'] = df['input'] # TRANSACTION DATA, for smart contracts
         df['nonce'] = df['nonce']
         df['to'] = df.apply(lambda row: _convert_one_to_hex(row['to']),axis=1)
-        df['to_mapped'] = df.apply(lambda row: _map_address(row['to'],self.main_address),axis=1)
+        df['to_mapped'] = df.apply(lambda row: _map_address_to_readable_name(row['to'],self.main_address),axis=1)
         df['from'] = df.apply(lambda row: _convert_one_to_hex(row['from']),axis=1)
-        df['from_mapped'] = df.apply(lambda row: _map_address(row['from'],self.main_address),axis=1)
+        df['from_mapped'] = df.apply(lambda row: _map_address_to_readable_name(row['from'],self.main_address),axis=1)
         df['transactionIndex'] = df['transactionIndex']
         df['value'] = df['value'] / 10e17
         df['shardID'] = df['shardID']

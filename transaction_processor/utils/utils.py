@@ -69,32 +69,32 @@ def get_transaction_receipt_data(txn_receipt,txn_input,contract_address,main_add
 
     return data
 
-def process_address(address,main_address):
+def process_address(address, main_address):
     assert main_address is not None and isinstance(address,str)
+
+    address = address.lower()
+
     CONTRACT_ADDRESSES = SerendaleContractAddress.CONTRACT_ADDRESS
-    CONTRACT_ADDRESSES['USER'] = main_address
-    for key,values in CONTRACT_ADDRESSES.items():
-        if address.lower() == values.lower():
-            return key
-    TOKEN_ADDRESSES = Tokens.TOKEN_ADDRESS
-    for key,values in TOKEN_ADDRESSES.items():
-        if address.lower() == values.lower():
-            return key
-    return address
+    CONTRACT_ADDRESSES[main_address] = "USER"
+    name = CONTRACT_ADDRESSES.get(address, None)
+    if name:
+        return name
+
+    name = Tokens.TOKEN_ADDRESS.get(address, None)
+    return name
 
 # Removal later
-def _process_address(address,main_address):
-    assert main_address is not None and isinstance(address,str)
+def _process_address(address, main_address):
+    address = address.lower()
+
     CONTRACT_ADDRESSES = SerendaleContractAddress.CONTRACT_ADDRESS
-    CONTRACT_ADDRESSES['USER'] = main_address
-    for key,values in CONTRACT_ADDRESSES.items():
-        if address.lower() == values.lower():
-            return key
-    TOKEN_ADDRESSES = Tokens.TOKEN_ADDRESS
-    for key,values in TOKEN_ADDRESSES.items():
-        if address.lower() == values.lower():
-            return key
-    return address
+    CONTRACT_ADDRESSES[main_address] = "USER"
+    name = CONTRACT_ADDRESSES.get(address, None)
+    if name:
+        return name
+
+    name = Tokens.TOKEN_ADDRESS.get(address, None)
+    return name
 
 def _process_input(_input,_input_type,main_address,list_flag=False):
     #{'uint8', 'bool', 'address[]', 'uint16', 'uint256[]', 'uint256', 'address', 'uint128', 'uint64'}
