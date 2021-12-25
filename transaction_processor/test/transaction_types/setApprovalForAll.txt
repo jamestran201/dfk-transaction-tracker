@@ -1,5 +1,5 @@
 
-[2021/12/12, 21:36:13] || [TXN HASH] 0x9ca13bfb5eb0bc157d82b254aee11c22cdb17e0240bc0d47a3e7e8a2db3d80ff|| 148
+[2021/12/12, 21:36:13] || [TXN HASH] 0x9ca13bfb5eb0bc157d82b254aee11c22cdb17e0240bc0d47a3e7e8a2db3d80ff|| 164
 USER > Serendale_Hero
 gas: 5.2914e-14 [ONE]
 gasPrice: 1e-08 [ONE]

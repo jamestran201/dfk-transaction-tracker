@@ -1,5 +1,5 @@
 
-[2021/11/26, 11:54:40] || [TXN HASH] 0x61bda21c6f951bf2f39c2b548faf172f054ef27482567562f87c874c4659a047|| 815
+[2021/11/26, 11:54:40] || [TXN HASH] 0x61bda21c6f951bf2f39c2b548faf172f054ef27482567562f87c874c4659a047|| 859
 USER > Serendale_UniswapV2Router02
 gas: 2.17769e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -15,7 +15,7 @@ IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 88747166937
 IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
 IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637946852 | uint256
 
-[2021/11/26, 11:54:12] || [TXN HASH] 0x2666c9be348a409c1c58dce2d27cf6fc2044a8ff5d8751e05a5a91a03f2ac8fc|| 816
+[2021/11/26, 11:54:12] || [TXN HASH] 0x2666c9be348a409c1c58dce2d27cf6fc2044a8ff5d8751e05a5a91a03f2ac8fc|| 860
 USER > Serendale_UniswapV2Router02
 gas: 2.02363e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -31,7 +31,7 @@ IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 19402500000
 IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
 IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637946834 | uint256
 
-[2021/11/26, 11:53:54] || [TXN HASH] 0x79c8578598d4c6df984dae4c2b48a339c232b451a336ac714ac493d485d8f740|| 817
+[2021/11/26, 11:53:54] || [TXN HASH] 0x79c8578598d4c6df984dae4c2b48a339c232b451a336ac714ac493d485d8f740|| 861
 USER > Serendale_UniswapV2Router02
 gas: 1.97322e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -47,7 +47,7 @@ IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 23750916865
 IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
 IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637946813 | uint256
 
-[2021/11/26, 11:53:27] || [TXN HASH] 0x152a761bf476069a509b7085e1fe38d2c006f3ff63a2d7d2fa0e8854df71b754|| 818
+[2021/11/26, 11:53:27] || [TXN HASH] 0x152a761bf476069a509b7085e1fe38d2c006f3ff63a2d7d2fa0e8854df71b754|| 862
 USER > Serendale_UniswapV2Router02
 gas: 2.21291e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -63,7 +63,7 @@ IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 11567394522
 IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
 IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637946793 | uint256
 
-[2021/11/26, 11:52:59] || [TXN HASH] 0xe980d6f0498c6159a48bf2aae820f727d7106761a842307e8c5f6e225c61f476|| 819
+[2021/11/26, 11:52:59] || [TXN HASH] 0xe980d6f0498c6159a48bf2aae820f727d7106761a842307e8c5f6e225c61f476|| 863
 USER > Serendale_UniswapV2Router02
 gas: 2.3829e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -79,7 +79,7 @@ IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 72680747156
 IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
 IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637946756 | uint256
 
-[2021/11/26, 11:52:33] || [TXN HASH] 0x2eca5df379194561eeaa621e2ecbf793471680dae9eae3eca5d0fecf59798904|| 820
+[2021/11/26, 11:52:33] || [TXN HASH] 0x2eca5df379194561eeaa621e2ecbf793471680dae9eae3eca5d0fecf59798904|| 864
 USER > Serendale_UniswapV2Router02
 gas: 2.27516e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -95,7 +95,7 @@ IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 13270104579
 IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
 IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637946734 | uint256
 
-[2021/11/26, 11:52:09] || [TXN HASH] 0xa4c1d69576390b0c7f39c1826c92e3d705b0c47ea92fec298491eb0743ad65c9|| 821
+[2021/11/26, 11:52:09] || [TXN HASH] 0xa4c1d69576390b0c7f39c1826c92e3d705b0c47ea92fec298491eb0743ad65c9|| 865
 USER > Serendale_UniswapV2Router02
 gas: 2.23268e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -110,19 +110,3 @@ IUniswapV2Router02.json | function | addLiquidity | 4 | amountAMin | 19725042666
 IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 15693584795791781397768 | uint256
 IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
 IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637946714 | uint256
-
-[2021/11/12, 23:28:47] || [TXN HASH] 0xa236994dac02be1191c3a2ed0d3977094eb46ca75167947bb2433f659f7634e0|| 960
-USER > Serendale_UniswapV2Router02
-gas: 2.13544e-13 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 1063
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-IUniswapV2Router02.json | function | addLiquidity | 0 | tokenA | Serendale_JewelToken | address
-IUniswapV2Router02.json | function | addLiquidity | 1 | tokenB | Avalanche (AVAX) | address
-IUniswapV2Router02.json | function | addLiquidity | 2 | amountADesired | 1530985657729006311089 | uint256
-IUniswapV2Router02.json | function | addLiquidity | 3 | amountBDesired | 79920000000000000000 | uint256
-IUniswapV2Router02.json | function | addLiquidity | 4 | amountAMin | 1377887091956105679980 | uint256
-IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 71928000000000000000 | uint256
-IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
-IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1636778901 | uint256

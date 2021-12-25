@@ -1,5 +1,5 @@
 
-[2021/12/20, 09:30:16] || [TXN HASH] 0xbd4eedf3b43b03699a752b481676bcdb51bab9dc5a26b906d9fba551081671f7|| 45
+[2021/12/20, 09:30:16] || [TXN HASH] 0xbd4eedf3b43b03699a752b481676bcdb51bab9dc5a26b906d9fba551081671f7|| 61
 USER > Serendale_ShvasRune
 gas: 4.8972e-14 [ONE]
 gasPrice: 1e-09 [ONE]
@@ -24,7 +24,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/20, 09:29:42] || [TXN HASH] 0x2958b6a22baba69af3849ffd2f69d214bf6411de160680c5838ca32e1e91105a|| 46
+[2021/12/20, 09:29:42] || [TXN HASH] 0x2958b6a22baba69af3849ffd2f69d214bf6411de160680c5838ca32e1e91105a|| 62
 USER > Serendale_JewelToken
 gas: 4.8922e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -49,7 +49,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/12, 20:27:15] || [TXN HASH] 0xfc98d6f7ccf155557d30dbe82b6f372ef5e99dcd9f1a7ff48926819245e5badf|| 154
+[2021/12/12, 20:27:15] || [TXN HASH] 0xfc98d6f7ccf155557d30dbe82b6f372ef5e99dcd9f1a7ff48926819245e5badf|| 170
 USER > Serendale_JewelToken
 gas: 4.8922e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -74,7 +74,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_AuctionHouse | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/10, 13:58:24] || [TXN HASH] 0x12cbf1ed07bb00beb1652e33b48bfc578733015fa22b7668da98877cca34b8a0|| 158
+[2021/12/10, 13:58:24] || [TXN HASH] 0x12cbf1ed07bb00beb1652e33b48bfc578733015fa22b7668da98877cca34b8a0|| 174
 USER > Euphoria (WAGMI)
 gas: 4.8789e-14 [ONE]
 gasPrice: 2e-09 [ONE]
@@ -99,7 +99,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0xf012702a5f0e54015362cBCA26a26fc90AA832a3 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/03, 07:25:08] || [TXN HASH] 0x711e7b10918e7ebe9c736932b3c74d5a48140b6d034f3df64c60d4aba774527b|| 165
+[2021/12/03, 07:25:08] || [TXN HASH] 0x711e7b10918e7ebe9c736932b3c74d5a48140b6d034f3df64c60d4aba774527b|| 181
 USER > Serendale_JewelToken
 gas: 4.8922e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -124,7 +124,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_xJEWEL | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/27, 01:25:41] || [TXN HASH] 0xa061dd1c18ae332942e39e4b0698bc410ac591bb5dd5a670ba43f2499555af3e|| 209
+[2021/11/27, 01:25:41] || [TXN HASH] 0xa061dd1c18ae332942e39e4b0698bc410ac591bb5dd5a670ba43f2499555af3e|| 225
 USER > Staked WAGMI (sWAGMI)
 gas: 4.4243e-14 [ONE]
 gasPrice: 1.6e-08 [ONE]
@@ -149,7 +149,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0x95066025af40F7f7832f61422802cD1e13C23753 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/27, 01:24:46] || [TXN HASH] 0x7a0967a9e7fa0e4b1d91ca20531dd7515d6a959420146554ce9ddc9248e8d25a|| 210
+[2021/11/27, 01:24:46] || [TXN HASH] 0x7a0967a9e7fa0e4b1d91ca20531dd7515d6a959420146554ce9ddc9248e8d25a|| 226
 USER > Euphoria (WAGMI)
 gas: 2.5154e-14 [ONE]
 gasPrice: 1.6e-08 [ONE]
@@ -174,7 +174,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0xEc6c0B83410c732Ac41Ee8391e35A4fcb0dcc799 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/27, 01:24:00] || [TXN HASH] 0x1fb71db2eb7d89b3c51816a471fe2485d11f379332ff54736c5eb22747d706dd|| 211
+[2021/11/27, 01:24:00] || [TXN HASH] 0x1fb71db2eb7d89b3c51816a471fe2485d11f379332ff54736c5eb22747d706dd|| 227
 USER > Euphoria (WAGMI)
 gas: 2.5154e-14 [ONE]
 gasPrice: 1.6e-08 [ONE]
@@ -199,7 +199,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0xEc6c0B83410c732Ac41Ee8391e35A4fcb0dcc799 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/27, 01:17:59] || [TXN HASH] 0x91d0df250aa1fe59b43123142ffeaf9e1f3b96e00a2c638f7474e8c4ed77b6d5|| 212
+[2021/11/27, 01:17:59] || [TXN HASH] 0x91d0df250aa1fe59b43123142ffeaf9e1f3b96e00a2c638f7474e8c4ed77b6d5|| 228
 USER > Euphoria (WAGMI)
 gas: 4.4354e-14 [ONE]
 gasPrice: 2.5e-08 [ONE]
@@ -224,7 +224,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0xEc6c0B83410c732Ac41Ee8391e35A4fcb0dcc799 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/19, 21:10:48] || [TXN HASH] 0x4c119fff553082b2e0938cf2ef7fc35568baa54e3bb2ac135d627dca13987adb|| 260
+[2021/11/19, 21:10:48] || [TXN HASH] 0x4c119fff553082b2e0938cf2ef7fc35568baa54e3bb2ac135d627dca13987adb|| 276
 USER > Jewel LP Token (JEWEL-LP)
 gas: 4.8789e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -249,7 +249,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MasterGardener | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/19, 21:05:12] || [TXN HASH] 0x03a316f4bb182b26d2ae94db0057e5c182e8416cca4db9749474a23aac42d3e3|| 262
+[2021/11/19, 21:05:12] || [TXN HASH] 0x03a316f4bb182b26d2ae94db0057e5c182e8416cca4db9749474a23aac42d3e3|| 278
 USER > Serendale_JewelToken
 gas: 4.8922e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -274,7 +274,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_UniswapV2Router02 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/18, 16:14:44] || [TXN HASH] 0x3c67b1a697becf2e5ad9fa72e6106bd31dafa67122ad5e9b6eb18757c6c91b6e|| 193
+[2021/12/18, 16:14:44] || [TXN HASH] 0x3c67b1a697becf2e5ad9fa72e6106bd31dafa67122ad5e9b6eb18757c6c91b6e|| 251
 USER > USD Coin (1USDC)
 gas: 6.7219e-12 [ONE]
 gasPrice: 3e-09 [ONE]
@@ -299,7 +299,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0x2fBBCEF71544C461EDfC311F42e3583d5F9675D1 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 120000000000 | uint256
 
-[2021/12/11, 12:59:17] || [TXN HASH] 0xbdebbf64d871e3fd3245371fd119985a79528653fecab4a3df869ff6858d9cf5|| 409
+[2021/12/11, 12:59:17] || [TXN HASH] 0xbdebbf64d871e3fd3245371fd119985a79528653fecab4a3df869ff6858d9cf5|| 467
 USER > 0x751606585FcAa73bf92Cf823b7b6D8A0398a1c99
 gas: 4.8789e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -324,7 +324,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_UniswapV2Router02 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/10, 17:34:13] || [TXN HASH] 0xa2b8629b110235b3a17a5a5d8035726e6db8887df0dbb69f4de0afd53ca93bbc|| 427
+[2021/12/10, 17:34:13] || [TXN HASH] 0xa2b8629b110235b3a17a5a5d8035726e6db8887df0dbb69f4de0afd53ca93bbc|| 485
 USER > Serendale_ShvasRune
 gas: 4.8972e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -349,7 +349,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/10, 17:34:02] || [TXN HASH] 0xc8bb07b25c89a3270c4fa05f180d7beb80fa0835127c3aac5a0bb3f3fb6697ce|| 428
+[2021/12/10, 17:34:02] || [TXN HASH] 0xc8bb07b25c89a3270c4fa05f180d7beb80fa0835127c3aac5a0bb3f3fb6697ce|| 486
 USER > Serendale_JewelToken
 gas: 4.8922e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -374,7 +374,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/02, 12:14:52] || [TXN HASH] 0x566d49e0585d53592fe184d9da1eb003e6a297713974faa2ccdbca0a64411b63|| 674
+[2021/12/02, 12:14:52] || [TXN HASH] 0x566d49e0585d53592fe184d9da1eb003e6a297713974faa2ccdbca0a64411b63|| 718
 USER > Bloater
 gas: 4.8972e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -399,7 +399,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0xe53BF78F8b99B6d356F93F41aFB9951168cca2c6 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/12/02, 12:13:48] || [TXN HASH] 0xbf7664999ca372d221a7deebb30849c0154051d8c62774c1a5c5b231791fdbe6|| 676
+[2021/12/02, 12:13:48] || [TXN HASH] 0xbf7664999ca372d221a7deebb30849c0154051d8c62774c1a5c5b231791fdbe6|| 720
 USER > Rockroot
 gas: 4.8972e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -424,7 +424,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0xe53BF78F8b99B6d356F93F41aFB9951168cca2c6 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/26, 11:59:16] || [TXN HASH] 0x293cecd673e95801ae24e787a786dc4a31528b6076c5e7915c5c3ad4fe2f3da8|| 808
+[2021/11/26, 11:59:16] || [TXN HASH] 0x293cecd673e95801ae24e787a786dc4a31528b6076c5e7915c5c3ad4fe2f3da8|| 852
 USER > 0xE01502Db14929b7733e7112E173C3bCF566F996E
 gas: 4.8789e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -449,7 +449,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MasterGardener | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/26, 11:57:16] || [TXN HASH] 0x1ad2c952412810f52e0824606eda2a81180d7ae48a91ea079c95d5dd0c7c2ef5|| 811
+[2021/11/26, 11:57:16] || [TXN HASH] 0x1ad2c952412810f52e0824606eda2a81180d7ae48a91ea079c95d5dd0c7c2ef5|| 855
 USER > 0xEaB84868f6c8569E14263a5326ECd62F5328a70f
 gas: 4.8789e-14 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -474,7 +474,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MasterGardener | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
 
-[2021/11/22, 15:40:22] || [TXN HASH] 0xa15d62b846ebd7b64ff7289becd7e9dd03df9b3b980c986ecd63388f9be80f34|| 832
+[2021/11/22, 15:40:22] || [TXN HASH] 0xa15d62b846ebd7b64ff7289becd7e9dd03df9b3b980c986ecd63388f9be80f34|| 876
 USER > ETH (1ETH)
 gas: 6.7219e-12 [ONE]
 gasPrice: 3e-09 [ONE]
@@ -499,7 +499,7 @@ IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
 IUniswapV2Pair.json | event | Approval | 1 | spender | 0x2fBBCEF71544C461EDfC311F42e3583d5F9675D1 | address
 IUniswapV2Pair.json | event | Approval | 2 | value | 5000000000000000000 | uint256
 
-[2021/11/14, 19:08:21] || [TXN HASH] 0xf9e39b163aa0a5d14dda6b0b5a56f11482ccb26e91ace1752d06ae00278aef9b|| 942
+[2021/11/14, 19:08:21] || [TXN HASH] 0xf9e39b163aa0a5d14dda6b0b5a56f11482ccb26e91ace1752d06ae00278aef9b|| 986
 USER > USD Coin (1USDC)
 gas: 6.7219e-12 [ONE]
 gasPrice: 3e-09 [ONE]

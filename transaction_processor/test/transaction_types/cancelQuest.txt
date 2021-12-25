@@ -1,5 +1,5 @@
 
-[2021/12/20, 14:01:01] || [TXN HASH] 0x2fdbd6c7ba89fec309376c1f3558edb92c5f5dbd1bb791a79ffdbe725908062c|| 37
+[2021/12/20, 14:01:01] || [TXN HASH] 0x2fdbd6c7ba89fec309376c1f3558edb92c5f5dbd1bb791a79ffdbe725908062c|| 53
 USER > Serendale_QuestCore
 gas: 8.85526e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -18,7 +18,7 @@ QuestCoreV2.json | event | QuestStaminaSpent | 7 | heroId | 66999 | uint256
 QuestCoreV2.json | event | QuestStaminaSpent | 8 | staminaFullAt | 1640052946 | uint256
 QuestCoreV2.json | event | QuestStaminaSpent | 9 | staminaSpent | 10 | uint16
 
-[2021/12/22, 22:50:56] || [TXN HASH] 0x6713aa96f95dc431a53c1e48568fd58152e6ddddc30848510c71ff6220d0cd7c|| 33
+[2021/12/22, 22:50:56] || [TXN HASH] 0x6713aa96f95dc431a53c1e48568fd58152e6ddddc30848510c71ff6220d0cd7c|| 91
 USER > Serendale_QuestCore
 gas: 2.215294e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -41,7 +41,7 @@ QuestCoreV2.json | event | QuestXP | 1 | player | USER | address
 QuestCoreV2.json | event | QuestXP | 2 | heroId | 1544 | uint256
 QuestCoreV2.json | event | QuestXP | 3 | xpEarned | 8 | uint64
 
-[2021/11/30, 01:07:46] || [TXN HASH] 0xec385bdd92b9fe1bde5869a471e7ee2c6c74e1db1a1acdd60e6801433df8a5c9|| 726
+[2021/11/30, 01:07:46] || [TXN HASH] 0xec385bdd92b9fe1bde5869a471e7ee2c6c74e1db1a1acdd60e6801433df8a5c9|| 770
 USER > Serendale_QuestCore
 gas: 4.97497e-13 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -50,7 +50,7 @@ value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
 QuestCoreV2.json | function | cancelQuest | 0 | _heroId | 47381 | uint256
 
-[2021/11/29, 23:55:31] || [TXN HASH] 0xfdeceb98f3ce4a1a7309429224c310bb0a81bdd1559f16e312ad008194b92da9|| 731
+[2021/11/29, 23:55:31] || [TXN HASH] 0xfdeceb98f3ce4a1a7309429224c310bb0a81bdd1559f16e312ad008194b92da9|| 775
 USER > Serendale_QuestCore
 gas: 2.546834e-12 [ONE]
 gasPrice: 1e-08 [ONE]

@@ -16,9 +16,7 @@ class Transaction:
         self.verbose = verbose
         self.info = {}
         self.hero_log = {}
-        # Crystal_{id}: TxHash
-        # or
-        # Hero_{id}: TxHash
+        self.liquiditypool = {}
     
     def get_receipt(self):
         """
@@ -33,15 +31,21 @@ class Transaction:
         receipt += f"(Value) {self.info['value']} ONE\n"
         receipt += f"[bold underline]Token transfers[/]\n"
         if len(self.info['TxTokens']) == 0:
-            receipt += f"N/A\n"
+            receipt += f"-\n"
         else:
             for key,values in self.info['TxTokens'].items():
                 receipt += f"{key}: {values} ({utils.process_address(key,self.main_address)})\n"
         receipt += f"[bold underline]Hero transfers[/]\n"
         if len(self.hero_log) == 0:
-            receipt += f"N/A\n"
+            receipt += f"-\n"
         else:
             for key,values in self.hero_log.items():
+                receipt += f"{key}: {values}\n"
+        receipt += f"[bold underline]Liquidity pool[/]\n"
+        if len(self.liquiditypool) == 0:
+            receipt += f"-\n"
+        else:
+            for key,values in self.liquiditypool.items():
                 receipt += f"{key}: {values}\n"
 
         console.print(receipt,highlight=False)
@@ -124,9 +128,15 @@ class Transaction:
                     self.info['TxHash'],
                     self.info['function']
                     )
-        # TODO
+        # open crystal to summon hero 
+        # need to find example with re-charging crystal w/JEWEL to summon hero
         elif self.info['function'] == 'open':
-            pass
+            self.hero_log = transaction_core.add_hero(
+                    self.hero_log,
+                    self.transaction_data,
+                    self.info['TxHash'],
+                    self.info['function']
+                    )
 
         ### Serendale_MeditationCircle
 
@@ -142,7 +152,7 @@ class Transaction:
         ### Serendale_AuctionHouse
 
         # TODO: it is possible that more events occur when a hero is sold
-        # This might be another transaction though...
+        # This might be another transaction though.
         # Listing hero for auction (only TX fee)
         elif self.info['function'] == 'createAuction':
             pass
@@ -169,13 +179,19 @@ class Transaction:
 
         ### Serendale_MasterGardener
 
-        # TODO
+        # Deposit LP-pairs (also recieve existing pooled governance tokens)
         elif self.info['function'] == 'deposit':
-            pass
-        # TODO
+            self.liquiditypool = transaction_core.deposit(
+                    self.liquiditypool,
+                    self.info['TxTokens']
+                    )
+        # Withdraw LP-pairs (also recieve existing pooled governance tokens)
         elif self.info['function'] == 'withdraw':
-            pass
-        # TODO
+            self.liquiditypool = transaction_core.withdraw(
+                    self.liquiditypool,
+                    self.info['TxTokens']
+                    )
+        # Sum all governance tokens across all LP-pools
         elif self.info['function'] == 'claimRewards':
             pass
 

@@ -10,7 +10,7 @@ from utils.utils import get_transaction_receipt
 from utils.utils import get_transaction_receipt_data
 from utils.utils import process_transaction_data
 
-from tqdm import tqdm
+#/from tqdm import tqdm
 
 from rich.console import Console
 console = Console()
@@ -41,7 +41,7 @@ for main_address in main_addresses:
     txn_parser.get_transactions()
 
     # Get contract address
-    for idx in tqdm(range(txn_parser.n_transactions)):
+    for idx in range(txn_parser.n_transactions):
         df_row = txn_parser.all_transactions.iloc[idx]
         _contract_address_from = df_row['from']
         _contract_address_to = df_row['to']

@@ -1,5 +1,5 @@
 
-[2021/11/28, 23:39:58] || [TXN HASH] 0x27969e1e095fd3f11c5ee3da566014a766e615cea1ebf1886a8f3d1432697099|| 766
+[2021/11/28, 23:39:58] || [TXN HASH] 0x27969e1e095fd3f11c5ee3da566014a766e615cea1ebf1886a8f3d1432697099|| 810
 USER > Serendale_summoning
 gas: 2.12497e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -15,7 +15,7 @@ HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
 HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38120 | uint256
 HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47396 | uint256
 
-[2021/11/28, 23:37:13] || [TXN HASH] 0xe40e6468b8920cefc668cbaece226fcbdff0bbdf4fd0874490a707086752118e|| 768
+[2021/11/28, 23:37:13] || [TXN HASH] 0xe40e6468b8920cefc668cbaece226fcbdff0bbdf4fd0874490a707086752118e|| 812
 USER > Serendale_summoning
 gas: 2.112168e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -31,7 +31,7 @@ HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
 HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38116 | uint256
 HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47393 | uint256
 
-[2021/11/28, 23:34:45] || [TXN HASH] 0xd51a3ca8c0331507b5d91547f117e223f2d077a7f4fd44f78382cf40a257578f|| 770
+[2021/11/28, 23:34:45] || [TXN HASH] 0xd51a3ca8c0331507b5d91547f117e223f2d077a7f4fd44f78382cf40a257578f|| 814
 USER > Serendale_summoning
 gas: 2.128091e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -47,7 +47,7 @@ HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
 HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38112 | uint256
 HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47389 | uint256
 
-[2021/11/28, 23:32:08] || [TXN HASH] 0xd114a9e14d94d7e26b4bfd9c0ff9db3185a33786ce77f8f3de9570a18cf91a6d|| 772
+[2021/11/28, 23:32:08] || [TXN HASH] 0xd114a9e14d94d7e26b4bfd9c0ff9db3185a33786ce77f8f3de9570a18cf91a6d|| 816
 USER > Serendale_summoning
 gas: 2.122589e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -63,7 +63,7 @@ HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
 HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38108 | uint256
 HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47385 | uint256
 
-[2021/11/28, 23:29:42] || [TXN HASH] 0x53b3081c4b70d158bc5611d46fcc90bc6770ec49bf414b1f88e6f20938f14efc|| 775
+[2021/11/28, 23:29:42] || [TXN HASH] 0x53b3081c4b70d158bc5611d46fcc90bc6770ec49bf414b1f88e6f20938f14efc|| 819
 USER > Serendale_summoning
 gas: 2.110703e-12 [ONE]
 gasPrice: 1e-08 [ONE]
@@ -79,7 +79,7 @@ HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
 HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38102 | uint256
 HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47381 | uint256
 
-[2021/11/28, 23:23:04] || [TXN HASH] 0x172f56e02836081d7371222d9fb40195387e6cb806b55456d62ea9514e2e0b20|| 777
+[2021/11/28, 23:23:04] || [TXN HASH] 0x172f56e02836081d7371222d9fb40195387e6cb806b55456d62ea9514e2e0b20|| 821
 USER > Serendale_summoning
 gas: 2.108469e-12 [ONE]
 gasPrice: 1e-08 [ONE]
