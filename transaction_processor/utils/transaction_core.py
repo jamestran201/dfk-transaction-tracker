@@ -1,5 +1,6 @@
 from web3 import Web3
 from utils import utils
+from utils.abi_parser import ABIParser
 
 from rich.console import Console
 console = Console()
@@ -12,6 +13,22 @@ event_hex = {
         }
 
 ETH = "ONE"
+
+def get_LiquidityPair(lp_addr):
+    if lp_addr.lower() == '0xEb579ddcD49A7beb3f205c9fF6006Bb6390F138f'.lower():
+        token0 = 'Serendale_JewelToken' # JewelToken
+        token1 = 'ONE'
+        return (token0,token1)
+    else:
+        try:
+            abi = ABIParser('contracts/abi/IUniswapV2Pair.json').load_json()
+            contract = w3.eth.contract(lp_addr,abi=abi)
+            token0 = contract.functions.token0().call()
+            token1 = contract.functions.token1().call()
+            return (utils.process_address(token0,''),
+                    utils.process_address(token1,''))
+        except:
+            return None
 
 def get_Transfers(transaction_receipt,main_address,verbose=False):
     net_transactions = {}
@@ -70,6 +87,23 @@ def swapETHForExactTokens(net_transactions,amount):
 
     return net_transactions
 
+def deposit(liquidity_pool,net_transactions):
+    for key, value in net_transactions.items():
+        # Get liquidity pairs (deposited txns)
+        if value < 0:
+            tokens = get_LiquidityPair(key)
+            liquidity_pool[f"{tokens[0]}-{tokens[1]}"] = abs(value)
+
+    return liquidity_pool
+
+def withdraw(liquidity_pool,net_transactions):
+    for key, value in net_transactions.items():
+        tokens = get_LiquidityPair(key)
+        if tokens is not None:
+            liquidity_pool[f"{tokens[0]}-{tokens[1]}"] = -1 * value
+
+    return liquidity_pool
+
 """
 Move to utils/hero.py
 """
@@ -83,13 +117,11 @@ def _add_hero(hero_log,transaction_data,tx_hash,_type):
         _id = transaction_data['SaleAuction.json']['event']['AuctionSuccessful'][0]['tokenId'][0]
         hero_log[f"Hero_{_id}"] = tx_hash
 
+    if _type == 'open':
+        _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalOpen'][2]['heroId'][0]
+        hero_log[f"Hero_{_id}"] = tx_hash
+
     return hero_log
 
 def add_hero(hero_log,transaction_data,tx_hash,_type):
     return _add_hero(hero_log,transaction_data,tx_hash,_type)
-
-#abi = ABIParser('contracts/abi/IUniswapV2Pair.json').load_json()
-#jewel_lp = '0xA1221A5BBEa699f507CC00bDedeA05b5d2e32Eba'
-#contract = w3.eth.contract(jewel_lp, abi=abi)
-#token0 = contract.functions.token0().call()
-#token1 = contract.functions.token1().call()
