@@ -1,6 +1,19 @@
 {% extends "base.html" %}
-{% load static %}
+{% load static compress %}
+
+{% block css %}
+  {% compress css %}
+    <link type="text/x-scss" href="{% static 'scss/wallet_address_post.scss' %}" rel="stylesheet">
+  {% endcompress %}
+{% endblock %}
 
 {% block content %}
-  Loading
+<div class="d-flex flex-column justify-content-center vh-100">
+  <div class="d-flex justify-content-center mb-3">
+    <div class="spinner-border text-success" style="width: 3rem; height: 3rem;" role="status"></div>
+  </div>
+
+  <span class="text-center info-text">Your transactions are being processed.</span>
+  <span class="text-center info-text">This will take a couple of minutes.</span>
+</div>
 {% endblock %}

@@ -2,10 +2,6 @@
 @import '../node_modules/bootstrap/scss/variables';
 @import '../node_modules/bootstrap/scss/mixins/_breakpoints.scss';
 
-body {
-  background: #100F21;
-}
-
 h1 {
   color: #FBE375;
 }
@@ -28,11 +24,15 @@ h1 {
 }
 
 input.form-control:focus {
-    border: 1px solid #ced4da;
-    box-shadow: None;
+  border: 1px solid #ced4da;
+  box-shadow: None;
 }
 
 input.form-control.is-invalid:focus {
-    border: 1px solid #ced4da;
-    box-shadow: None;
+  border: 1px solid #ced4da;
+  box-shadow: None;
+}
+
+.btn-primary:focus {
+  box-shadow: None;
 }
