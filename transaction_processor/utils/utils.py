@@ -1,7 +1,10 @@
+import os
+
 from utils.abi_parser import ABIParser
 from contracts.contract_address import SerendaleContractAddress
 from contracts.contract_address import Tokens
 from web3 import Web3
+
 
 def receipt_data():
     data = {}
@@ -14,60 +17,78 @@ def get_transaction_receipt(transaction_hash,main_net='https://rpc.s0.t.hmny.io'
     return w3.eth.get_transaction_receipt(transaction_hash)
 
 def get_transaction_receipt_data(txn_receipt,txn_input,contract_address,main_address,abidir='contracts/abi',main_net='https://rpc.s0.t.hmny.io'):
-    import os
     # Loop through all abis to find function info
     w3 = Web3(Web3.HTTPProvider(main_net))
-    all_abis = [os.path.join(abidir,i) for i in os.listdir(abidir)]
+    abi_parsers = _create_abi_parsers(abidir)
     data = {}
-    for _abi in all_abis:
-        abi_name = _abi.split('/')[-1] # Get abi json name
+    for abi_parser in abi_parsers:
         abi_data = receipt_data() # Set-up empty data
-        abi_parser = ABIParser(_abi) # Get parser
         abi_json = abi_parser.load_json() # load json into parser
-        abi_events = list(abi_parser.get_events().keys()) # get all abi event names
         contract = w3.eth.contract(contract_address,abi=abi_json) # generate web3 contract to parse txn
         try:
-            # Decode txn function & function input
-            decoded_txn_input = contract.decode_function_input(txn_input)
-            func = str(decoded_txn_input[0]).split('Function ')[1].split('(')[0]
-            abi_data['function'][func] = []
-            inputs = decoded_txn_input[1]
-            input_types = abi_parser.get_function_input_types(func)
-            output_types = abi_parser.get_function_output_types(func)
-            # Save function info
-            for key,values in inputs.items():
-                abi_data['function'][func].append(
-                        {
-                            key: (values, input_types[key])
-                            }
-                        )
-
-            # Extract txn receipt 
-            receipts = {}
-            for event in abi_events:
-                abi_data['event'][event] = []
-                try:
-                    receipts[event] = getattr(contract.events,event)().processReceipt(txn_receipt)
-                    if isinstance(receipts[event],tuple):
-                        n_receipts = len(receipts[event])
-                        if n_receipts > 0:
-                            for receipt in receipts[event]:
-                                receipt_inputs = dict(dict(receipt)['args'])
-                                input_types = abi_parser.get_event_input_types(event)
-                                # Save event info
-                                for key,values in receipt_inputs.items():
-                                    abi_data['event'][event].append(
-                                            {
-                                                key: (values, input_types[key])
-                                                }
-                                            )
-                except:
-                    continue
+            abi_data['function'] = _decode_transaction_function(contract, txn_input, abi_parser)
+            abi_data['event'] = _decode_transaction_receipts(contract, abi_parser)
         except:
             continue
-        data[abi_name] = abi_data
+
+        data[abi_parser.abi_name()] = abi_data
 
     return data
+
+def _create_abi_parsers(abi_dir):
+    all_abis = [os.path.join(abi_dir,i) for i in os.listdir(abi_dir)]
+    return [ABIParser(abi) for abi in all_abis]
+
+def _decode_transaction_function(contract, txn_input, abi_parser):
+    """
+    Decode txn function & function input
+    """
+    result = {}
+
+    decoded_txn_input = contract.decode_function_input(txn_input)
+    func = str(decoded_txn_input[0]).split('Function ')[1].split('(')[0]
+    result[func] = []
+
+    inputs = decoded_txn_input[1]
+    input_types = abi_parser.get_function_input_types(func)
+    output_types = abi_parser.get_function_output_types(func)
+    # Save function info
+    for key,values in inputs.items():
+        result[func].append(
+            {
+                key: (values, input_types[key])
+            }
+        )
+
+    return result
+
+def _decode_transaction_receipts(contract, abi_parser):
+    """
+    Extract txn receipt
+    """
+    results = {}
+
+    abi_events = abi_parser.get_event_names()
+    for event in abi_events:
+        results[event] = []
+        try:
+            processed_receipts = getattr(contract.events,event)().processReceipt(txn_receipt)
+            if isinstance(processed_receipts, tuple) and len(processed_receipts) > 0:
+                for receipt in processed_receipts:
+                    receipt_inputs = dict(dict(receipt)['args'])
+                    input_types = abi_parser.get_event_input_types(event)
+                    # Save event info
+                    for key,values in receipt_inputs.items():
+                        results[event].append(
+                            {
+                                key: (values, input_types[key])
+                            }
+                        )
+        except:
+            continue
+
+    return results
+
 
 def process_address(address, main_address):
     assert main_address is not None and isinstance(address,str)
