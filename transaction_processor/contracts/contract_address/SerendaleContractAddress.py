@@ -16,7 +16,6 @@ CONTRACT_ADDRESS = {
     "0x3a4edcf3312f44ef027acfd8c21382a5259936e7": "Serendale_DFKGold",
     "0x13a65b9f8039e2c032bc022171dc05b30c3f2892": "Serendale_AuctionHouse",
     "0x65dea93f7b886c33a78c10343267dd39727778c2": "Serendale_summoning",
-    "0x66f5bfd910cd83d3766c4b39d13730c911b2d286": "Serendale_ShvasRune",
     "0x0594d86b2923076a2316eaea4e1ca286daa142c1": "Serendale_MeditationCircle",
     "0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04": "GaiaTears",
     "0x6e1bc01cc52d165b357c42042cf608159a2b81c1": "Ambertaffy",
