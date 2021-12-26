@@ -22,8 +22,10 @@ warnings.simplefilter("ignore")
 INPUTS
 """
 function_type = 'enter'
-main_addresses = ['***REMOVED***', # My wallet
+main_addresses = [
         '***REMOVED***', # FriskyFox
+        '***REMOVED***', # Raspberry Swirl
+        '***REMOVED***', # baloo3101
         ]
 
 # Writing info into log
@@ -43,6 +45,7 @@ for main_address in main_addresses:
     # Get contract address
     for idx in range(txn_parser.n_transactions):
         df_row = txn_parser.all_transactions.iloc[idx]
+        print(f"{main_address} || {str(idx).zfill(5)} || {df_row['timestamp']}")
         _contract_address_from = df_row['from']
         _contract_address_to = df_row['to']
         _contract_address_from_mapped = df_row['from_mapped']

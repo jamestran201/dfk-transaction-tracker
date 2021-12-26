@@ -11,11 +11,14 @@ console = Console()
 import warnings
 warnings.simplefilter("ignore")
 
+
 """
 INPUTS
 """
-main_addresses = ['***REMOVED***', # Me
+main_addresses = [
         '***REMOVED***', # FriskyFox
+        '***REMOVED***', # Raspberry Swirl
+        '***REMOVED***', # baloo3101
         ]
 verbose = True
 
