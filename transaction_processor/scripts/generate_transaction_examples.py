@@ -5,7 +5,7 @@ import os
 
 from utils.utils import _process_address
 
-from utils.transaction_parser import TransactionParser
+from utils.transaction_parser import TransactionFetcher
 from utils.utils import get_transaction_receipt
 from utils.utils import get_transaction_receipt_data
 from utils.utils import process_transaction_data
@@ -37,7 +37,7 @@ for main_address in main_addresses:
     console.print(f"USER: [magenta] {main_address}")
 
     # Get transaction parser
-    txn_parser = TransactionParser(main_address)
+    txn_parser = TransactionFetcher(main_address)
     txn_parser.get_transactions()
 
     # Get contract address
