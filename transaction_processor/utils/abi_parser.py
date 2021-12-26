@@ -48,7 +48,7 @@ class ABIParser:
         return self._convert_to_dict(_type)
 
     def get_event_names(self):
-        return list(self._convert_to_dict("event").keys())
+        return list(self.get_events().keys())
 
     def get_event_input_types(self,event):
         data = self.get_events()[event]['inputs']
