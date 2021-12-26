@@ -1,156 +1,35 @@
 
-[2021/11/28, 23:39:24] || [TXN HASH] 0x8939499450bb808e327fdb3344d4cb416a5c241df1df8f9660333be671a87277|| 811
-USER > Serendale_summoning
-gas: 1.331056e-12 [ONE]
+[2021/10/05, 22:43:26] || [TXN HASH] 0xecb4af1d9f0671d70a6fc50a215b6f9a82e64c9e3eaa13dfb27c0680ead31c5a|| 302
+USER > 0x0000000000000000000000000000000000000001
+gas: 2.7227e-14 [ONE]
 gasPrice: 1e-08 [ONE]
-nonce: 1256
+nonce: 301
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
-HeroSummoningUpgradeable.json | function | summonCrystal | 0 | _summonerId | 12781 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 42921 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 2 | _summonerTears | 70 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 3 | _assistantTears | 70 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | 0x0000000000000000000000000000000000000000 | address
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 42921 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 48393 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 175000000000000000000 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 0 | owner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 1 | crystalId | 38120 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 2 | summonerId | 12781 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 3 | assistantId | 42921 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 4 | generation | 5 | uint16
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 5 | createdBlock | 19889553 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
-
-[2021/11/28, 23:36:27] || [TXN HASH] 0x9307cfbde1b93cc90e0acabd34c978962126cdfa03a3274e3df022cc78a97c48|| 813
-USER > Serendale_summoning
-gas: 1.31402e-12 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 1254
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-HeroSummoningUpgradeable.json | function | summonCrystal | 0 | _summonerId | 9359 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 369 | uint256
+HeroSummoningUpgradeable.json | function | summonCrystal | 0 | _summonerId | 1 | uint256
+HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 24 | uint256
 HeroSummoningUpgradeable.json | function | summonCrystal | 2 | _summonerTears | 10 | uint16
 HeroSummoningUpgradeable.json | function | summonCrystal | 3 | _assistantTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | 0x0000000000000000000000000000000000000000 | address
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 369 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 47927 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 42000000000000000000 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 0 | owner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 1 | crystalId | 38116 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 2 | summonerId | 9359 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 3 | assistantId | 369 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 4 | generation | 2 | uint16
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 5 | createdBlock | 19889498 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
+HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | None | address
 
-[2021/11/28, 23:33:52] || [TXN HASH] 0x0bb96cb039bc83d8a9401d2ed5cb8512f8ca56017ce3d9641135605a4df84107|| 815
-USER > Serendale_summoning
-gas: 1.313811e-12 [ONE]
+[2021/10/06, 21:59:46] || [TXN HASH] 0x0b69c82fa3c0fea4bca333a6f9b8fb767cae932e5b17d2d34b89c514e3057743|| 313
+USER > 0xa2D001C829328aa06a2DB2740c05ceE1bFA3c6bb
+gas: 1.009615e-12 [ONE]
 gasPrice: 1e-08 [ONE]
-nonce: 1252
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-HeroSummoningUpgradeable.json | function | summonCrystal | 0 | _summonerId | 1544 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 1234 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 2 | _summonerTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 3 | _assistantTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | 0x0000000000000000000000000000000000000000 | address
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 1234 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 47692 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 47500000000000000000 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 0 | owner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 1 | crystalId | 38112 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 2 | summonerId | 1544 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 3 | assistantId | 1234 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 4 | generation | 1 | uint16
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 5 | createdBlock | 19889448 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
-
-[2021/11/28, 23:31:16] || [TXN HASH] 0xe6cbc98ae9b8fbca85c3ffb28cac3b08db1ec1a5c8c06ae831c7d12559ba55d1|| 817
-USER > Serendale_summoning
-gas: 1.330245e-12 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 1250
+nonce: 312
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
 HeroSummoningUpgradeable.json | function | summonCrystal | 0 | _summonerId | 24 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 251 | uint256
+HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 1544 | uint256
 HeroSummoningUpgradeable.json | function | summonCrystal | 2 | _summonerTears | 10 | uint16
 HeroSummoningUpgradeable.json | function | summonCrystal | 3 | _assistantTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | 0x0000000000000000000000000000000000000000 | address
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 251 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 47901 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 35000000000000000000 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | None | address
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 0 | owner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 1 | crystalId | 38108 | uint256
+HeroSummoningUpgradeable.json | event | CrystalSummoned | 1 | crystalId | 7 | uint256
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 2 | summonerId | 24 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 3 | assistantId | 251 | uint256
+HeroSummoningUpgradeable.json | event | CrystalSummoned | 3 | assistantId | 1544 | uint256
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 4 | generation | 1 | uint16
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 5 | createdBlock | 19889398 | uint256
+HeroSummoningUpgradeable.json | event | CrystalSummoned | 5 | createdBlock | 17882088 | uint256
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 | uint8
 HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
-
-[2021/11/28, 23:27:13] || [TXN HASH] 0xcb8c03027e509ccd450f634ae2cb3bba2888c42a7d9476e5668e5ee00be73239|| 820
-USER > Serendale_summoning
-gas: 1.325949e-12 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 1247
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-HeroSummoningUpgradeable.json | function | summonCrystal | 0 | _summonerId | 1438 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 1441 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 2 | _summonerTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 3 | _assistantTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | 0x0000000000000000000000000000000000000000 | address
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 1441 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 46910 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 35000000000000000000 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 0 | owner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 1 | crystalId | 38102 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 2 | summonerId | 1438 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 3 | assistantId | 1441 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 4 | generation | 1 | uint16
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 5 | createdBlock | 19889316 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
-
-[2021/11/28, 23:21:56] || [TXN HASH] 0x7f850498f05cc7c682ddf7e147c0287cdc22e29918855ce66dd61f233fd6010a|| 822
-USER > Serendale_summoning
-gas: 1.330352e-12 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 1245
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-HeroSummoningUpgradeable.json | function | summonCrystal | 0 | _summonerId | 1365 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 1 | _assistantId | 970 | uint256
-HeroSummoningUpgradeable.json | function | summonCrystal | 2 | _summonerTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 3 | _assistantTears | 10 | uint16
-HeroSummoningUpgradeable.json | function | summonCrystal | 4 | _bonusItem | 0x0000000000000000000000000000000000000000 | address
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 970 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 48474 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 28000000000000000000 | uint256
-HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 0 | owner | USER | address
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 1 | crystalId | 38094 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 2 | summonerId | 1365 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 3 | assistantId | 970 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 4 | generation | 1 | uint16
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 5 | createdBlock | 19889217 | uint256
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 6 | summonerTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 7 | assistantTears | 0 | uint8
-HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | 0x0000000000000000000000000000000000000000 | address
+HeroSummoningUpgradeable.json | event | CrystalSummoned | 8 | bonusItem | None | address

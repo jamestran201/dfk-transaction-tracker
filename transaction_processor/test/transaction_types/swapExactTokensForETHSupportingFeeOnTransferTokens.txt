@@ -1,0 +1,26 @@
+
+[2021/09/02, 11:19:07] || [TXN HASH] 0x03cc65802c637eaf4eeed51844a97f8368bfc29b01822c5fa292f3184ad422a1|| 106
+USER > Serendale_UniswapV2Router02
+gas: 7.0871e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 105
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 0 | amountIn | 51298838173749273581035314 | uint256
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 1 | amountOutMin | 152962095993230103255 | uint256
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 2 | path | ['BABYJEWEL (BABYJEWEL)', 'Wrapped ONE (WONE)'] | address[]
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 3 | to | USER | address
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 4 | deadline | 1630597130 | uint256
+
+[2021/10/04, 00:42:44] || [TXN HASH] 0x0b887b801aa4ad0bb1545a9ebe6aa35969df9b0bd8046cc6a71ce3146f86518b|| 278
+USER > Serendale_UniswapV2Router02
+gas: 7.34614e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 277
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 0 | amountIn | 1801247553105958416309581 | uint256
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 1 | amountOutMin | 8665425983723700087 | uint256
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 2 | path | ['BABYJEWEL (BABYJEWEL)', 'Serendale_JewelToken', 'Wrapped ONE (WONE)'] | address[]
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 3 | to | USER | address
+IUniswapV2Router02.json | function | swapExactTokensForETHSupportingFeeOnTransferTokens | 4 | deadline | 1633323736 | uint256

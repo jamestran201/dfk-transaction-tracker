@@ -1,0 +1,23 @@
+
+[2021/10/06, 22:04:47] || [TXN HASH] 0x9e7ddef1f722a797b11b9ed3ec24fdef8c684b362780786b54563d90112f372d|| 315
+USER > GaiaTears
+gas: 7.7838e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 314
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transfer | 0 | recipient | None | address
+Bank.json | function | transfer | 1 | amount | 40 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 40 | uint256
+ERC20.json | function | transfer | 0 | recipient | None | address
+ERC20.json | function | transfer | 1 | amount | 40 | uint256
+ERC20.json | event | Transfer | 0 | from | USER | address
+ERC20.json | event | Transfer | 1 | to | None | address
+ERC20.json | event | Transfer | 2 | value | 40 | uint256
+IUniswapV2Pair.json | function | transfer | 0 | to | None | address
+IUniswapV2Pair.json | function | transfer | 1 | value | 40 | uint256
+IUniswapV2Pair.json | event | Transfer | 0 | from | USER | address
+IUniswapV2Pair.json | event | Transfer | 1 | to | None | address
+IUniswapV2Pair.json | event | Transfer | 2 | value | 40 | uint256
