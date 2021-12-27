@@ -1,6 +1,6 @@
 import os
 
-from utils.transaction_parser import TransactionParser
+from utils.transaction_parser import TransactionFetcher
 from utils.utils import get_transaction_receipt
 from utils.utils import get_transaction_receipt_data
 from utils.transaction import Transaction
@@ -17,8 +17,8 @@ INPUTS
 """
 main_addresses = [
         #'0xef2539ecc96565063cd744076f705d3c481659c8', # Account that sold My Wallet Overlan Vorlas
-        '***REMOVED***', # My Wallet
-        #'***REMOVED***', # FriskyFox
+        #'***REMOVED***', # My Wallet
+        '***REMOVED***', # FriskyFox
         #'***REMOVED***', # Raspberry Swirl
         #'***REMOVED***', # baloo3101
         ]
@@ -28,11 +28,10 @@ for main_address in main_addresses:
 
     console.print(f"USER: [magenta] {main_address}[/]")
     # Get transaction parser
-    txn_parser = TransactionParser(main_address)
+    txn_parser = TransactionFetcher(main_address)
     txn_parser.get_transactions()
     # Get contract address
     for idx in range(txn_parser.n_transactions):
-        #
         df_row = txn_parser.all_transactions.iloc[idx]
         transaction_receipt = get_transaction_receipt(df_row['TxHash'])
         transaction_data = get_transaction_receipt_data(

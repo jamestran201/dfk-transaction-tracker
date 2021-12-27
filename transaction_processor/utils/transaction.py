@@ -64,6 +64,7 @@ class Transaction:
         self.info['status'] = dict(self.transaction_receipt)['status']
         # Basic transaction info
         self.info['TxHash'] = self.transaction_df['TxHash']
+        print(self.info['TxHash'])
         self.info['timestamp'] = self.transaction_df['timestamp']
         self.info['to'] = self.transaction_df['to']
         self.info['from'] = self.transaction_df['from']
@@ -155,7 +156,6 @@ class Transaction:
         # Listing hero for auction (only TX fee)
         # Also, uses graphQL to query if the hero has sold
         # Hero is sold at .9675 of purchased price (dfk recieves 3.75% of hero sales)
-        # TODO
         elif self.info['function'] == 'createAuction':
             self.info['TxTokens'], self.hero_log = transaction_core.createAuction(
                     self.info['TxTokens'],
@@ -203,6 +203,9 @@ class Transaction:
         # Sum all governance tokens across all LP-pools
         elif self.info['function'] == 'claimRewards':
             pass
+        # Sum governance token from a LP-pool
+        elif self.info['function'] == 'claimReward':
+            pass
 
         ### Serendale_xJEWEL
         
@@ -211,6 +214,10 @@ class Transaction:
             pass
         # Swap JEWEL for xJEWEL
         elif self.info['function'] == 'leave':
+            pass
+
+        ### Serendale_JewelToken
+        elif self.info['function'] == 'transfer':
             pass
 
         ### Other
@@ -231,5 +238,3 @@ class Transaction:
         # Print receipt
         if self.verbose:
             self.get_receipt()
-
-#transfer

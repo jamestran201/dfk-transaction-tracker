@@ -114,7 +114,6 @@ def createAuction(net_transactions,hero_log,transaction_data):
     _id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][1]['tokenId'][0]
     auction_id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][2]['auctionId'][0]
     price = transaction_data['SaleAuction.json']['event']['AuctionCreated'][3]['startingPrice'][0]
-    
     if hero.check_hero_sold(auction_id):
         profit = price * (1-hero.HEROTAX)
         hero_log[f"subtractHero_{_id}"] = profit
