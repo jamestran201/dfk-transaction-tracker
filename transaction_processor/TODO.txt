@@ -1,0 +1,2 @@
+createAuction -> Serendale_Summoning = Renting 
+createAuction -> Serendale_AuctionHouse = Sale of hero

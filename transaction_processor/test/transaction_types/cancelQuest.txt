@@ -1,0 +1,19 @@
+
+[2021/12/20, 14:01:01] || [TXN HASH] 0x2fdbd6c7ba89fec309376c1f3558edb92c5f5dbd1bb791a79ffdbe725908062c|| 228
+USER > Serendale_QuestCore
+gas: 8.85526e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 219
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+QuestCoreV2.json | function | cancelQuest | 0 | _heroId | 52310 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 0 | questId | 1376180 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 1 | player | USER | address
+QuestCoreV2.json | event | QuestStaminaSpent | 2 | heroId | 52310 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 3 | staminaFullAt | 1640050756 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 4 | staminaSpent | 10 | uint16
+QuestCoreV2.json | event | QuestStaminaSpent | 5 | questId | 1376180 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 6 | player | USER | address
+QuestCoreV2.json | event | QuestStaminaSpent | 7 | heroId | 66999 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 8 | staminaFullAt | 1640052946 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 9 | staminaSpent | 10 | uint16
