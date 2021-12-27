@@ -28,6 +28,18 @@ class TransactionFetcher:
         self.main_address = main_address
         self.main_net = main_net
 
+    def _is_txn_relevant(self, transaction):
+        to_address = convert_one_to_hex(transaction["to"]).lower()
+        from_address = convert_one_to_hex(transaction["from"]).lower()
+
+        return to_address in SerendaleContractAddress.CONTRACT_ADDRESS or \
+                    to_address in Tokens.TOKEN_ADDRESS or \
+                    from_address in SerendaleContractAddress.CONTRACT_ADDRESS or \
+                    from_address in Tokens.TOKEN_ADDRESS
+
+    def _select_defi_kingdoms_txn(self, all_txns):
+        return [txn for txn in all_txns if self._is_txn_relevant(txn)]
+
     def _get_transactions(self):
         """
         Newest transactions are indexed earlier
@@ -43,7 +55,9 @@ class TransactionFetcher:
         return all_txns
 
     def _process(self,all_txns):
-        df = pd.DataFrame.from_dict(all_txns)
+        filtered_txns = self._select_defi_kingdoms_txn(all_txns)
+        df = pd.DataFrame.from_dict(filtered_txns)
+
         df['blockHash'] = df['blockHash']
         df['blockNumber'] = df['blockNumber']
         df['timestamp'] = df.apply(lambda row: _convert_timestamp(row['timestamp']),axis=1)
