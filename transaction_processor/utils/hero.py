@@ -20,15 +20,26 @@ def check_hero_sold(auction_id):
     }}"""
     r = api_call(query)
     json_data = json.loads(r.text)
-    sold_hero_flag = (json_data['data']['saleAuction']['winner'] is not None)
+    try:
+        sold_hero_flag = (json_data['data']['saleAuction']['winner'] is not None)
+    # There are cases where the graphql query returns null
+    # In these cases, it is assumed that the sale was not successful.
+    except:
+        sold_hero_flag = False
     
     return sold_hero_flag
  
 def add_hero(hero_log,transaction_data,tx_hash,_type):
 
     if _type == 'summonCrystal':
-        _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalSummoned'][1]['crystalId'][0]
-        hero_log[f"Crystal_{_id}"] = tx_hash
+
+        # [TxHASH: 0xecb4af1d9f0671d70a6fc50a215b6f9a82e64c9e3eaa13dfb27c0680ead31c5a] TXN receipt has no events (not sure why this is)
+        # However, I don't think a crystal was summoned in this transaction.
+        try:
+            _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalSummoned'][1]['crystalId'][0]
+            hero_log[f"Crystal_{_id}"] = tx_hash
+        except:
+            return hero_log
 
     if _type == 'bid':
         _id = transaction_data['SaleAuction.json']['event']['AuctionSuccessful'][0]['tokenId'][0]

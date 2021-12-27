@@ -1,0 +1,18 @@
+
+[2021/10/10, 20:06:37] || [TXN HASH] 0xa3e6727d0988be9992ad4562d5bc144a10824954eb63a7f13c28f5678ea24819|| 331
+USER > 0xa2D001C829328aa06a2DB2740c05ceE1bFA3c6bb
+gas: 2.38181e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 328
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | rechargeCrystal | 0 | _crystalId | 3834 | uint256
+
+[2021/12/13, 17:12:43] || [TXN HASH] 0xf40935c35bb1ecc717830765abebfb10a235cd8819ba17c32a36f9b82402caba|| 1883
+USER > Serendale_summoning
+gas: 2.3818e-13 [ONE]
+gasPrice: 1.020102e-08 [ONE]
+nonce: 1878
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | rechargeCrystal | 0 | _crystalId | 58950 | uint256

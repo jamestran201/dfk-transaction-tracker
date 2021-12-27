@@ -5,7 +5,7 @@ import os
 
 from utils.utils import _process_address
 
-from utils.transaction_parser import TransactionParser
+from utils.transaction_parser import TransactionFetcher
 from utils.utils import get_transaction_receipt
 from utils.utils import get_transaction_receipt_data
 from utils.utils import process_transaction_data
@@ -24,9 +24,9 @@ INPUTS
 function_type = 'enter'
 main_addresses = [
         #'0x2E7669F61eA77F02445A015FBdcFe2DE47083E02', # FriskyFox
-        #'0xd83d5ebbe238aefb7802506ac8386882b5cc8186', # Raspberry Swirl
+        '0xd83d5ebbe238aefb7802506ac8386882b5cc8186', # Raspberry Swirl
         #'0x4a93a25509947d0744efc310ae23c1a15be7c19b', # baloo3101
-        '0xef2539ecc96565063cd744076f705d3c481659c8',
+        #'0xef2539ecc96565063cd744076f705d3c481659c8',
         ]
 
 # Writing info into log
@@ -40,7 +40,7 @@ for main_address in main_addresses:
     console.print(f"USER: [magenta] {main_address}")
 
     # Get transaction parser
-    txn_parser = TransactionParser(main_address)
+    txn_parser = TransactionFetcher(main_address)
     txn_parser.get_transactions()
 
     # Get contract address

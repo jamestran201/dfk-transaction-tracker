@@ -1,14 +1,140 @@
 
-[2021/11/18, 01:12:41] || [TXN HASH] 0x727283c22431ee9cc7279d2017f9b8dc7be5ad12e7faadb3c760adf1bd7bf17f|| 23
+[2021/08/22, 21:34:43] || [TXN HASH] 0xed306a85a0915f28c457ac225405d8ba907f5a7610e8ee4598cb132d5f983def|| 18
 USER > Serendale_UniswapV2Router02
-gas: 2.28168e-13 [ONE]
+gas: 2.41194e-13 [ONE]
 gasPrice: 1e-08 [ONE]
-nonce: 21
-value: 8979.861066386473 [ONE]
+nonce: 15
+value: 40.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
-IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | USD Coin (1USDC) | address
-IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 2449726331 | uint256
-IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 2437477699 | uint256
-IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 8934961761054539707550 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 13928503914833223321 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 7103536996564943893 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 20400000000000000000 | uint256
 IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
-IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1637217137 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1629683662 | uint256
+
+[2021/08/22, 23:43:07] || [TXN HASH] 0x2ec82c4f74e54d302d3b3da67750bf99ed76f928b9edfbb34b73b28b90c779e4|| 33
+USER > Serendale_UniswapV2Router02
+gas: 2.27935e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 30
+value: 205.09484417166732 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 100000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 90000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 184585359754500587185 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1629691363 | uint256
+
+[2021/08/23, 07:23:46] || [TXN HASH] 0x515d258597e58deae35c5c1801418868ed8565f6df919394232646a203b432d9|| 39
+USER > Serendale_UniswapV2Router02
+gas: 2.28179e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 36
+value: 279.09744871102237 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 100000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 90000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 251187703839920117185 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1629719001 | uint256
+
+[2021/08/23, 11:38:26] || [TXN HASH] 0x38b9ba62e95f9e7147255a0fa46ac4da99bf53d521b96b68efbd91ac5b588b38|| 42
+USER > Serendale_UniswapV2Router02
+gas: 2.40361e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 39
+value: 1548.8928986231685 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 1000000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 900000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 1394003608760851621445 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1629734288 | uint256
+
+[2021/08/23, 17:41:11] || [TXN HASH] 0xeac90b4a8a7975396b466ec44893ad375333bca1cb94d6421a18f3123c186b96|| 48
+USER > Serendale_UniswapV2Router02
+gas: 2.47969e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 45
+value: 15.670332757096302 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 10000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 9000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 14103299481386672804 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1629756043 | uint256
+
+[2021/08/24, 10:32:15] || [TXN HASH] 0x6e18eef2a1529d4b42c740191f2a969b6231dc0a3f14858d6890fe50571f0345|| 52
+USER > Serendale_UniswapV2Router02
+gas: 2.28192e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 49
+value: 844.0472834766838 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 500000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 450000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 759642555129015482958 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1629816709 | uint256
+
+[2021/09/11, 21:46:12] || [TXN HASH] 0x843dccd23cf5d0e60448ea5dbb7fe9c3c45f9507563bc3b263b794b38d0cfa1d|| 151
+USER > Serendale_UniswapV2Router02
+gas: 2.48475e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 148
+value: 10.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 1643166891823242585 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 1626735222905010159 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 9900000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1631412349 | uint256
+
+[2021/11/21, 17:25:44] || [TXN HASH] 0x6823c50f884ff0ed2d44ed6becbc4f715c7f5a62ae64f749108e7e22cdbfba43|| 1214
+USER > Serendale_UniswapV2Router02
+gas: 2.2937e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 1211
+value: 312.75887305085485 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 10000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 9950000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 311195078685600588406 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1637534720 | uint256
+
+[2021/12/04, 16:06:16] || [TXN HASH] 0x52c0c57cce55b76651c7df5197a5f965e6b4e1c73bc72025cd96ffd28895b8d1|| 1623
+USER > Serendale_UniswapV2Router02
+gas: 2.20829e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1620
+value: 23062.00689119971 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Avalanche (AVAX) | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 50000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 45000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 20755806202079742004786 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1638653167 | uint256
+
+[2021/12/26, 22:14:52] || [TXN HASH] 0xc2785138015984f7454e1e836d6347488fe2f588bd98fb9a27736f32d5d9a2c6|| 2404
+USER > Serendale_UniswapV2Router02
+gas: 2.29423e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2398
+value: 1386.4894684865076 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidityETH | 0 | token | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidityETH | 1 | amountTokenDesired | 25000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 2 | amountTokenMin | 24875000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 3 | amountETHMin | 1379557021144074990184 | uint256
+IUniswapV2Router02.json | function | addLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidityETH | 5 | deadline | 1640576072 | uint256

@@ -1,130 +1,1092 @@
 
-[2021/11/28, 22:31:14] || [TXN HASH] 0xcb98fb4c2c230af4eb2941545b2b4a8a03bc8eef10972cc766c3df75b39b18cf|| 185
+[2021/10/07, 18:26:56] || [TXN HASH] 0x702e7086015096e0f6ca052ee227af751df681511ca0a357b0c8072c4cd59d81|| 276
 USER > Serendale_Hero
-gas: 1.12561e-13 [ONE]
+gas: 1.24932e-13 [ONE]
 gasPrice: 1e-08 [ONE]
-nonce: 179
+nonce: 273
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
 Bank.json | function | transferFrom | 0 | sender | USER | address
 Bank.json | function | transferFrom | 1 | recipient | None | address
-Bank.json | function | transferFrom | 2 | amount | 47094 | uint256
+Bank.json | function | transferFrom | 2 | amount | 1625 | uint256
 ERC20.json | function | transferFrom | 0 | sender | USER | address
 ERC20.json | function | transferFrom | 1 | recipient | None | address
-ERC20.json | function | transferFrom | 2 | amount | 47094 | uint256
+ERC20.json | function | transferFrom | 2 | amount | 1625 | uint256
 ERC721.json | function | transferFrom | 0 | from | USER | address
 ERC721.json | function | transferFrom | 1 | to | None | address
-ERC721.json | function | transferFrom | 2 | tokenId | 47094 | uint256
+ERC721.json | function | transferFrom | 2 | tokenId | 1625 | uint256
 ERC721.json | event | Approval | 0 | owner | USER | address
 ERC721.json | event | Approval | 1 | approved | None | address
-ERC721.json | event | Approval | 2 | tokenId | 47094 | uint256
+ERC721.json | event | Approval | 2 | tokenId | 1625 | uint256
 ERC721.json | event | Transfer | 0 | from | USER | address
 ERC721.json | event | Transfer | 1 | to | None | address
-ERC721.json | event | Transfer | 2 | tokenId | 47094 | uint256
+ERC721.json | event | Transfer | 2 | tokenId | 1625 | uint256
 IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
 IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
-IUniswapV2Pair.json | function | transferFrom | 2 | value | 47094 | uint256
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 1625 | uint256
 
-[2021/11/29, 21:05:56] || [TXN HASH] 0xb159e129c482985c958f542d29e5359d788acaedd37aed1b15263b880929ee6d|| 254
+[2021/10/08, 08:47:25] || [TXN HASH] 0x0c3a86056428d138617595b12d85a2de2877615d58ea47931c72be82d4af20c0|| 296
 USER > Serendale_Hero
-gas: 1.12561e-13 [ONE]
+gas: 1.58457e-13 [ONE]
 gasPrice: 1e-08 [ONE]
-nonce: 247
+nonce: 293
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
 Bank.json | function | transferFrom | 0 | sender | USER | address
 Bank.json | function | transferFrom | 1 | recipient | None | address
-Bank.json | function | transferFrom | 2 | amount | 46454 | uint256
+Bank.json | function | transferFrom | 2 | amount | 2317 | uint256
 ERC20.json | function | transferFrom | 0 | sender | USER | address
 ERC20.json | function | transferFrom | 1 | recipient | None | address
-ERC20.json | function | transferFrom | 2 | amount | 46454 | uint256
+ERC20.json | function | transferFrom | 2 | amount | 2317 | uint256
 ERC721.json | function | transferFrom | 0 | from | USER | address
 ERC721.json | function | transferFrom | 1 | to | None | address
-ERC721.json | function | transferFrom | 2 | tokenId | 46454 | uint256
+ERC721.json | function | transferFrom | 2 | tokenId | 2317 | uint256
 ERC721.json | event | Approval | 0 | owner | USER | address
 ERC721.json | event | Approval | 1 | approved | None | address
-ERC721.json | event | Approval | 2 | tokenId | 46454 | uint256
+ERC721.json | event | Approval | 2 | tokenId | 2317 | uint256
 ERC721.json | event | Transfer | 0 | from | USER | address
 ERC721.json | event | Transfer | 1 | to | None | address
-ERC721.json | event | Transfer | 2 | tokenId | 46454 | uint256
+ERC721.json | event | Transfer | 2 | tokenId | 2317 | uint256
 IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
 IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
-IUniswapV2Pair.json | function | transferFrom | 2 | value | 46454 | uint256
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 2317 | uint256
 
-[2021/11/29, 22:42:33] || [TXN HASH] 0xdf323ee16a7c26789eecd631deeee4f281f3bbf63edd494f373647def150a524|| 260
+[2021/10/09, 21:04:47] || [TXN HASH] 0x6a92b2579953d73e59c450437c6e1f5352442ad2fa2fc0bad045ec51443f944f|| 307
 USER > Serendale_Hero
-gas: 1.12561e-13 [ONE]
+gas: 1.58457e-13 [ONE]
 gasPrice: 1e-08 [ONE]
-nonce: 253
+nonce: 304
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
 Bank.json | function | transferFrom | 0 | sender | USER | address
 Bank.json | function | transferFrom | 1 | recipient | None | address
-Bank.json | function | transferFrom | 2 | amount | 46454 | uint256
+Bank.json | function | transferFrom | 2 | amount | 4371 | uint256
 ERC20.json | function | transferFrom | 0 | sender | USER | address
 ERC20.json | function | transferFrom | 1 | recipient | None | address
-ERC20.json | function | transferFrom | 2 | amount | 46454 | uint256
+ERC20.json | function | transferFrom | 2 | amount | 4371 | uint256
 ERC721.json | function | transferFrom | 0 | from | USER | address
 ERC721.json | function | transferFrom | 1 | to | None | address
-ERC721.json | function | transferFrom | 2 | tokenId | 46454 | uint256
+ERC721.json | function | transferFrom | 2 | tokenId | 4371 | uint256
 ERC721.json | event | Approval | 0 | owner | USER | address
 ERC721.json | event | Approval | 1 | approved | None | address
-ERC721.json | event | Approval | 2 | tokenId | 46454 | uint256
+ERC721.json | event | Approval | 2 | tokenId | 4371 | uint256
 ERC721.json | event | Transfer | 0 | from | USER | address
 ERC721.json | event | Transfer | 1 | to | None | address
-ERC721.json | event | Transfer | 2 | tokenId | 46454 | uint256
+ERC721.json | event | Transfer | 2 | tokenId | 4371 | uint256
 IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
 IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
-IUniswapV2Pair.json | function | transferFrom | 2 | value | 46454 | uint256
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 4371 | uint256
 
-[2021/12/05, 22:37:57] || [TXN HASH] 0xc919662c15748997e47dce8d0793cf218af37b8e17099c8dbeb2869bbb88408c|| 1115
+[2021/10/10, 09:30:22] || [TXN HASH] 0x7ffb9fa591cfd1fcd3ced96877eb9a2b94e604275c45c61c3f76f9416c647121|| 321
 USER > Serendale_Hero
-gas: 1.12605e-13 [ONE]
-gasPrice: 2.0000000005e-08 [ONE]
-nonce: 1108
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-Bank.json | function | transferFrom | 0 | sender | USER | address
-Bank.json | function | transferFrom | 1 | recipient | None | address
-Bank.json | function | transferFrom | 2 | amount | 54805 | uint256
-ERC20.json | function | transferFrom | 0 | sender | USER | address
-ERC20.json | function | transferFrom | 1 | recipient | None | address
-ERC20.json | function | transferFrom | 2 | amount | 54805 | uint256
-ERC721.json | function | transferFrom | 0 | from | USER | address
-ERC721.json | function | transferFrom | 1 | to | None | address
-ERC721.json | function | transferFrom | 2 | tokenId | 54805 | uint256
-ERC721.json | event | Approval | 0 | owner | USER | address
-ERC721.json | event | Approval | 1 | approved | None | address
-ERC721.json | event | Approval | 2 | tokenId | 54805 | uint256
-ERC721.json | event | Transfer | 0 | from | USER | address
-ERC721.json | event | Transfer | 1 | to | None | address
-ERC721.json | event | Transfer | 2 | tokenId | 54805 | uint256
-IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
-IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
-IUniswapV2Pair.json | function | transferFrom | 2 | value | 54805 | uint256
-
-[2021/12/07, 01:25:19] || [TXN HASH] 0xeee6b1493473e950eea51ba94b6c71d1842d8c5ac790018b495a1c071e6bde10|| 1228
-USER > Serendale_Hero
-gas: 1.12605e-13 [ONE]
+gas: 1.24919e-13 [ONE]
 gasPrice: 1e-08 [ONE]
-nonce: 1221
+nonce: 318
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
 Bank.json | function | transferFrom | 0 | sender | USER | address
 Bank.json | function | transferFrom | 1 | recipient | None | address
-Bank.json | function | transferFrom | 2 | amount | 56829 | uint256
+Bank.json | function | transferFrom | 2 | amount | 142 | uint256
 ERC20.json | function | transferFrom | 0 | sender | USER | address
 ERC20.json | function | transferFrom | 1 | recipient | None | address
-ERC20.json | function | transferFrom | 2 | amount | 56829 | uint256
+ERC20.json | function | transferFrom | 2 | amount | 142 | uint256
 ERC721.json | function | transferFrom | 0 | from | USER | address
 ERC721.json | function | transferFrom | 1 | to | None | address
-ERC721.json | function | transferFrom | 2 | tokenId | 56829 | uint256
+ERC721.json | function | transferFrom | 2 | tokenId | 142 | uint256
 ERC721.json | event | Approval | 0 | owner | USER | address
 ERC721.json | event | Approval | 1 | approved | None | address
-ERC721.json | event | Approval | 2 | tokenId | 56829 | uint256
+ERC721.json | event | Approval | 2 | tokenId | 142 | uint256
 ERC721.json | event | Transfer | 0 | from | USER | address
 ERC721.json | event | Transfer | 1 | to | None | address
-ERC721.json | event | Transfer | 2 | tokenId | 56829 | uint256
+ERC721.json | event | Transfer | 2 | tokenId | 142 | uint256
 IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
 IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
-IUniswapV2Pair.json | function | transferFrom | 2 | value | 56829 | uint256
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 142 | uint256
+
+[2021/10/10, 09:32:00] || [TXN HASH] 0x3141ddf75d9f66287db4464f330e8f5f916c15996eb3d5edb7b22ed018356834|| 322
+USER > Serendale_Hero
+gas: 1.24932e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 319
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 722 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 722 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 722 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 722 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 722 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 722 | uint256
+
+[2021/10/11, 08:32:23] || [TXN HASH] 0xe24f957d1cfb45d4b163c235e6091a45bd289a85d4797b57ad1daf91392d3881|| 339
+USER > Serendale_Hero
+gas: 1.24932e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 336
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 1628 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 1628 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 1628 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 1628 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 1628 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 1628 | uint256
+
+[2021/10/11, 08:33:55] || [TXN HASH] 0xccffd1460ec9750a49286cd18c8c26190414ea57d092310c46367dbc35b4a9c7|| 340
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 337
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 26 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 26 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 26 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 26 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 26 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 26 | uint256
+
+[2021/10/11, 12:44:49] || [TXN HASH] 0x73215360d8f84802c9342d770fd6f98d2caec53110067f977cd1ff6ecb3c385f|| 348
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 345
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 2 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 2 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 2 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 2 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 2 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 2 | uint256
+
+[2021/10/11, 12:54:26] || [TXN HASH] 0x4934065e8712fb3bcf7d6a0955995d152c1e87d3ee69e60d84c519bc2f4b9b51|| 350
+USER > Serendale_Hero
+gas: 1.41681e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 347
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 3 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 3 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 3 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 3 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 3 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 3 | uint256
+
+[2021/10/12, 13:07:09] || [TXN HASH] 0x0394af567db886a25d4c98eab34423d27123a909dd95a56c7864edf9eff89e1b|| 364
+USER > Serendale_Hero
+gas: 1.24932e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 361
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 5831 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 5831 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 5831 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 5831 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 5831 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 5831 | uint256
+
+[2021/10/19, 08:44:29] || [TXN HASH] 0x49aedc3dfcb9281299ba1c30614953d4932d19372fdf145fc7684fe6f0a7acbf|| 392
+USER > Serendale_Hero
+gas: 1.24932e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 389
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 5432 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 5432 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 5432 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 5432 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 5432 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 5432 | uint256
+
+[2021/10/21, 20:07:21] || [TXN HASH] 0xcf7b5a6c269563c7e81a0a0df2819a1422f67d215f8f73de07a59002a1ded4e7|| 406
+USER > Serendale_Hero
+gas: 1.24906e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 403
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 6 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 6 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 6 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 6 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 6 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 6 | uint256
+
+[2021/10/23, 19:41:29] || [TXN HASH] 0x6ce03b90ff2e1db88c7694f83b8e24a2f2bc9f787ffd5593eb0bf07ae9b0911d|| 412
+USER > Serendale_Hero
+gas: 1.24932e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 409
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 8560 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 8560 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 8560 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 8560 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 8560 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 8560 | uint256
+
+[2021/10/23, 20:33:33] || [TXN HASH] 0xca38677f5b18f99829227d9859dc1719d47bd3f1f7cd81d93e9afefa27cbf802|| 419
+USER > Serendale_Hero
+gas: 1.58457e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 416
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 8965 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 8965 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 8965 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 8965 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 8965 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 8965 | uint256
+
+[2021/10/23, 20:34:11] || [TXN HASH] 0x2d0ea964d087fb342554fb456909c8e90d8b23d92d1b960138e825e71ff70caa|| 420
+USER > Serendale_Hero
+gas: 1.46085e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 417
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 8967 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 8967 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 8967 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 8967 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 8967 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 8967 | uint256
+
+[2021/10/23, 20:34:52] || [TXN HASH] 0xb68b1766ffb8a0748ab8b3ff8569c12cfc9cd4224a3bc45246bf4817617970e1|| 421
+USER > Serendale_Hero
+gas: 1.46085e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 418
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 8968 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 8968 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 8968 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 8968 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 8968 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 8968 | uint256
+
+[2021/11/02, 22:40:15] || [TXN HASH] 0x9f4994ebcb158f5269ec8748ce53712710e5dc53fe1fbfc49284ac4e5bfc4852|| 462
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 459
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 9 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 9 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 9 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 9 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 9 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 9 | uint256
+
+[2021/11/03, 08:40:49] || [TXN HASH] 0xfd5dfadf407859a0e26c26f770b003ec754665e9bb539a63cab10a637c9aa6ea|| 463
+USER > Serendale_Hero
+gas: 1.24906e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 460
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 6 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 6 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 6 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 6 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 6 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 6 | uint256
+
+[2021/11/03, 08:41:27] || [TXN HASH] 0xaa66312f2d35cfd706dd31dd010a7c88da4e371030d6e98acef460bb8f1c25e7|| 464
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 461
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 1950 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 1950 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 1950 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 1950 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 1950 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 1950 | uint256
+
+[2021/11/03, 14:18:44] || [TXN HASH] 0x413d9ad418b3f2bcaecee3d0e4adcd204b78c53428462219cc1976136902c4d6|| 466
+USER > Serendale_Hero
+gas: 1.58444e-13 [ONE]
+gasPrice: 1.1000300435e-07 [ONE]
+nonce: 463
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 10 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 10 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 10 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 10 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 10 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 10 | uint256
+
+[2021/11/03, 15:21:34] || [TXN HASH] 0x02396b49e9b447f92cf455a9d2d965aeb46c2c99a88b9cff38cc9a472b21ec4d|| 467
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 1.1000300435e-07 [ONE]
+nonce: 464
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 134 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 134 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 134 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 134 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 134 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 134 | uint256
+
+[2021/11/03, 22:21:12] || [TXN HASH] 0x4288d48ce4823b5781dbbf7b5666b9b50fdc7045323d3721b6cc86dead44bc09|| 476
+USER > Serendale_Hero
+gas: 1.24906e-13 [ONE]
+gasPrice: 4.969000007e-08 [ONE]
+nonce: 473
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 5 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 5 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 5 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 5 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 5 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 5 | uint256
+
+[2021/11/03, 22:21:32] || [TXN HASH] 0x62dbe584d99c843a0716a39f35752a229281207092aae117abd589e3cc86db2d|| 477
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 4.969000007e-08 [ONE]
+nonce: 474
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 1114 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 1114 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 1114 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 1114 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 1114 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 1114 | uint256
+
+[2021/11/04, 08:12:58] || [TXN HASH] 0x12ddbac2db2b5798bfe5fdce9fd7de30fa8a39fea42a7a72c06befb30a6fa52c|| 488
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 4.9760000275e-08 [ONE]
+nonce: 485
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 4 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 4 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 4 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 4 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 4 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 4 | uint256
+
+[2021/11/04, 14:24:13] || [TXN HASH] 0xee1eedfd898ed513ea14fe729f1508bbeaabeae27403d5ff5b9189bc550b1f21|| 520
+USER > Serendale_Hero
+gas: 1.12548e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 517
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 24 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 24 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 24 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 24 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 24 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 24 | uint256
+
+[2021/11/05, 15:28:48] || [TXN HASH] 0x6930daee9fc616849a4b1d26cfee1930520a6afc7153fc50521a80acbdd2eed4|| 594
+USER > Serendale_Hero
+gas: 1.24919e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 591
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 8394 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 8394 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 8394 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 8394 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 8394 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 8394 | uint256
+
+[2021/11/17, 10:47:32] || [TXN HASH] 0x95dcb84321c9221f218eedf32be7cb0dee00ff63f5da0cd3458f218d4ff8d3ae|| 1164
+USER > Serendale_Hero
+gas: 1.24932e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1161
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 10485 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 10485 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 10485 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 10485 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 10485 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 10485 | uint256
+
+[2021/11/17, 10:48:23] || [TXN HASH] 0xa53c5d959ccd7db025ae3cf4bee2a4a1157d11a4f20e4c6a4d4ba81ccec02f55|| 1165
+USER > Serendale_Hero
+gas: 1.58457e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1162
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 10483 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 10483 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 10483 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 10483 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 10483 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 10483 | uint256
+
+[2021/11/17, 10:50:17] || [TXN HASH] 0x7d8fa4db50bdfb972621d8893e325da768797e80864f65fb0beca8fd088e3e39|| 1166
+USER > Serendale_Hero
+gas: 1.58457e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1163
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 10484 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 10484 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 10484 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 10484 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 10484 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 10484 | uint256
+
+[2021/11/21, 13:42:16] || [TXN HASH] 0x037ae8a3dcca147f9afcd26ce1a4b56038f233a017f072e264f26c12f203c0a0|| 1200
+USER > Serendale_Hero
+gas: 1.58457e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 1197
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 10479 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 10479 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 10479 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 10479 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 10479 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 10479 | uint256
+
+[2021/11/28, 19:15:42] || [TXN HASH] 0x038c26c089bb2d1e7d66d03675ac8b42900e88a27bdffd36f6c2278a1bd8045c|| 1287
+USER > Serendale_Hero
+gas: 1.24932e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1284
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 42718 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 42718 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 42718 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 42718 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 42718 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 42718 | uint256
+
+[2021/12/03, 18:08:21] || [TXN HASH] 0xb5653f86ab5b0e3a103d29e2f38a220bf12df92a3700f4ec76690c3d7133b685|| 1570
+USER > Serendale_Hero
+gas: 1.24964e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1567
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 10482 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 10482 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 10482 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 10482 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 10482 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 10482 | uint256
+
+[2021/12/04, 09:49:51] || [TXN HASH] 0x3f809d499339ed8a154822c9c241d242b7f6cabba435f02b1e46e97885c79a6d|| 1608
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1.8e-08 [ONE]
+nonce: 1605
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 2428 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 2428 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 2428 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 2428 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 2428 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 2428 | uint256
+
+[2021/12/04, 09:52:19] || [TXN HASH] 0xd69f57d1d8f939187e5efabd14726366718a116d0050c5d47c376ae2fd5f5fcc|| 1609
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1606
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 4376 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 4376 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 4376 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 4376 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 4376 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 4376 | uint256
+
+[2021/12/04, 09:52:48] || [TXN HASH] 0x98f3f6c740f9adaf56d2cf47baff694bf4523cf54a252eee0dd0fed134f30b53|| 1610
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1607
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 40859 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 40859 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 40859 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 40859 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 40859 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 40859 | uint256
+
+[2021/12/04, 09:57:27] || [TXN HASH] 0xef8fffd88fc0117982602d0f7ba246a08c29239a5d0bec4b1796482dfd725c58|| 1611
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1608
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 51318 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 51318 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 51318 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 51318 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 51318 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 51318 | uint256
+
+[2021/12/04, 09:58:09] || [TXN HASH] 0xb54c82f8ababb8277e880a256871c0e1c6e2c3093d1ab9992c7bf4f2da8d71ab|| 1612
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1609
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 54614 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 54614 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 54614 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 54614 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 54614 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 54614 | uint256
+
+[2021/12/04, 10:10:41] || [TXN HASH] 0xef3acc9372dd5a4d10d3c7b9fb6c8e913fe89f949a9c50eb26072aa9e1c52674|| 1615
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1612
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 4367 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 4367 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 4367 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 4367 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 4367 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 4367 | uint256
+
+[2021/12/04, 10:13:02] || [TXN HASH] 0xb02701e907f6aae81e7bbe24d6595cab504356e1bf4f722f272af70647634cef|| 1616
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1613
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 4377 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 4377 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 4377 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 4377 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 4377 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 4377 | uint256
+
+[2021/12/23, 12:04:45] || [TXN HASH] 0x6994c45c9b211cc2655351a2d1ae59260fb56d39562fc11086ef2a5b71dc04cd|| 2257
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 2251
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 61146 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 61146 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 61146 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 61146 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 61146 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 61146 | uint256
+
+[2021/12/23, 12:07:15] || [TXN HASH] 0xdf8b1f9f09e09e21d3d18044e1a55d5546b6fd272d647f429566c13f9fdbd45d|| 2258
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2252
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 48044 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 48044 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 48044 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 48044 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 48044 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 48044 | uint256
+
+[2021/12/23, 12:10:08] || [TXN HASH] 0x3def43df4dd405445aa61464b46625d8502c529bc412237484b173326f076710|| 2259
+USER > Serendale_Hero
+gas: 1.24977e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2253
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transferFrom | 0 | sender | USER | address
+Bank.json | function | transferFrom | 1 | recipient | None | address
+Bank.json | function | transferFrom | 2 | amount | 8969 | uint256
+ERC20.json | function | transferFrom | 0 | sender | USER | address
+ERC20.json | function | transferFrom | 1 | recipient | None | address
+ERC20.json | function | transferFrom | 2 | amount | 8969 | uint256
+ERC721.json | function | transferFrom | 0 | from | USER | address
+ERC721.json | function | transferFrom | 1 | to | None | address
+ERC721.json | function | transferFrom | 2 | tokenId | 8969 | uint256
+ERC721.json | event | Approval | 0 | owner | USER | address
+ERC721.json | event | Approval | 1 | approved | None | address
+ERC721.json | event | Approval | 2 | tokenId | 8969 | uint256
+ERC721.json | event | Transfer | 0 | from | USER | address
+ERC721.json | event | Transfer | 1 | to | None | address
+ERC721.json | event | Transfer | 2 | tokenId | 8969 | uint256
+IUniswapV2Pair.json | function | transferFrom | 0 | from | USER | address
+IUniswapV2Pair.json | function | transferFrom | 1 | to | None | address
+IUniswapV2Pair.json | function | transferFrom | 2 | value | 8969 | uint256

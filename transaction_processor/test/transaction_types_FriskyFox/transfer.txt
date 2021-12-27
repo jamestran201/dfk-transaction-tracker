@@ -1,0 +1,106 @@
+
+[2021/10/06, 22:04:47] || [TXN HASH] 0x9e7ddef1f722a797b11b9ed3ec24fdef8c684b362780786b54563d90112f372d|| 315
+USER > GaiaTears
+gas: 7.7838e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 314
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transfer | 0 | recipient | None | address
+Bank.json | function | transfer | 1 | amount | 40 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 40 | uint256
+ERC20.json | function | transfer | 0 | recipient | None | address
+ERC20.json | function | transfer | 1 | amount | 40 | uint256
+ERC20.json | event | Transfer | 0 | from | USER | address
+ERC20.json | event | Transfer | 1 | to | None | address
+ERC20.json | event | Transfer | 2 | value | 40 | uint256
+IUniswapV2Pair.json | function | transfer | 0 | to | None | address
+IUniswapV2Pair.json | function | transfer | 1 | value | 40 | uint256
+IUniswapV2Pair.json | event | Transfer | 0 | from | USER | address
+IUniswapV2Pair.json | event | Transfer | 1 | to | None | address
+IUniswapV2Pair.json | event | Transfer | 2 | value | 40 | uint256
+
+[2021/11/05, 10:14:12] || [TXN HASH] 0x6830d768bbb0e249632e47c9b7002d9151eb6d9b48a298104ec03c570a08e9af|| 573
+USER > 0x3eaD000E9c94e0aDFF47961648b18606396DEBEb
+gas: 1e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 572
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transfer | 0 | recipient | None | address
+Bank.json | function | transfer | 1 | amount | 500000000000000000000 | uint256
+ERC20.json | function | transfer | 0 | recipient | None | address
+ERC20.json | function | transfer | 1 | amount | 500000000000000000000 | uint256
+IUniswapV2Pair.json | function | transfer | 0 | to | None | address
+IUniswapV2Pair.json | function | transfer | 1 | value | 500000000000000000000 | uint256
+
+[2021/11/05, 10:14:58] || [TXN HASH] 0xa706064eaf1c7d5374767f70e4acf17153df0a6d7de9022620aed91102814dc1|| 574
+USER > Serendale_JewelToken
+gas: 6.7126e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 573
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transfer | 0 | recipient | None | address
+Bank.json | function | transfer | 1 | amount | 500000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 500000000000000000000 | uint256
+ERC20.json | function | transfer | 0 | recipient | None | address
+ERC20.json | function | transfer | 1 | amount | 500000000000000000000 | uint256
+ERC20.json | event | Transfer | 0 | from | USER | address
+ERC20.json | event | Transfer | 1 | to | None | address
+ERC20.json | event | Transfer | 2 | value | 500000000000000000000 | uint256
+IUniswapV2Pair.json | function | transfer | 0 | to | None | address
+IUniswapV2Pair.json | function | transfer | 1 | value | 500000000000000000000 | uint256
+IUniswapV2Pair.json | event | Transfer | 0 | from | USER | address
+IUniswapV2Pair.json | event | Transfer | 1 | to | None | address
+IUniswapV2Pair.json | event | Transfer | 2 | value | 500000000000000000000 | uint256
+
+[2021/11/05, 10:51:34] || [TXN HASH] 0x255bd426e5e3ddb656893941156d57610e353004b96e61e4df20d844d4fccfb7|| 581
+USER > Serendale_JewelToken
+gas: 6.7126e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 580
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transfer | 0 | recipient | None | address
+Bank.json | function | transfer | 1 | amount | 1000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 1000000000000000000000 | uint256
+ERC20.json | function | transfer | 0 | recipient | None | address
+ERC20.json | function | transfer | 1 | amount | 1000000000000000000000 | uint256
+ERC20.json | event | Transfer | 0 | from | USER | address
+ERC20.json | event | Transfer | 1 | to | None | address
+ERC20.json | event | Transfer | 2 | value | 1000000000000000000000 | uint256
+IUniswapV2Pair.json | function | transfer | 0 | to | None | address
+IUniswapV2Pair.json | function | transfer | 1 | value | 1000000000000000000000 | uint256
+IUniswapV2Pair.json | event | Transfer | 0 | from | USER | address
+IUniswapV2Pair.json | event | Transfer | 1 | to | None | address
+IUniswapV2Pair.json | event | Transfer | 2 | value | 1000000000000000000000 | uint256
+
+[2021/12/25, 15:42:04] || [TXN HASH] 0x85709b733392e12752261b62186c55fee352933113d6825fc82b0af2876d0832|| 2090
+USER > Serendale_JewelToken
+gas: 6.7126e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2089
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | transfer | 0 | recipient | None | address
+Bank.json | function | transfer | 1 | amount | 1000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 1000000000000000000000 | uint256
+ERC20.json | function | transfer | 0 | recipient | None | address
+ERC20.json | function | transfer | 1 | amount | 1000000000000000000000 | uint256
+ERC20.json | event | Transfer | 0 | from | USER | address
+ERC20.json | event | Transfer | 1 | to | None | address
+ERC20.json | event | Transfer | 2 | value | 1000000000000000000000 | uint256
+IUniswapV2Pair.json | function | transfer | 0 | to | None | address
+IUniswapV2Pair.json | function | transfer | 1 | value | 1000000000000000000000 | uint256
+IUniswapV2Pair.json | event | Transfer | 0 | from | USER | address
+IUniswapV2Pair.json | event | Transfer | 1 | to | None | address
+IUniswapV2Pair.json | event | Transfer | 2 | value | 1000000000000000000000 | uint256

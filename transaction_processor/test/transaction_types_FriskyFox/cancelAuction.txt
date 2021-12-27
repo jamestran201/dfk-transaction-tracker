@@ -1,0 +1,28 @@
+
+[2021/10/25, 00:21:01] || [TXN HASH] 0x373113727b6b96ea56da79fbdbfa37383497b9d39eedd2fa13c43d5cc5f6d119|| 449
+USER > Serendale_AuctionHouse
+gas: 1.53053e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 448
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 2092 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 2092 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 1125 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 2092 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 2092 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 1125 | uint256
+
+[2021/11/05, 09:50:43] || [TXN HASH] 0x24bbb36f544693f182067c3c88e373955f95bdc40a83e61fbfe3b7047eaac17b|| 560
+USER > Serendale_AuctionHouse
+gas: 1.53053e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 559
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | cancelAuction | 0 | _tokenId | 9359 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 0 | tokenId | 9359 | uint256
+HeroSummoningUpgradeable.json | event | AuctionCancelled | 1 | auctionId | 6341 | uint256
+SaleAuction.json | function | cancelAuction | 0 | _tokenId | 9359 | uint256
+SaleAuction.json | event | AuctionCancelled | 0 | tokenId | 9359 | uint256
+SaleAuction.json | event | AuctionCancelled | 1 | auctionId | 6341 | uint256

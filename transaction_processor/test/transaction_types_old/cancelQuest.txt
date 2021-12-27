@@ -1,0 +1,80 @@
+
+[2021/12/24, 22:44:47] || [TXN HASH] 0x3605aa3da8383403e0fcfdb6c6a5a89193baeb73cd87b1653793a0b12147922a|| 4272
+USER > Serendale_QuestCore
+gas: 1.720812e-12 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 4265
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+QuestCoreV2.json | function | cancelQuest | 0 | _heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestReward | 0 | questId | 1761258 | uint256
+QuestCoreV2.json | event | QuestReward | 1 | player | USER | address
+QuestCoreV2.json | event | QuestReward | 2 | heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestReward | 3 | rewardItem | Serendale_JewelToken | address
+QuestCoreV2.json | event | QuestReward | 4 | itemQuantity | 0 | uint256
+QuestCoreV2.json | event | QuestReward | 5 | questId | 1761258 | uint256
+QuestCoreV2.json | event | QuestReward | 6 | player | USER | address
+QuestCoreV2.json | event | QuestReward | 7 | heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestReward | 8 | rewardItem | None | address
+QuestCoreV2.json | event | QuestReward | 9 | itemQuantity | 1 | uint256
+QuestCoreV2.json | event | QuestReward | 10 | questId | 1761258 | uint256
+QuestCoreV2.json | event | QuestReward | 11 | player | USER | address
+QuestCoreV2.json | event | QuestReward | 12 | heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestReward | 13 | rewardItem | None | address
+QuestCoreV2.json | event | QuestReward | 14 | itemQuantity | 1 | uint256
+QuestCoreV2.json | event | QuestReward | 15 | questId | 1761258 | uint256
+QuestCoreV2.json | event | QuestReward | 16 | player | USER | address
+QuestCoreV2.json | event | QuestReward | 17 | heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestReward | 18 | rewardItem | None | address
+QuestCoreV2.json | event | QuestReward | 19 | itemQuantity | 1 | uint256
+QuestCoreV2.json | event | QuestReward | 20 | questId | 1761258 | uint256
+QuestCoreV2.json | event | QuestReward | 21 | player | USER | address
+QuestCoreV2.json | event | QuestReward | 22 | heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestReward | 23 | rewardItem | None | address
+QuestCoreV2.json | event | QuestReward | 24 | itemQuantity | 1 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 0 | questId | 1761258 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 1 | player | USER | address
+QuestCoreV2.json | event | QuestStaminaSpent | 2 | heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 3 | staminaFullAt | 1640432687 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 4 | staminaSpent | 24 | uint16
+QuestCoreV2.json | event | QuestXP | 0 | questId | 1761258 | uint256
+QuestCoreV2.json | event | QuestXP | 1 | player | USER | address
+QuestCoreV2.json | event | QuestXP | 2 | heroId | 75754 | uint256
+QuestCoreV2.json | event | QuestXP | 3 | xpEarned | 120 | uint64
+
+[2021/12/26, 06:32:15] || [TXN HASH] 0xcc5aa52d2d2c2991cb4a9eb1a4409c378f400230fcf67759824736420e5e7180|| 4522
+USER > Serendale_QuestCore
+gas: 7.52096e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 4515
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+QuestCoreV2.json | function | cancelQuest | 0 | _heroId | 76904 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 0 | questId | 1899811 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 1 | player | USER | address
+QuestCoreV2.json | event | QuestStaminaSpent | 2 | heroId | 76904 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 3 | staminaFullAt | 1640542486 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 4 | staminaSpent | 0 | uint16
+
+[2021/12/26, 22:23:37] || [TXN HASH] 0x56e80809f9ebf5116ab644251709e32d8142a3f39a7c03ca7a6019962d2578c0|| 4653
+USER > Serendale_QuestCore
+gas: 1.124406e-12 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 4646
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+QuestCoreV2.json | function | cancelQuest | 0 | _heroId | 73961 | uint256
+QuestCoreV2.json | event | QuestReward | 0 | questId | 1965461 | uint256
+QuestCoreV2.json | event | QuestReward | 1 | player | USER | address
+QuestCoreV2.json | event | QuestReward | 2 | heroId | 73961 | uint256
+QuestCoreV2.json | event | QuestReward | 3 | rewardItem | Serendale_JewelToken | address
+QuestCoreV2.json | event | QuestReward | 4 | itemQuantity | 0 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 0 | questId | 1965461 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 1 | player | USER | address
+QuestCoreV2.json | event | QuestStaminaSpent | 2 | heroId | 73961 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 3 | staminaFullAt | 1640598391 | uint256
+QuestCoreV2.json | event | QuestStaminaSpent | 4 | staminaSpent | 4 | uint16
+QuestCoreV2.json | event | QuestXP | 0 | questId | 1965461 | uint256
+QuestCoreV2.json | event | QuestXP | 1 | player | USER | address
+QuestCoreV2.json | event | QuestXP | 2 | heroId | 73961 | uint256
+QuestCoreV2.json | event | QuestXP | 3 | xpEarned | 0 | uint64

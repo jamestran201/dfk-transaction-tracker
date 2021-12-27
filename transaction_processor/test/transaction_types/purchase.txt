@@ -1,0 +1,100 @@
+
+[2021/09/30, 20:00:23] || [TXN HASH] 0xd725ff17bd8564fc53a922cc1e39c223008cdda6aa3d6a3351f5afe3b6971413|| 209
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 5.28097e-13 [ONE]
+gasPrice: 1e-06 [ONE]
+nonce: 206
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 5000000000000000000000 | uint256
+HeroSale.json | event | Gen0Purchase | 0 | owner | USER | address
+HeroSale.json | event | Gen0Purchase | 1 | crystalId | 409 | uint256
+HeroSale.json | event | Gen0Purchase | 2 | createdBlock | 17620441 | uint256
+HeroSale.json | event | Gen0Purchase | 3 | purchasePrice | 1204000000000000000000 | uint256
+
+[2021/09/30, 20:01:08] || [TXN HASH] 0x0a3639f078c65e8a3eba8b054b5cb4ad109a267e57998499b79a680ceee94070|| 211
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 4.45074e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 208
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 5000000000000000000000 | uint256
+HeroSale.json | event | Gen0Purchase | 0 | owner | USER | address
+HeroSale.json | event | Gen0Purchase | 1 | crystalId | 992 | uint256
+HeroSale.json | event | Gen0Purchase | 2 | createdBlock | 17620461 | uint256
+HeroSale.json | event | Gen0Purchase | 3 | purchasePrice | 1495500000000000000000 | uint256
+
+[2021/09/30, 20:02:59] || [TXN HASH] 0x106d74b58be42f8efa1799f5d83b760f7bce5027885733f900671776c8265f15|| 213
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 4.45074e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 210
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 5000000000000000000000 | uint256
+HeroSale.json | event | Gen0Purchase | 0 | owner | USER | address
+HeroSale.json | event | Gen0Purchase | 1 | crystalId | 1505 | uint256
+HeroSale.json | event | Gen0Purchase | 2 | createdBlock | 17620514 | uint256
+HeroSale.json | event | Gen0Purchase | 3 | purchasePrice | 1752000000000000000000 | uint256
+
+[2021/09/30, 20:03:01] || [TXN HASH] 0x4ad517c5dab11b8c29ee2dd54cd9d5989fc2efc18b25952cdd4e13b33d60ff1c|| 214
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 4.45074e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 211
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 5000000000000000000000 | uint256
+
+[2021/09/30, 20:05:57] || [TXN HASH] 0x827a8cb93d3c8a1c71f88c66d3d817ea83d28d7a225fc47b147eb722776d4557|| 216
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 4.45061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 213
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 4000000000000000000000 | uint256
+HeroSale.json | event | Gen0Purchase | 0 | owner | USER | address
+HeroSale.json | event | Gen0Purchase | 1 | crystalId | 1742 | uint256
+HeroSale.json | event | Gen0Purchase | 2 | createdBlock | 17620603 | uint256
+HeroSale.json | event | Gen0Purchase | 3 | purchasePrice | 1870500000000000000000 | uint256
+
+[2021/09/30, 20:07:08] || [TXN HASH] 0x5ee1fee21a516c1be49c2ec3c985b6c82fbf170e9041dac4bc8946c53aee0f11|| 218
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 4.45061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 215
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 4000000000000000000000 | uint256
+HeroSale.json | event | Gen0Purchase | 0 | owner | USER | address
+HeroSale.json | event | Gen0Purchase | 1 | crystalId | 1819 | uint256
+HeroSale.json | event | Gen0Purchase | 2 | createdBlock | 17620638 | uint256
+HeroSale.json | event | Gen0Purchase | 3 | purchasePrice | 1909000000000000000000 | uint256
+
+[2021/09/30, 20:08:06] || [TXN HASH] 0x71f882e091e8a3b452a17b46e296057c53257df4e74cfd6bc894d4225e19c58a|| 220
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 4.45061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 217
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 4000000000000000000000 | uint256
+HeroSale.json | event | Gen0Purchase | 0 | owner | USER | address
+HeroSale.json | event | Gen0Purchase | 1 | crystalId | 1863 | uint256
+HeroSale.json | event | Gen0Purchase | 2 | createdBlock | 17620667 | uint256
+HeroSale.json | event | Gen0Purchase | 3 | purchasePrice | 1931000000000000000000 | uint256
+
+[2021/09/30, 20:09:32] || [TXN HASH] 0xe7e86f0bb35180091db08b8a5ef8b89ff8da7f59a66b0a2d8b220192cfe63cde|| 222
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 4.49681e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 219
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | purchase | 0 | _limit | 4000000000000000000000 | uint256
+HeroSale.json | event | Gen0Purchase | 0 | owner | USER | address
+HeroSale.json | event | Gen0Purchase | 1 | crystalId | 1918 | uint256
+HeroSale.json | event | Gen0Purchase | 2 | createdBlock | 17620710 | uint256
+HeroSale.json | event | Gen0Purchase | 3 | purchasePrice | 1958500000000000000000 | uint256

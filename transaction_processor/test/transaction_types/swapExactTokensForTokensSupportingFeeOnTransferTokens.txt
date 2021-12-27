@@ -1,0 +1,13 @@
+
+[2021/10/04, 15:48:08] || [TXN HASH] 0x2b2e09a97f2ad8babb2b1ba8717f728d09bce0a94f4faecf764697da79faa02d|| 242
+USER > Serendale_UniswapV2Router02
+gas: 5.4252e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 239
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactTokensForTokensSupportingFeeOnTransferTokens | 0 | amountIn | 41216170688319 | uint256
+IUniswapV2Router02.json | function | swapExactTokensForTokensSupportingFeeOnTransferTokens | 1 | amountOutMin | 4647122679685033270 | uint256
+IUniswapV2Router02.json | function | swapExactTokensForTokensSupportingFeeOnTransferTokens | 2 | path | ['Kuro Shiba (KURO)', 'Serendale_JewelToken'] | address[]
+IUniswapV2Router02.json | function | swapExactTokensForTokensSupportingFeeOnTransferTokens | 3 | to | USER | address
+IUniswapV2Router02.json | function | swapExactTokensForTokensSupportingFeeOnTransferTokens | 4 | deadline | 1633378076 | uint256

@@ -1,0 +1,1763 @@
+
+[2021/12/10, 17:35:04] || [TXN HASH] 0x8d2ed140b726b9724b5e9abec6f0b9a610590985654f37017e306eedc76d12b0|| 1606
+USER > Serendale_MeditationCircle
+gas: 9.31011e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1605
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 9035 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 9035 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 12082 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 13 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 6 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 9035 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/10, 17:36:38] || [TXN HASH] 0xc08852fed11d27dd9b41aca567772d5a587c26daf5ee49c6d3f419f0fd0c0f0c|| 1608
+USER > Serendale_MeditationCircle
+gas: 9.30894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1607
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 9682 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 9682 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 12085 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 15 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 6 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 9682 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/10, 17:40:00] || [TXN HASH] 0x8b0ede136194f2593475a08aa6769aac9e1b979863a8cc05e361dc6405230b55|| 1612
+USER > Serendale_MeditationCircle
+gas: 9.41661e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1611
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 9828 | uint256
+
+[2021/12/10, 17:40:28] || [TXN HASH] 0x06f45a4dbdcfed6256dc7eeb95e764c0fa27c76b881585671362b55963a04fd9|| 1613
+USER > Serendale_MeditationCircle
+gas: 9.61375e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1612
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 9828 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 9828 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 12095 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 23 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 9828 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 6 | uint8
+
+[2021/12/13, 12:55:47] || [TXN HASH] 0x52ccf08539905afa5d0742eed9bbd7620beb9acc993dbb058acbc03679c510a0|| 1656
+USER > Serendale_MeditationCircle
+gas: 9.36798e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1655
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 47385 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 47385 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20485 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 13 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 7 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 47385 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 6 | uint8
+
+[2021/12/13, 12:57:13] || [TXN HASH] 0x389db582d37eec2cbd8b495b9d262db15f1c15b9c0f39eb9a3d930924cfb5ac5|| 1658
+USER > Serendale_MeditationCircle
+gas: 9.24463e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1657
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15394 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15394 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20489 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 23 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 15394 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/13, 12:58:53] || [TXN HASH] 0x48717f996dafb38383a5aa46b57fcfba0ac1f3f69f5e09530e68962da34defda|| 1660
+USER > Serendale_MeditationCircle
+gas: 9.41435e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1659
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15395 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15395 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20492 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 40 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 2 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15395 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 6 | uint8
+
+[2021/12/13, 13:02:28] || [TXN HASH] 0x30d6333e7c3b39aecf35220804827099710a87c6d8bebdcf213f3171fc0a113d|| 1662
+USER > Serendale_MeditationCircle
+gas: 9.18068e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1661
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 9826 | uint256
+
+[2021/12/13, 13:04:27] || [TXN HASH] 0x2f0efce46cfeb7e49a926f22469a5d0a091cde74abd5b2f457e82e003b7b30a3|| 1663
+USER > Serendale_MeditationCircle
+gas: 9.38563e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1662
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 9826 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 9826 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20499 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 26 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 9826 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 6 | uint8
+
+[2021/12/13, 13:06:17] || [TXN HASH] 0xed55bb5d777143ff6b576278e51a1c21854c04cf09701014dc72b64a90a073b0|| 1665
+USER > Serendale_MeditationCircle
+gas: 9.71476e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1664
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 12781 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 12781 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20513 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 24 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 55 | player | USER | address
+MeditationCircle.json | event | StatUp | 56 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 57 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 58 | increase | 6 | uint8
+MeditationCircle.json | event | StatUp | 59 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 60 | player | USER | address
+MeditationCircle.json | event | StatUp | 61 | heroId | 12781 | uint256
+MeditationCircle.json | event | StatUp | 62 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 63 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 64 | updateType | 6 | uint8
+
+[2021/12/13, 13:10:22] || [TXN HASH] 0x791a67eca57f343f8edb4e65273ec237c39067e22b727f5b0fa250c73a51b0da|| 1667
+USER > Serendale_MeditationCircle
+gas: 9.63489e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1666
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15376 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15376 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20529 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 24 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 6 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 15376 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/13, 13:11:43] || [TXN HASH] 0xae1bb6471579d745fddd22aa74f8169102a304cfdcfc830d4c4aa02c7d50679e|| 1669
+USER > Serendale_MeditationCircle
+gas: 9.23725e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1668
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15379 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15379 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20534 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 39 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 2 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15379 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 6 | uint8
+
+[2021/12/13, 13:13:39] || [TXN HASH] 0xafa144d48f6d357d0f0e914211020de31fdb9f131ff0ecd8abd7f839888e0b9a|| 1671
+USER > Serendale_MeditationCircle
+gas: 9.43644e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1670
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15371 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15371 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20536 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 16 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 15371 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 6 | uint8
+
+[2021/12/13, 13:15:39] || [TXN HASH] 0xe1b962d78d7a2af96739da07c71e86a9ba4d38d90c55d49eed5edc6fb0e3a800|| 1673
+USER > Serendale_MeditationCircle
+gas: 9.2119e-13 [ONE]
+gasPrice: 1.1e-08 [ONE]
+nonce: 1672
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15382 | uint256
+
+[2021/12/13, 13:16:20] || [TXN HASH] 0x1faf42d1c7cb344a0df819a3dd16af8756c450c02d00e29327af7677f1a7d22e|| 1674
+USER > Serendale_MeditationCircle
+gas: 9.33939e-13 [ONE]
+gasPrice: 1.1e-08 [ONE]
+nonce: 1673
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15382 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15382 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20539 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 46 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 5 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 15382 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/13, 13:18:06] || [TXN HASH] 0xd98ee0d2cf9d029ea818b07f11ba294e30524b6651c628757992154c3ee5f91f|| 1676
+USER > Serendale_MeditationCircle
+gas: 9.51439e-13 [ONE]
+gasPrice: 1.1e-08 [ONE]
+nonce: 1675
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 18712 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 18712 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 20543 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 48 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 2 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 18712 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/18, 02:05:38] || [TXN HASH] 0x9fdb9db65a1da1d8ae721ee499d8560bf7542b1cd96077134cb9424af3dbfc25|| 1792
+USER > Serendale_MeditationCircle
+gas: 9.55758e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 1791
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 1 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 1 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 29266 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 42 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 11 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 55 | player | USER | address
+MeditationCircle.json | event | StatUp | 56 | heroId | 1 | uint256
+MeditationCircle.json | event | StatUp | 57 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 58 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 59 | updateType | 6 | uint8
+
+[2021/12/18, 02:06:49] || [TXN HASH] 0x6af6ac5585166924d173fd35da918c161f36fde0580ccf46b77d4217833437df|| 1794
+USER > Serendale_MeditationCircle
+gas: 9.98554e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 1793
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 24 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 24 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 29270 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 45 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 6 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 24 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 6 | uint8
+
+[2021/12/18, 11:06:36] || [TXN HASH] 0xb5623f37d8bbc8632b4a9c2af06503f888b3fa80010580621798fb6deb2625a0|| 1815
+USER > Serendale_MeditationCircle
+gas: 9.4563e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1814
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 1365 | uint256
+
+[2021/12/18, 11:07:07] || [TXN HASH] 0x1893a2b3e7d0562317fbe51cf1798b9cfa989839d75120e8a8d0fd4ab103ad26|| 1816
+USER > Serendale_MeditationCircle
+gas: 9.02786e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1815
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 1365 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 1365 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 29828 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 1365 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 1365 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 1365 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 1365 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 1365 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 26 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 1365 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 2 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 1365 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 6 | uint8
+
+[2021/12/18, 11:08:10] || [TXN HASH] 0x7fe7f176af934c2e2f344187a86687f6bb6ba203990c45332926f542e4ed41c1|| 1818
+USER > Serendale_MeditationCircle
+gas: 9.35711e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1817
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 2092 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 2092 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 29832 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 14 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 6 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 2092 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/18, 11:10:54] || [TXN HASH] 0x01b20e2223a0f134978ee64b09af8d4660c80ee089b0fa2b9a20dc5cf8e8f2ac|| 1821
+USER > Serendale_MeditationCircle
+gas: 9.19051e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1820
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15365 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15365 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 29836 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 46 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 5 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15365 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 6 | uint8
+
+[2021/12/18, 15:49:34] || [TXN HASH] 0x06b340f42192e9a28d983d962fd718d7edb6eb5c839b4385f8a3f553537ae604|| 1836
+USER > Serendale_MeditationCircle
+gas: 9.28664e-13 [ONE]
+gasPrice: 1.7445461127e-08 [ONE]
+nonce: 1835
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 1438 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 1438 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 30209 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 14 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 1438 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/19, 16:54:30] || [TXN HASH] 0x7ef8fdb23bd42be5935e63cb2446eb117a5237053cd2fb11bc099a5ad069de05|| 1862
+USER > Serendale_MeditationCircle
+gas: 9.43903e-13 [ONE]
+gasPrice: 1.3956368901e-08 [ONE]
+nonce: 1861
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15401 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15401 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 32091 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 42 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 12 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 15401 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 6 | uint8
+
+[2021/12/20, 16:02:43] || [TXN HASH] 0x785bdf7ed9b5559909983cb82f03b72b9cfd8c1bcbca2390115c9f19fc18c934|| 1907
+USER > Serendale_MeditationCircle
+gas: 9.54018e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1906
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 1544 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 1544 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 34673 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 25 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 55 | player | USER | address
+MeditationCircle.json | event | StatUp | 56 | heroId | 1544 | uint256
+MeditationCircle.json | event | StatUp | 57 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 58 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 59 | updateType | 6 | uint8
+
+[2021/12/20, 16:04:14] || [TXN HASH] 0xc29523572a32c8f73d651c9eb7a7e4940ddf8f6c07b8bdf9292c529e98dbaadd|| 1909
+USER > Serendale_MeditationCircle
+gas: 9.35524e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1908
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 8942 | uint256
+
+[2021/12/20, 16:04:27] || [TXN HASH] 0xd455736f02a640ff280e9f5f3e405870beb1ca35a4a16c6cf761c41f23aaad46|| 1910
+USER > Serendale_MeditationCircle
+gas: 9.33157e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1909
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 8942 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 8942 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 34684 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 24 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 8942 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/20, 16:05:59] || [TXN HASH] 0x9a05a1b1ad225b60eac662c27bba506c0bc96fef20cd39a1f3ad4059f0f5f85e|| 1912
+USER > Serendale_MeditationCircle
+gas: 9.54158e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1911
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 18714 | uint256
+
+[2021/12/20, 16:06:26] || [TXN HASH] 0x2018f2a1e765eed77c73c8f2042dd1b432136a948632f454dc41c263fb640b39|| 1913
+USER > Serendale_MeditationCircle
+gas: 9.71767e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1912
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 18714 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 18714 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 34688 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 26 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 6 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 18714 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 6 | uint8
+
+[2021/12/20, 16:08:20] || [TXN HASH] 0x8d50409b7bc200de8edf4f50adf01efca1b2711f597c84e1fc088ae394f80272|| 1915
+USER > Serendale_MeditationCircle
+gas: 9.74282e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1914
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 47396 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 47396 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 34701 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 45 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 55 | player | USER | address
+MeditationCircle.json | event | StatUp | 56 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 57 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 58 | increase | 3 | uint8
+MeditationCircle.json | event | StatUp | 59 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 60 | player | USER | address
+MeditationCircle.json | event | StatUp | 61 | heroId | 47396 | uint256
+MeditationCircle.json | event | StatUp | 62 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 63 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 64 | updateType | 6 | uint8
+
+[2021/12/20, 16:13:22] || [TXN HASH] 0xad20d41154c7a8c283bae8b8582ef6ef655f523a38e5c2800ea6737a0e8a2a7b|| 1917
+USER > Serendale_MeditationCircle
+gas: 9.44188e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1916
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 15390 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 15390 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 34708 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 3 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 46 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 2 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 50 | player | USER | address
+MeditationCircle.json | event | StatUp | 51 | heroId | 15390 | uint256
+MeditationCircle.json | event | StatUp | 52 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 53 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 54 | updateType | 6 | uint8
+
+[2021/12/21, 15:55:57] || [TXN HASH] 0xe16c47a99b07641c4b842546312f877b89bd3805eedaa26340b3fdd9c2d93d3d|| 1951
+USER > Serendale_MeditationCircle
+gas: 9.31117e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1950
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 47389 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 47389 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 37697 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 2 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 24 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 2 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 45 | player | USER | address
+MeditationCircle.json | event | StatUp | 46 | heroId | 47389 | uint256
+MeditationCircle.json | event | StatUp | 47 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 48 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 49 | updateType | 6 | uint8
+
+[2021/12/21, 15:56:54] || [TXN HASH] 0x9d6f2484d1053d74aa9f9b3581492835695649dd1b11bd08dba748d0e5840e37|| 1953
+USER > Serendale_MeditationCircle
+gas: 9.21392e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1952
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | completeMeditation | 0 | _heroId | 18719 | uint256
+MeditationCircle.json | event | MeditationCompleted | 0 | player | USER | address
+MeditationCircle.json | event | MeditationCompleted | 1 | heroId | 18719 | uint256
+MeditationCircle.json | event | MeditationCompleted | 2 | meditationId | 37700 | uint256
+MeditationCircle.json | event | StatUp | 0 | player | USER | address
+MeditationCircle.json | event | StatUp | 1 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 2 | stat | 5 | uint256
+MeditationCircle.json | event | StatUp | 3 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 4 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 5 | player | USER | address
+MeditationCircle.json | event | StatUp | 6 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 7 | stat | 7 | uint256
+MeditationCircle.json | event | StatUp | 8 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 9 | updateType | 2 | uint8
+MeditationCircle.json | event | StatUp | 10 | player | USER | address
+MeditationCircle.json | event | StatUp | 11 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 12 | stat | 0 | uint256
+MeditationCircle.json | event | StatUp | 13 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 14 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 15 | player | USER | address
+MeditationCircle.json | event | StatUp | 16 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 17 | stat | 1 | uint256
+MeditationCircle.json | event | StatUp | 18 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 19 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 20 | player | USER | address
+MeditationCircle.json | event | StatUp | 21 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 22 | stat | 6 | uint256
+MeditationCircle.json | event | StatUp | 23 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 24 | updateType | 0 | uint8
+MeditationCircle.json | event | StatUp | 25 | player | USER | address
+MeditationCircle.json | event | StatUp | 26 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 27 | stat | 4 | uint256
+MeditationCircle.json | event | StatUp | 28 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 29 | updateType | 1 | uint8
+MeditationCircle.json | event | StatUp | 30 | player | USER | address
+MeditationCircle.json | event | StatUp | 31 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 32 | stat | 8 | uint256
+MeditationCircle.json | event | StatUp | 33 | increase | 48 | uint8
+MeditationCircle.json | event | StatUp | 34 | updateType | 4 | uint8
+MeditationCircle.json | event | StatUp | 35 | player | USER | address
+MeditationCircle.json | event | StatUp | 36 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 37 | stat | 9 | uint256
+MeditationCircle.json | event | StatUp | 38 | increase | 10 | uint8
+MeditationCircle.json | event | StatUp | 39 | updateType | 5 | uint8
+MeditationCircle.json | event | StatUp | 40 | player | USER | address
+MeditationCircle.json | event | StatUp | 41 | heroId | 18719 | uint256
+MeditationCircle.json | event | StatUp | 42 | stat | 10 | uint256
+MeditationCircle.json | event | StatUp | 43 | increase | 1 | uint8
+MeditationCircle.json | event | StatUp | 44 | updateType | 6 | uint8

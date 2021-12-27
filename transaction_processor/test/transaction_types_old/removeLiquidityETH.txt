@@ -1,0 +1,14 @@
+
+[2021/12/16, 06:32:02] || [TXN HASH] 0xa87b3e723e8e23d210a4a3352dc613394b1053a3aa4b33aade9396dc076a3b1b|| 2602
+USER > Serendale_UniswapV2Router02
+gas: 2.88767e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2595
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | removeLiquidityETH | 0 | token | USD Coin (1USDC) | address
+IUniswapV2Router02.json | function | removeLiquidityETH | 1 | liquidity | 4352127604021058 | uint256
+IUniswapV2Router02.json | function | removeLiquidityETH | 2 | amountTokenMin | 2192874492 | uint256
+IUniswapV2Router02.json | function | removeLiquidityETH | 3 | amountETHMin | 10681180929694993397127 | uint256
+IUniswapV2Router02.json | function | removeLiquidityETH | 4 | to | USER | address
+IUniswapV2Router02.json | function | removeLiquidityETH | 5 | deadline | 1639655488 | uint256

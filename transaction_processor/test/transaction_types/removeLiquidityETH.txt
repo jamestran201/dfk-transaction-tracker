@@ -1,14 +1,14 @@
 
-[2021/12/16, 06:32:02] || [TXN HASH] 0xa87b3e723e8e23d210a4a3352dc613394b1053a3aa4b33aade9396dc076a3b1b|| 2602
+[2021/12/04, 16:08:21] || [TXN HASH] 0x28ee73c3a35b7968daf25d05645f91f0ce1d755e63df839bb41e39490fa81e52|| 1625
 USER > Serendale_UniswapV2Router02
-gas: 2.88767e-13 [ONE]
-gasPrice: 1e-09 [ONE]
-nonce: 2595
+gas: 2.90734e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1622
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
-IUniswapV2Router02.json | function | removeLiquidityETH | 0 | token | USD Coin (1USDC) | address
-IUniswapV2Router02.json | function | removeLiquidityETH | 1 | liquidity | 4352127604021058 | uint256
-IUniswapV2Router02.json | function | removeLiquidityETH | 2 | amountTokenMin | 2192874492 | uint256
-IUniswapV2Router02.json | function | removeLiquidityETH | 3 | amountETHMin | 10681180929694993397127 | uint256
+IUniswapV2Router02.json | function | removeLiquidityETH | 0 | token | Avalanche (AVAX) | address
+IUniswapV2Router02.json | function | removeLiquidityETH | 1 | liquidity | 1045696370327496670275 | uint256
+IUniswapV2Router02.json | function | removeLiquidityETH | 2 | amountTokenMin | 44813999930314094112 | uint256
+IUniswapV2Router02.json | function | removeLiquidityETH | 3 | amountETHMin | 20842822978459134868498 | uint256
 IUniswapV2Router02.json | function | removeLiquidityETH | 4 | to | USER | address
-IUniswapV2Router02.json | function | removeLiquidityETH | 5 | deadline | 1639655488 | uint256
+IUniswapV2Router02.json | function | removeLiquidityETH | 5 | deadline | 1638653288 | uint256

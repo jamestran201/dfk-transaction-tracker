@@ -1,0 +1,1780 @@
+
+[2021/11/27, 09:27:28] || [TXN HASH] 0xfdc8d6799d00c14124d21e7dc5bbe945170908e54dee5709b9188ab1a209da2f|| 131
+USER > Serendale_AuctionHouse
+gas: 4.20193e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 127
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 19966 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 40000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 19966 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 121812 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 40000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 19966 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 40000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 19966 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 121812 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 40000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/28, 07:53:39] || [TXN HASH] 0x99b7ef2de615440be587e9b6a48ce9bb6c924ed341e23dceb2465835f0540824|| 151
+USER > Serendale_AuctionHouse
+gas: 4.20193e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 147
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 45296 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 45296 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 125332 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 45296 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 45296 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 125332 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/28, 07:53:44] || [TXN HASH] 0x61835688370d8663232c78c39f6de7465267956bb3180b8817c8cb41b09cd01f|| 152
+USER > Serendale_AuctionHouse
+gas: 4.20193e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 148
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 45296 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+SaleAuction.json | function | bid | 0 | _tokenId | 45296 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+
+[2021/11/28, 11:22:40] || [TXN HASH] 0xba915a05800873e0f8f887bf7f5c1c46ac88bc9e8c4ad6bb71a91e00f9959248|| 170
+USER > Serendale_AuctionHouse
+gas: 4.24515e-13 [ONE]
+gasPrice: 1.1e-08 [ONE]
+nonce: 164
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 40894 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 88000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 40894 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 124347 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 88000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 40894 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 88000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 40894 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 124347 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 88000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/28, 22:46:52] || [TXN HASH] 0x94fa6a5c45e57eca87c51cf25e2164086cfb961dd6d948c6b49a0069badb0f65|| 187
+USER > Serendale_AuctionHouse
+gas: 4.24515e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 181
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 24117 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 35000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 24117 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 128776 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 35000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 24117 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 35000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 24117 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 128776 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 35000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/29, 01:25:55] || [TXN HASH] 0xbead6cbbf6eda8077fa465e8001f7c5b3ad5c02990b4b6f4e33be0402881d45b|| 193
+USER > Serendale_AuctionHouse
+gas: 4.08015e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 187
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 39834 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 76290000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 39834 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 129411 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 76290000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 39834 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 76290000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 39834 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 129411 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 76290000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/29, 04:00:32] || [TXN HASH] 0x0ed6d121c7cf89f240b8b5888e40bcff0829521297fe9072e14cea5a1edbf645|| 206
+USER > Serendale_AuctionHouse
+gas: 4.08848e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 199
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 40888 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 30000000000000000000 | uint256
+SaleAuction.json | function | bid | 0 | _tokenId | 40888 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 30000000000000000000 | uint256
+
+[2021/11/29, 08:41:06] || [TXN HASH] 0xc1781576e00a77ac645a0323373287d4aa3fe20c8b8b371f799301967475e769|| 216
+USER > Serendale_AuctionHouse
+gas: 4.25348e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 209
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 46454 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 46454 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 131206 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 46454 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 46454 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 131206 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/29, 22:36:34] || [TXN HASH] 0x37c690fdb852974ebca27b56846a82fbcf36505f3a3ebf05b56b505e44296d46|| 257
+USER > Serendale_AuctionHouse
+gas: 4.20193e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 250
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 32425 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 32425 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 135953 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 32425 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 32425 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 135953 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/29, 22:59:59] || [TXN HASH] 0x74714b2bf684af1afc7cb8c96d0ade8769917a81acd0593198cc6c64b4e1f2d2|| 269
+USER > Serendale_AuctionHouse
+gas: 4.20193e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 262
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 15180 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 15180 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 136131 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 15180 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 15180 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 136131 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/29, 23:02:28] || [TXN HASH] 0xffcdb126740f6016f3f2f75196c2b3622a1d836dd5691fab614d6c322d0b6fa1|| 270
+USER > Serendale_AuctionHouse
+gas: 4.20193e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 263
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 39102 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 39102 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 136150 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 39102 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 39102 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 136150 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/30, 00:46:49] || [TXN HASH] 0xe379c8ca969b11969a07f6c1222d9d6b4ac8c443340ac601f7cd6b2fd8505141|| 275
+USER > Serendale_AuctionHouse
+gas: 4.08848e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 268
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 15184 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 15184 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 136686 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 15184 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 15184 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 136686 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/30, 00:46:52] || [TXN HASH] 0x287566acd455336913f1ed6167ee3175c7271d144e912c8f4c755a5d68783e45|| 276
+USER > Serendale_AuctionHouse
+gas: 4.08848e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 269
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 15184 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+SaleAuction.json | function | bid | 0 | _tokenId | 15184 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+
+[2021/11/30, 01:16:39] || [TXN HASH] 0xf84aad775d0044b62a87b26332788d20bb863734bac4882b87132b6dd94df2c5|| 278
+USER > Serendale_AuctionHouse
+gas: 4.08848e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 271
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 32625 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 32625 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 136798 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 32625 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 32625 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 136798 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/30, 01:19:04] || [TXN HASH] 0xa16276bc90274f989362f1bf324c5c4424f1b41d45be67520f2174665a1fa36d|| 279
+USER > Serendale_AuctionHouse
+gas: 4.08848e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 272
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 29269 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 29269 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 136810 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 29269 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 29269 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 136810 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/30, 09:20:21] || [TXN HASH] 0x9f000cc99b706395087b414a90c4e70318f00de93799cf0b1923c52e29207621|| 328
+USER > Serendale_AuctionHouse
+gas: 4.08015e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 321
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 47124 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 47124 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 138928 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 47124 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 47124 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 138928 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/30, 09:33:49] || [TXN HASH] 0xe7ebc20b6f59b18fed3fb62205451f6a339602495016ff8156b915b5d706ad8f|| 332
+USER > Serendale_AuctionHouse
+gas: 4.21026e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 325
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 44997 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 149000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 44997 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 139032 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 149000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 44997 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 149000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 44997 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 139032 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 149000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/11/30, 22:33:38] || [TXN HASH] 0x69dc6cf118003b0a563a49417965148281758be711ffa31f210058e70ecf7b22|| 377
+USER > Serendale_AuctionHouse
+gas: 4.25394e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 370
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 48800 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 48800 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 143437 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 48800 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 48800 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 143437 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/01, 02:44:21] || [TXN HASH] 0x959cbd5aa6ef739b11ce3982e800f37693c4e41dfa4d3a819dfa71a9d6823423|| 416
+USER > Serendale_AuctionHouse
+gas: 4.21072e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 409
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 48910 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 95000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 48910 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 144792 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 95000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 48910 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 95000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 48910 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 144792 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 95000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/01, 06:25:35] || [TXN HASH] 0x8e9e5feb1eea0dcd03f9beba339d100762916c90fedf6d8ed1eb8b85f29ffbb6|| 439
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 432
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 2788 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 100000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 2788 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 145775 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 100000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 2788 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 100000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 2788 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 145775 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 100000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/01, 20:58:16] || [TXN HASH] 0xd5e06742cadf19ddc4de1f4a29eabe4354c82900eeca4444965a8f0f6332d561|| 527
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 520
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 19459 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 109000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 19459 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 150863 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 109000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 19459 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 109000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 19459 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 150863 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 109000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/01, 21:49:35] || [TXN HASH] 0x1fcf98bd9648ce09317daf44c6ebdc920706863c2662e031469571c35f6fbca6|| 532
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 525
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 33201 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 70000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 33201 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 151162 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 70000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 33201 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 70000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 33201 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 151162 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 70000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/02, 02:07:52] || [TXN HASH] 0x9f2651720bf70d71b6f0e26c37743076c133022155f4d99595121a06c069d7bc|| 564
+USER > Serendale_AuctionHouse
+gas: 4.25394e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 557
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 43666 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 62000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 43666 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 152549 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 62000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 43666 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 62000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 43666 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 152549 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 62000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/02, 02:07:56] || [TXN HASH] 0x2dbb3bea367570c3ab88b5d1b7570091e8b3c6d22f14de1d82a69569fd2c0da5|| 565
+USER > Serendale_AuctionHouse
+gas: 4.25394e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 558
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 43666 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 62000000000000000000 | uint256
+SaleAuction.json | function | bid | 0 | _tokenId | 43666 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 62000000000000000000 | uint256
+
+[2021/12/02, 02:09:23] || [TXN HASH] 0xef1ba35fff61d41349ba2de238e49ef838b509c61e71baa239438421afc6fe4e|| 566
+USER > Serendale_AuctionHouse
+gas: 4.21072e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 559
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 45790 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 89000000000000000000 | uint256
+SaleAuction.json | function | bid | 0 | _tokenId | 45790 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 89000000000000000000 | uint256
+
+[2021/12/02, 07:43:21] || [TXN HASH] 0xf4f0e1bb801c57b1a4644d1263837f08ef8ee9a84fe890235dda1bda51104c65|| 596
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 589
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 41713 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 160000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 41713 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 154114 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 160000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 41713 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 160000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 41713 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 154114 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 160000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/02, 21:19:49] || [TXN HASH] 0x12cf9b8758d8a2ffb4e49762e87ee2c7ff45f3b66de2afbe8aaa52ee2c891353|| 655
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 648
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 49791 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 49791 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 158906 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 49791 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 49791 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 158906 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 00:59:45] || [TXN HASH] 0x181399350319e8d07c01bc3c82458942a1f0a762cb007d0dd3a53d490ced9380|| 685
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 678
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 21239 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 62000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 21239 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 160227 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 62000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 21239 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 62000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 21239 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 160227 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 62000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 01:34:58] || [TXN HASH] 0x50a3ade9f13af18c4147f452241a77313c9f3477139ddc795554a2f7d480d246|| 692
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 685
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 48768 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 125000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 48768 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 160419 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 125000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 48768 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 125000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 48768 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 160419 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 125000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 01:36:24] || [TXN HASH] 0xb153189730cda8518be57d2a5f05d1e41016963fb162f2d3a18c3ef3d1f41d40|| 693
+USER > Serendale_AuctionHouse
+gas: 4.08048e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 686
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 44276 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 114000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 44276 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 160427 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 114000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 44276 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 114000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 44276 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 160427 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 114000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 01:41:29] || [TXN HASH] 0x3e694e7886e962bc7c0944b765098133a8010a6673a616d4caa82636b5df49df|| 694
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 687
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 14107 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 94000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 14107 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 160466 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 94000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 14107 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 94000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 14107 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 160466 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 94000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 03:00:51] || [TXN HASH] 0x9373f3bd0acc02f9ff8a1af60d7981dd17cee122682667874f518364c2e20caa|| 701
+USER > Serendale_AuctionHouse
+gas: 4.24561e-13 [ONE]
+gasPrice: 3e-08 [ONE]
+nonce: 694
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 10122 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 10122 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 160895 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 10122 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 10122 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 160895 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 06:11:11] || [TXN HASH] 0x305be44cd371438826b59fc79539cdc3821153774ffea83c56bd4bbcebd90107|| 707
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 700
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 52083 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 200000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 52083 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 161761 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 200000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 52083 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 200000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 52083 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 161761 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 200000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 08:23:06] || [TXN HASH] 0x028010fe76bad57bc86894e69d06c7ec824b1a39e49853894f8eef5db719c129|| 733
+USER > Serendale_AuctionHouse
+gas: 4.08048e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 726
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 42568 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 78000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 42568 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 162383 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 78000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 42568 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 78000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 42568 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 162383 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 78000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/03, 11:42:39] || [TXN HASH] 0x09a73ce9a78353fc21237674c10d65597101687108520e1dfdce72426bfbf377|| 777
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 770
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 49752 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 111000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 49752 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 163590 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 111000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 49752 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 111000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 49752 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 163590 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 111000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/04, 01:53:14] || [TXN HASH] 0xb2f5da0719bf91e98a47d975f45b175ac5c8a9ff2cc3f400592b28406ca08211|| 836
+USER > Serendale_AuctionHouse
+gas: 4.24561e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 829
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 46187 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 148000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 46187 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 167721 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 148000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 46187 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 148000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 46187 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 167721 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 148000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/04, 11:17:17] || [TXN HASH] 0x4218405594b83bee2ac1b8a92a556bd198187f0fd4b91d3427f2d36fc20a0e53|| 916
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 909
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 21738 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 129000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 21738 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 170247 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 129000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 21738 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 129000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 21738 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 170247 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 129000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/04, 12:12:02] || [TXN HASH] 0xb3d4aed331c15714188c56554ddf314dd6d72d50c6f3f01977e0f14449e8a100|| 923
+USER > Serendale_AuctionHouse
+gas: 4.21072e-13 [ONE]
+gasPrice: 3e-08 [ONE]
+nonce: 916
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 50875 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 50875 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 170605 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 50875 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 50875 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 170605 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/04, 19:59:22] || [TXN HASH] 0xfb950fa0dc3b52471b6d151ecd92a2c02e7e701cc59930f7dac15bf0b6b8a7ce|| 946
+USER > Serendale_AuctionHouse
+gas: 4.25394e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 939
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 54348 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 97000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 54348 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 172831 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 97000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 54348 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 97000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 54348 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 172831 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 97000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/05, 01:41:47] || [TXN HASH] 0xdf2def8d729a0a09d284440daa3f09c12316f2237c3a155ac47fd986a7293e95|| 981
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 2.0000000005e-08 [ONE]
+nonce: 974
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 36200 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 108000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 36200 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 174619 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 108000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 36200 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 108000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 36200 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 174619 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 108000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/05, 22:34:17] || [TXN HASH] 0xbcb55286040cd9e499c9ebc43373acae438e3adf0a8d45a4778a88d4d70cf84f|| 1114
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 2.0000000005e-08 [ONE]
+nonce: 1107
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 54805 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 159000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 54805 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 181690 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 159000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 54805 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 159000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 54805 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 181690 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 159000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/06, 00:43:08] || [TXN HASH] 0x3097dd9c34b4f0987a021edf1bf107e08b7b349e87be1365f72610f62c0c5bb1|| 1116
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1.020102e-08 [ONE]
+nonce: 1109
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 51739 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 125000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 51739 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 182616 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 125000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 51739 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 125000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 51739 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 182616 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 125000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/06, 02:25:04] || [TXN HASH] 0x81ad147a12d01965e8c9d7aaedd04a857682a7f2dddbc968a8cccd66a779ad53|| 1145
+USER > Serendale_AuctionHouse
+gas: 4.24561e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1138
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 50076 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 105000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 50076 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 183471 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 105000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 50076 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 105000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 50076 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 183471 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 105000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/06, 19:38:46] || [TXN HASH] 0xd39b1883ec51df5eb5bc5f61aceab66232d95487a1453543e1a9ed243e590262|| 1202
+USER > Serendale_AuctionHouse
+gas: 4.24561e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1195
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 56972 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 140000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 56972 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 188799 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 140000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 56972 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 140000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 56972 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 188799 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 140000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/06, 20:38:49] || [TXN HASH] 0xba2399ca336c54f9773c8b9aa862dd32f94c547525528ce2492fa6fcd9c944db|| 1206
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1199
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 56423 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 149000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 56423 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 189182 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 149000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 56423 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 149000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 56423 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 189182 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 149000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/07, 01:19:48] || [TXN HASH] 0xa7b17c61d173487ecc3a30765e92a804110af7f4eb91d97148e9826f07c366e1|| 1226
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1219
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 56829 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 74000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 56829 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 190634 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 74000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 56829 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 74000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 56829 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 190634 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 74000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/07, 03:09:44] || [TXN HASH] 0x4f88651c9aad2b5c84af690208a8853bb1972b23edac0e0a23166246677aa4fd|| 1242
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1235
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 46378 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 95000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 46378 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 191107 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 95000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 46378 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 95000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 46378 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 191107 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 95000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/07, 07:55:17] || [TXN HASH] 0x8cf21b0119268987e47869e0d9d610cf835a745439be39666d3811f2040b3345|| 1249
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1242
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 57611 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 77000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 57611 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 192313 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 77000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 57611 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 77000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 57611 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 192313 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 77000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/07, 09:02:59] || [TXN HASH] 0x00b731b2125e0fa4a550fa6ce6c715a8534ef676976dccff827f1b85cee5c154|| 1260
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1253
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 16659 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 85000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 16659 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 190636 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 85000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 16659 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 85000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 16659 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 190636 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 85000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/07, 10:00:30] || [TXN HASH] 0x9b77491faa20b5fb31a48bcda4e9432d6ab16334977002e6ddab1db17246c27a|| 1267
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1260
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 56443 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 150000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 56443 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 192989 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 150000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 56443 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 150000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 56443 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 192989 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 150000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/07, 10:17:04] || [TXN HASH] 0x8bd6824d81862ef58865776f61679337f43132deec4379e57ae41c831b55ef81|| 1269
+USER > Serendale_AuctionHouse
+gas: 4.25394e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1262
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 57769 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 48000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 57769 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 193064 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 48000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 57769 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 48000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 57769 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 193064 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 48000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/07, 17:44:06] || [TXN HASH] 0xf7f2a12a1c8fff70e162006c5fade68eecec0f9ef822abdb699d726e33fc5555|| 1300
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1293
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 58297 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 250000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 58297 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 195487 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 250000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 58297 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 250000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 58297 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 195487 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 250000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/08, 01:42:12] || [TXN HASH] 0x173911bcdc99926e552f03b3d892fb0da4e7f07fc3dcc5925294f10994c4e19d|| 1336
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1329
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 57238 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 139000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 57238 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 198124 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 139000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 57238 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 139000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 57238 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 198124 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 139000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/08, 07:51:35] || [TXN HASH] 0x669b11208a61ac12154c004a04cd88fb825dac13e4c2994afaddd75fe066e820|| 1353
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1346
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 52008 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 70000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 52008 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 199841 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 70000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 52008 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 70000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 52008 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 199841 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 70000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/08, 17:42:03] || [TXN HASH] 0xc21920892b372b0b94808774b56eeba9cb0355ce8e0114f7cea92afe51c00700|| 1384
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1377
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 52810 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 68000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 52810 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 202648 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 68000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 52810 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 68000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 52810 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 202648 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 68000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/08, 19:45:17] || [TXN HASH] 0xd0629a8b106427bea8baa748f317d0721af0f48719373d946ffb2cdbe0d89d23|| 1403
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1396
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 59808 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 140000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 59808 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 204149 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 140000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 59808 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 140000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 59808 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 204149 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 140000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/09, 21:20:24] || [TXN HASH] 0x64485b852a09af81936852796b490f7976a034bed36bf18836fa62fdf88c2227|| 1589
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1582
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 61031 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 71000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 61031 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 213731 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 71000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 61031 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 71000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 61031 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 213731 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 71000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/09, 21:43:16] || [TXN HASH] 0xa2e925bd5219fdd6cfde491590f577c108e01d0621a6e0a0099a6caf67436327|| 1592
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1585
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 49873 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 49873 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 213859 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 49873 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 49873 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 213859 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/09, 22:52:16] || [TXN HASH] 0xd7ee027f7dae86df472cd3024f4f394ff4095b25882053ec9db5b84ef8c07a83|| 1594
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1587
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 58345 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 48000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 58345 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 214215 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 48000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 58345 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 48000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 58345 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 214215 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 48000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/10, 00:53:49] || [TXN HASH] 0x4f1b56af85d9f3c2983d273cf0ba7d589f77e19cc197b846dc3eb8dbbfa89e7e|| 1612
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1605
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 54840 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 140000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 54840 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 215034 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 140000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 54840 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 140000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 54840 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 215034 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 140000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/10, 11:39:05] || [TXN HASH] 0x817481d2c9530b62f78d060d31acfa1b24a383ed25f406e9b99e300d8ed883e7|| 1668
+USER > Serendale_AuctionHouse
+gas: 4.24561e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1661
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 51489 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 150000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 51489 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 219016 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 150000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 51489 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 150000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 51489 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 219016 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 150000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/11, 02:38:45] || [TXN HASH] 0x6bac4a120caa0f778f018e7d3e1d4fb4a9008da1d3c598ca111b47cfab2214b8|| 1756
+USER > Serendale_AuctionHouse
+gas: 4.25381e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1749
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 62127 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 78000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 62127 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 225230 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 78000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 62127 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 78000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 62127 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 225230 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 78000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/12, 03:16:45] || [TXN HASH] 0x3822e14a9000ba13c5eacbd0a05225ac3ee9d3ed8e24c5da617b8d20225bd2b6|| 1832
+USER > Serendale_AuctionHouse
+gas: 4.36726e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 1825
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 60902 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 64000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 60902 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 236411 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 64000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 60902 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 64000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 60902 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 236411 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 64000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/12, 08:52:28] || [TXN HASH] 0x9ea07d5d10788fa6ef5c7dcdb1a87ffd3ee1cb57c8af2a858a848ee65a5147c7|| 1846
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1839
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 54039 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 54039 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 238814 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 54039 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 54039 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 238814 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/12, 08:54:37] || [TXN HASH] 0xb60ad4dfa6f6ace77b1510cad58749ecea3c276d71281ddc147467a88aecd17e|| 1847
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1840
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 63913 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 163000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 63913 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 238835 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 163000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 63913 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 163000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 63913 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 238835 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 163000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/12, 10:23:16] || [TXN HASH] 0x836b6c840a41914c1f1687d2622d7e54a40cd4e2ca88886553adbf4afa3a3fbd|| 1896
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1889
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 65047 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 135000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 65047 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 239645 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 135000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 65047 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 135000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 65047 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 239645 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 135000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/12, 20:12:07] || [TXN HASH] 0x77fe72081e8eae99161b3784e3d58914a573be67217ac64cd74356eb6c40ad8f|| 1943
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 1936
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 65217 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 65217 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 244487 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 65217 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 65217 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 244487 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/13, 17:44:37] || [TXN HASH] 0x7c93045df5d4ef4c1e75fdc1b0bead818979f2b09dfe19e93fad84128eabde71|| 2118
+USER > Serendale_AuctionHouse
+gas: 4.08894e-13 [ONE]
+gasPrice: 1.4e-08 [ONE]
+nonce: 2111
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 60759 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 120000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 60759 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 254117 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 120000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 60759 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 120000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 60759 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 254117 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 120000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/13, 22:57:22] || [TXN HASH] 0xf3cb9de21d85b0f5e487eb1d2010913ac53992c675bb02acc401c36584ea8b2f|| 2154
+USER > Serendale_AuctionHouse
+gas: 4.36752e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2147
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 66564 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 66564 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 256669 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 66564 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 66564 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 256669 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/13, 22:58:15] || [TXN HASH] 0xdf7ca4cf55fcab204fb97b487427f364f74087eeb2f2395630a2aea3b223a5ae|| 2155
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2148
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 67234 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 82000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 67234 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 256675 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 82000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 67234 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 82000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 67234 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 256675 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 82000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/13, 23:03:25] || [TXN HASH] 0xe7d3497d41b9edfe1760de48d9b91831c91c340a588061bf1cd82b57e90577bf|| 2156
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2149
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 66760 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 66760 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 255297 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 66760 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 66760 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 255297 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/14, 02:58:25] || [TXN HASH] 0xa76175618ee1facf4300682453721d46026936255b9406b2cbb8014d6822a4bf|| 2202
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2195
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 64103 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 72000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 64103 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 252774 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 72000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 64103 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 72000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 64103 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 252774 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 72000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/15, 05:55:37] || [TXN HASH] 0x3c069e8e503ecc504017793183a5ec6936bb5e728db10aedb4afc3466e682dea|| 2449
+USER > Serendale_AuctionHouse
+gas: 4.08074e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2442
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 67850 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 85000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 67850 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 261949 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 85000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 67850 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 85000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 67850 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 261949 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 85000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/15, 20:34:10] || [TXN HASH] 0x483478257019db74c95886393b98b9fcf53044425e7c2469c3039d08fc0d100a|| 2535
+USER > Serendale_AuctionHouse
+gas: 4.08061e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2528
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 24446 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 24446 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 278585 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 24446 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 24446 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 278585 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 80000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/15, 21:51:14] || [TXN HASH] 0x64ca840db1aa823ac73923a79c0e272bc1c9d33072ca53317cd26ebe3315421d|| 2545
+USER > Serendale_AuctionHouse
+gas: 4.24574e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2538
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 67265 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 67265 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 279556 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 67265 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 67265 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 279556 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 99000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/15, 22:08:19] || [TXN HASH] 0xb9c7c7c84b415be5d651b9923636b81b0e69f30ccc104f370f9158fd6f4524a9|| 2548
+USER > Serendale_AuctionHouse
+gas: 4.24574e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2541
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 69808 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 69808 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 279786 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 69808 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 69808 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 279786 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 75000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/16, 06:50:31] || [TXN HASH] 0xc252e71cfa95b6999e8ec84b4a95f3afbc76af07747cc71b00b5c79221ca7add|| 2610
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2603
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 70089 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 65000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 70089 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 283190 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 65000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 70089 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 65000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 70089 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 283190 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 65000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/16, 07:33:45] || [TXN HASH] 0x916280535bc491090192583eaa5e7441062dffbaa67501171bf84148f3ab5f3a|| 2615
+USER > Serendale_AuctionHouse
+gas: 4.25394e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 2608
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 53924 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 110000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 53924 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 284307 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 110000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 53924 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 110000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 53924 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 284307 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 110000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/17, 10:03:10] || [TXN HASH] 0xda1a1b728b8f13e959ecbbddefcd8247a1d0ec5f9f170dd156553018a90d7f62|| 2848
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2841
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 64642 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 64642 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 296062 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 64642 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 64642 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 296062 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/18, 00:56:05] || [TXN HASH] 0xecd4992e2abff842b456b65e76442485f2bfdea13e20bcc24012a63576931848|| 2958
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 2951
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 60980 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 49000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 60980 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 302971 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 49000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 60980 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 49000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 60980 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 302971 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 49000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/19, 02:30:08] || [TXN HASH] 0x7661f4c3e8285bd241d4972ddb6bdd140b115bd19bebf7bf94cdc75cd0e47df3|| 3123
+USER > Serendale_AuctionHouse
+gas: 4.25407e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3116
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 72772 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 72772 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 315985 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 72772 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 72772 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 315985 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 55000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/19, 07:02:32] || [TXN HASH] 0x4daca6b8069e1f1d73a872c8150553a93cef79d10374f4473c1d03214f1a8f50|| 3164
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3157
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 73464 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 150000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 73464 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 315686 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 150000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 73464 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 150000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 73464 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 315686 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 150000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/19, 17:52:58] || [TXN HASH] 0xd259343990412640bd07f6d20b69d3ecdca89322ca9482b037aa7fc85e9bbb6c|| 3257
+USER > Serendale_AuctionHouse
+gas: 4.36739e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3250
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 10632 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 10632 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 324450 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 10632 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 10632 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 324450 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 60000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/19, 17:58:25] || [TXN HASH] 0x2cc86d961f14920387716d2697878ad20c0bcc9089431d4d4ff0a27a6ba7f811|| 3260
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3253
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 73961 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 85000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 73961 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 323489 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 85000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 73961 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 85000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 73961 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 323489 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 85000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/20, 02:00:19] || [TXN HASH] 0x38a9bd41f09a64816030feabeb30ef8402f9b1a10508e33bb9761d19d7be97a4|| 3344
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3337
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 38910 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 72000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 38910 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 328642 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 72000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 38910 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 72000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 38910 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 328642 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 72000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/20, 05:46:15] || [TXN HASH] 0x58d80d0b22cd2d3ea1bc9789bb729ebca84c01ed491d9b54880ac83ef19157dd|| 3389
+USER > Serendale_AuctionHouse
+gas: 4.36752e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3382
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 71922 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 49000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 71922 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 330148 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 49000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 71922 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 49000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 71922 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 330148 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 49000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/21, 10:14:01] || [TXN HASH] 0x7d28281ea1f72f1c60d14c7c5809bcb49b75fd669e62c0da739acd34325c1771|| 3588
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3581
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 74563 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 49000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 74563 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 336069 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 49000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 74563 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 49000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 74563 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 336069 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 49000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/21, 18:13:59] || [TXN HASH] 0x0d86c65ba9e759afc084f76788acecbf54b66a6ccae20b6e3829bf5773bfdf4f|| 3628
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3621
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 75869 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 68000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 75869 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 345515 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 68000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 75869 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 68000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 75869 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 345515 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 68000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/21, 21:56:43] || [TXN HASH] 0xb1c38bbbf1c07df5329fb8beff14bfe5aeccea302b894560c4ed1e39597c4201|| 3660
+USER > Serendale_AuctionHouse
+gas: 4.20252e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3653
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 70430 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 56000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 70430 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 347599 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 56000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 70430 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 56000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 70430 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 347599 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 56000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/22, 07:18:55] || [TXN HASH] 0xa5d8bf426cacf69889ecd82245c8fe3da9cfdd58afcec8d9b09a70f81c2c931e|| 3712
+USER > Serendale_AuctionHouse
+gas: 4.20239e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3705
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 40374 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 44000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 40374 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 353019 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 44000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 40374 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 44000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 40374 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 353019 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 44000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address
+
+[2021/12/23, 07:45:28] || [TXN HASH] 0x05bb0f94a6607d71e2f8705476b19a7fbacfcf957ceca3f3fe478db28a3f167a|| 3920
+USER > Serendale_AuctionHouse
+gas: 4.36739e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 3913
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSummoningUpgradeable.json | function | bid | 0 | _tokenId | 10360 | uint256
+HeroSummoningUpgradeable.json | function | bid | 1 | _bidAmount | 105000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 0 | tokenId | 10360 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 1 | auctionId | 365135 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 2 | totalPrice | 105000000000000000000 | uint256
+HeroSummoningUpgradeable.json | event | AuctionSuccessful | 3 | winner | USER | address
+SaleAuction.json | function | bid | 0 | _tokenId | 10360 | uint256
+SaleAuction.json | function | bid | 1 | _bidAmount | 105000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 0 | tokenId | 10360 | uint256
+SaleAuction.json | event | AuctionSuccessful | 1 | auctionId | 365135 | uint256
+SaleAuction.json | event | AuctionSuccessful | 2 | totalPrice | 105000000000000000000 | uint256
+SaleAuction.json | event | AuctionSuccessful | 3 | winner | USER | address

@@ -1,0 +1,16 @@
+
+[2021/11/22, 00:15:43] || [TXN HASH] 0x9d8b5501647b0c3b7b77d2541ff99e0be66aa68db26516efb5c850f8045e62ea|| 86
+USER > Serendale_UniswapV2Router02
+gas: 2.09255e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 82
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | addLiquidity | 0 | tokenA | Serendale_JewelToken | address
+IUniswapV2Router02.json | function | addLiquidity | 1 | tokenB | BNB (bscBNB) | address
+IUniswapV2Router02.json | function | addLiquidity | 2 | amountADesired | 257191340499034191665 | uint256
+IUniswapV2Router02.json | function | addLiquidity | 3 | amountBDesired | 4000000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidity | 4 | amountAMin | 255905383796539020706 | uint256
+IUniswapV2Router02.json | function | addLiquidity | 5 | amountBMin | 3980000000000000000 | uint256
+IUniswapV2Router02.json | function | addLiquidity | 6 | to | USER | address
+IUniswapV2Router02.json | function | addLiquidity | 7 | deadline | 1637559295 | uint256

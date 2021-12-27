@@ -1,0 +1,528 @@
+
+[2021/09/30, 19:41:55] || [TXN HASH] 0x484828d00dc2aad3f3f03100a7b78dcb4bb6b35716d025f04d01a53668875f70|| 232
+USER > 0xBd1f65e7f350C614d364AEFeB2d87F829b0E465d
+gas: 1.69171e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 231
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 31 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 31 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 24 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 31 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 31 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 24 | uint256
+
+[2021/09/30, 20:04:49] || [TXN HASH] 0xf76b719dd35b116cc09b29a4166decb32cc5a6876375655a7bc2f122dd767a1d|| 240
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 1.693061e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 239
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 585 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 585 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 1365 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 585 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 585 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 1365 | uint256
+
+[2021/09/30, 20:05:15] || [TXN HASH] 0x6ecd8f18dd2a3cad0c5171fbf15bbcbd9fae698e078877a313a9ede3dc064d9c|| 241
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 1.687675e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 240
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 1567 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 1567 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 1438 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 1567 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 1567 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 1438 | uint256
+
+[2021/09/30, 20:06:21] || [TXN HASH] 0xde82c7cd74744abcb9b52874172c90621d78120ef510d9bcb171b6f719ec3a3f|| 242
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 1.687689e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 241
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 1483 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 1483 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 1544 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 1483 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 1483 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 1544 | uint256
+
+[2021/09/30, 20:06:55] || [TXN HASH] 0x8e2421a18c5fd70fa925288eb4aa175d9a985f9c564d13521ebb73f9a43d5fd5|| 243
+USER > 0xdF0Bf714e80F5e6C994F16B05b7fFcbCB83b89e9
+gas: 1.680932e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 242
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 1305 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 1305 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 1578 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 1305 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 1305 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 1578 | uint256
+
+[2021/10/06, 22:00:14] || [TXN HASH] 0xd05aca63921517b628c1d9432c17149804f60a1fe09dd4a6e9702e1504519590|| 314
+USER > 0xa2D001C829328aa06a2DB2740c05ceE1bFA3c6bb
+gas: 2.096979e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 313
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 7 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 7 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 2092 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 7 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 7 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 2092 | uint256
+
+[2021/10/23, 16:08:02] || [TXN HASH] 0x9441723754a560726e22884224f655c3c82829340ea460ef1d7e0db6dd101784|| 411
+USER > 0xa2D001C829328aa06a2DB2740c05ceE1bFA3c6bb
+gas: 2.130059e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 410
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6854 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6854 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 8942 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6854 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6854 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 8942 | uint256
+
+[2021/10/23, 18:20:56] || [TXN HASH] 0x8a6491a1156f03b68b3b9b073618d2dbb997d5c389019a17a3e6235e0456aec1|| 417
+USER > Serendale_summoning
+gas: 2.111435e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 416
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 1 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 1 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 8953 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 1 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 1 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 8953 | uint256
+
+[2021/10/24, 17:29:57] || [TXN HASH] 0xb95a77c62e182327819d40955c528a22fc1993a2cf28fe953d705046fe4314a8|| 433
+USER > Serendale_summoning
+gas: 2.132388e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 432
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 10 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 10 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 9035 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 10 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 10 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 9035 | uint256
+
+[2021/10/25, 23:41:54] || [TXN HASH] 0x111e3c43090d0bfd35f8869e3e9167a2b5b1df36e79e310504d3c694220c4ad3|| 453
+USER > Serendale_summoning
+gas: 2.112068e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 452
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 229 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 229 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 9359 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 229 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 229 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 9359 | uint256
+
+[2021/10/29, 12:11:23] || [TXN HASH] 0x7beb380e18ac291ba276eb3a3710331c01b961b1f9a4bb69c00a1cad37928fa2|| 473
+USER > Serendale_summoning
+gas: 2.120159e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 472
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 563 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 563 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 9825 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 563 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 563 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 9825 | uint256
+
+[2021/10/29, 12:14:18] || [TXN HASH] 0x83b07fdc6f18b4df0d531ce55dfcf05ec88138ee9cda230eaa30732261a468b2|| 475
+USER > Serendale_summoning
+gas: 2.122923e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 474
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 565 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 565 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 9826 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 565 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 565 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 9826 | uint256
+
+[2021/10/29, 12:18:33] || [TXN HASH] 0x872dca13b3d1a4163131d07ddd911d6bdbe1e3a18754b1d6e1521af0933bde5d|| 477
+USER > Serendale_summoning
+gas: 2.113721e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 476
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 566 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 566 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 9828 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 566 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 566 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 9828 | uint256
+
+[2021/11/05, 12:18:11] || [TXN HASH] 0x101c9c503da86125553f60b3dc5c29330aa532758a632a7602ce1408bb291e15|| 583
+USER > Serendale_summoning
+gas: 2.112233e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 582
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 3504 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 3504 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 12781 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 3504 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 3504 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 12781 | uint256
+
+[2021/11/06, 16:23:25] || [TXN HASH] 0x8318a9bb8372bc36f2b6c78dfc8a7efb8be918e55b3900b99a6be403af6f8e3c|| 675
+USER > Serendale_summoning
+gas: 2.112144e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 674
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6092 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6092 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15365 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6092 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6092 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15365 | uint256
+
+[2021/11/06, 16:24:54] || [TXN HASH] 0x9064c8b81efc936354a1a4d2732f978c63509ed11ab898e7195abd14942b61fa|| 677
+USER > Serendale_summoning
+gas: 2.104373e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 676
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6099 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6099 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15371 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6099 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6099 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15371 | uint256
+
+[2021/11/06, 16:26:54] || [TXN HASH] 0xfd9bf652bdcb77ea9e8f89283bdff472a2faa515a0cb91df9ef8b7e0e7436266|| 679
+USER > Serendale_summoning
+gas: 2.105265e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 678
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6103 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6103 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15376 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6103 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6103 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15376 | uint256
+
+[2021/11/06, 16:28:29] || [TXN HASH] 0x5b15eb177d3fd5e774f44237569917c4f0bb5ef19c3eaf011bedcfcb98e5432c|| 681
+USER > Serendale_summoning
+gas: 2.108316e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 680
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6107 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6107 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15379 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6107 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6107 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15379 | uint256
+
+[2021/11/06, 16:30:03] || [TXN HASH] 0x9f1226ba8b5a2e321259d4596949430e41b90e199e01436e08b7b83a21a07f9f|| 683
+USER > Serendale_summoning
+gas: 2.107494e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 682
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6110 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6110 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15382 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6110 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6110 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15382 | uint256
+
+[2021/11/06, 16:34:22] || [TXN HASH] 0x999de6cf82d719ce12caf9864166be2e886d725f60c34f3d2657354f766355fb|| 685
+USER > Serendale_summoning
+gas: 2.122542e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 684
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6118 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6118 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15390 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6118 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6118 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15390 | uint256
+
+[2021/11/06, 16:36:04] || [TXN HASH] 0xf6162254ddc44a874a9bef5177a00555f654d3f4388935221d92e8c97e06413a|| 687
+USER > Serendale_summoning
+gas: 2.115146e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 686
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6121 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6121 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15394 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6121 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6121 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15394 | uint256
+
+[2021/11/06, 16:37:53] || [TXN HASH] 0x835a21cf5d9fd33208e7652c9618e87f749991074690ff11ec8f1f083aee63bc|| 689
+USER > Serendale_summoning
+gas: 2.128823e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 688
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6123 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6123 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15395 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6123 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6123 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15395 | uint256
+
+[2021/11/06, 16:39:41] || [TXN HASH] 0xf43a5057d33eb296b37b6dc37b4c8a5da77bec32c415f9aabab049826762441a|| 691
+USER > Serendale_summoning
+gas: 2.134759e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 690
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 6128 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 6128 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 15401 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 6128 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 6128 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 15401 | uint256
+
+[2021/11/08, 01:11:34] || [TXN HASH] 0xfbb7c0a2ca1ea3c0b764e5fe247c6bbc0ab8c3ff6fc6c27bd7eee59b80f97e84|| 852
+USER > Serendale_summoning
+gas: 2.110006e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 851
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 9435 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 9435 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 18712 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 9435 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 9435 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 18712 | uint256
+
+[2021/11/08, 01:13:47] || [TXN HASH] 0xc6a667823057c4b2b9b7c57ca5072168c9864cb79258b220ed8ff2031138bdd0|| 854
+USER > Serendale_summoning
+gas: 2.128178e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 853
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 9437 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 9437 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 18714 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 9437 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 9437 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 18714 | uint256
+
+[2021/11/08, 01:18:15] || [TXN HASH] 0x04184870facd795cbf92aa8339dabc79733800653a9cb8b4db0ff6d9f7aef35b|| 857
+USER > Serendale_summoning
+gas: 2.12583e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 856
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 9443 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 9443 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 18719 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 9443 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 9443 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 18719 | uint256
+
+[2021/11/08, 01:20:55] || [TXN HASH] 0x3aec414da7fc8b90749ba988727b5e8a1f15802916be87b00537a1c8fd053eb9|| 859
+USER > Serendale_summoning
+gas: 2.109797e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 858
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 9447 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 9447 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 18725 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 9447 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 9447 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 18725 | uint256
+
+[2021/11/28, 23:23:04] || [TXN HASH] 0x172f56e02836081d7371222d9fb40195387e6cb806b55456d62ea9514e2e0b20|| 1247
+USER > Serendale_summoning
+gas: 2.108469e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1246
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 38094 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 38094 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 47371 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 38094 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38094 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47371 | uint256
+
+[2021/11/28, 23:29:42] || [TXN HASH] 0x53b3081c4b70d158bc5611d46fcc90bc6770ec49bf414b1f88e6f20938f14efc|| 1249
+USER > Serendale_summoning
+gas: 2.110703e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1248
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 38102 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 38102 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 47381 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 38102 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38102 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47381 | uint256
+
+[2021/11/28, 23:32:08] || [TXN HASH] 0xd114a9e14d94d7e26b4bfd9c0ff9db3185a33786ce77f8f3de9570a18cf91a6d|| 1252
+USER > Serendale_summoning
+gas: 2.122589e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1251
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 38108 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 38108 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 47385 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 38108 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38108 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47385 | uint256
+
+[2021/11/28, 23:34:45] || [TXN HASH] 0xd51a3ca8c0331507b5d91547f117e223f2d077a7f4fd44f78382cf40a257578f|| 1254
+USER > Serendale_summoning
+gas: 2.128091e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1253
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 38112 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 38112 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 47389 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 38112 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38112 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47389 | uint256
+
+[2021/11/28, 23:37:13] || [TXN HASH] 0xe40e6468b8920cefc668cbaece226fcbdff0bbdf4fd0874490a707086752118e|| 1256
+USER > Serendale_summoning
+gas: 2.112168e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1255
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 38116 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 38116 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 47393 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 38116 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38116 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47393 | uint256
+
+[2021/11/28, 23:39:58] || [TXN HASH] 0x27969e1e095fd3f11c5ee3da566014a766e615cea1ebf1886a8f3d1432697099|| 1258
+USER > Serendale_summoning
+gas: 2.12497e-12 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1257
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+HeroSale.json | function | open | 0 | _crystalId | 38120 | uint256
+HeroSale.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSale.json | event | CrystalOpen | 1 | crystalId | 38120 | uint256
+HeroSale.json | event | CrystalOpen | 2 | heroId | 47396 | uint256
+HeroSummoningUpgradeable.json | function | open | 0 | _crystalId | 38120 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 0 | owner | USER | address
+HeroSummoningUpgradeable.json | event | CrystalOpen | 1 | crystalId | 38120 | uint256
+HeroSummoningUpgradeable.json | event | CrystalOpen | 2 | heroId | 47396 | uint256

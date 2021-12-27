@@ -1,0 +1,26 @@
+
+[2021/08/22, 20:59:50] || [TXN HASH] 0xaeb8e6c982c5ce4a1675642993c257f3e11d429d39d0817e34ab82bb15304b2b|| 11
+USER > Serendale_UniswapV2Router02
+gas: 1.63777e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 10
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapTokensForExactETH | 0 | amountOut | 10000000000000000000000 | uint256
+IUniswapV2Router02.json | function | swapTokensForExactETH | 1 | amountInMax | 17880411468096067003491 | uint256
+IUniswapV2Router02.json | function | swapTokensForExactETH | 2 | path | ['Serendale_JewelToken', 'Wrapped ONE (WONE)'] | address[]
+IUniswapV2Router02.json | function | swapTokensForExactETH | 3 | to | USER | address
+IUniswapV2Router02.json | function | swapTokensForExactETH | 4 | deadline | 1629681566 | uint256
+
+[2021/10/23, 11:53:16] || [TXN HASH] 0xc86609ab2044e4e8736d5216afb2d7e7ef37a5c197a42ba7a3ea3f3cade07eea|| 403
+USER > Serendale_UniswapV2Router02
+gas: 1.76154e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 402
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapTokensForExactETH | 0 | amountOut | 100000000000000000000000 | uint256
+IUniswapV2Router02.json | function | swapTokensForExactETH | 1 | amountInMax | 6424449576568121917723 | uint256
+IUniswapV2Router02.json | function | swapTokensForExactETH | 2 | path | ['Serendale_JewelToken', 'Wrapped ONE (WONE)'] | address[]
+IUniswapV2Router02.json | function | swapTokensForExactETH | 3 | to | USER | address
+IUniswapV2Router02.json | function | swapTokensForExactETH | 4 | deadline | 1635005560 | uint256

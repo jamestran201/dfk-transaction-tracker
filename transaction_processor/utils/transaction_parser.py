@@ -23,7 +23,7 @@ def _map_address_to_readable_name(address, main_address):
     name = Tokens.TOKEN_ADDRESS.get(address, None)
     return name
 
-class TransactionParser:
+class TransactionFetcher:
     def __init__(self,main_address,main_net='https://rpc.s0.t.hmny.io'):
         self.main_address = main_address
         self.main_net = main_net

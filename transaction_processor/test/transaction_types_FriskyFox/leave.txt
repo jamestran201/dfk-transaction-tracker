@@ -1,0 +1,495 @@
+
+[2021/08/28, 00:43:01] || [TXN HASH] 0x59c281682e407176bf14578cbe01bf8b09ff22f14a98bdd27bfc84cb43994a09|| 68
+USER > Serendale_Bank
+gas: 6.9586e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 67
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 2000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 2000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 2150782044746158168 | uint256
+
+[2021/09/04, 10:33:19] || [TXN HASH] 0x14df6b1d33439e37d11ff10be9e009cfb0e0d1f3d80414bcb83ea7cac5cca7d3|| 121
+USER > Serendale_Bank
+gas: 8.6362e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 120
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 1000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 1000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 1238621368311120379209 | uint256
+
+[2021/09/05, 00:51:39] || [TXN HASH] 0x03857afcf8cdcf21dc057a567809ea8b958cb9f47484296fae4d45ad6b926b28|| 128
+USER > Serendale_Bank
+gas: 8.6362e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 127
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 2263000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 2263000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 2813542794381311172895 | uint256
+
+[2021/09/30, 20:01:32] || [TXN HASH] 0xdab6c8187a1f61653175c47806e2130a4293c9983c62819d8a1805a725c8d719|| 236
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 235
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7108125980341372054269 | uint256
+
+[2021/09/30, 20:12:29] || [TXN HASH] 0xe07560a9931647d81866aeebfce791acef9af3a809dd77cbdd1593fc3d86e240|| 245
+USER > Serendale_Bank
+gas: 8.6362e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 244
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 2000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 2000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 2917192226654769190003 | uint256
+
+[2021/09/30, 20:41:10] || [TXN HASH] 0xca2978b173d12711ae03d1ab6ab11e5a8715c4f0c651658d274ad73a0760377b|| 247
+USER > Serendale_Bank
+gas: 8.6362e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 246
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 2000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 2000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 2917983308518123468688 | uint256
+
+[2021/10/04, 00:41:42] || [TXN HASH] 0x920703d3ad8e8bd92cb671886143ca362879181823402969e9997942ed8edad9|| 277
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 276
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 100000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 100000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 147298819531944119263292 | uint256
+
+[2021/10/04, 22:05:14] || [TXN HASH] 0x76aed1527239c340134e605fe8d5f8c20fd5d5f8b65faf4f651c084f3ba38586|| 293
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 292
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 7000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 7000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 10335902125637279803919 | uint256
+
+[2021/10/05, 14:37:01] || [TXN HASH] 0x23a921babe87e1d433da7783554120643c3f80d65f14b664907c1839413f3f8b|| 298
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 297
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7395647892882561042725 | uint256
+
+[2021/10/06, 01:58:52] || [TXN HASH] 0x62e3ae8bd8a3da37ac9687dc86cc0f575f5d1519259190e89ff14ba5304db1fb|| 303
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 302
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5800000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5800000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 8589036536421046364230 | uint256
+
+[2021/10/06, 09:50:49] || [TXN HASH] 0xb6adc566c500eca8c251ebe7b448d38af8e4f844dacac8a9e529b2462ed6075e|| 306
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 305
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7410354265175401837317 | uint256
+
+[2021/10/06, 20:29:25] || [TXN HASH] 0x8b1c965418bfcf8feecef3de341466a7701363e7981db06f1f535fc75062c327|| 311
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 310
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7417494245634024764236 | uint256
+
+[2021/10/07, 09:42:35] || [TXN HASH] 0xaab15ffd8c223e71064fe5bad103337c031eacf6c94e623ccc3fa8dd05e0d91c|| 317
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 316
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7428147469029126309775 | uint256
+
+[2021/10/07, 21:08:30] || [TXN HASH] 0xeacf4a8e014830d9e66fa1eda7e522f652ca5771b419d906366103e485b79fd1|| 323
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 322
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7437272124084578923760 | uint256
+
+[2021/10/08, 08:59:42] || [TXN HASH] 0x313526fd50865331c18ad2e459a52e20bb7944029655f33b5bca1a2fb9f4880d|| 326
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 325
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7447048845653327824798 | uint256
+
+[2021/10/08, 16:47:19] || [TXN HASH] 0xe317f6bcae9c8e1e726e7e3afd4a10d38f71086169fbf7bb2ccd441dd70fecca|| 331
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 330
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7453426634807824672417 | uint256
+
+[2021/10/11, 14:16:46] || [TXN HASH] 0x9423699a9776889e2022af69cec2384e4ce63cd4b3669069270b6d2ebabf2282|| 340
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 339
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7502648371372815347998 | uint256
+
+[2021/10/11, 22:41:29] || [TXN HASH] 0xf4c462432178f0b1298f418382fad71451a8bb7c90f454005670119cc435f93e|| 355
+USER > Serendale_Bank
+gas: 6.9599e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 354
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 2000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 2000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 3003344107088419026541 | uint256
+
+[2021/10/12, 11:10:24] || [TXN HASH] 0xbe129e61d7a5af8e021a5e88acf36cfe5cbc8c2d5e818f336b98f979376b2a23|| 357
+USER > Serendale_Bank
+gas: 8.6362e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 356
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 4000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 4000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 6013579355645736397058 | uint256
+
+[2021/10/12, 20:33:27] || [TXN HASH] 0x51f3c060825166741ad315280499ac60e52c4282b875852cd205500e6d09d22c|| 360
+USER > Serendale_Bank
+gas: 8.6362e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 359
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 4000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 4000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 6018503285903142188079 | uint256
+
+[2021/10/13, 00:11:53] || [TXN HASH] 0x0dd0b8b1fc5c7d4440fb43a07162d63e659509aa4e5c0b0a6e56aee92fa94de4|| 365
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 364
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7525590696836735801952 | uint256
+
+[2021/10/13, 09:35:17] || [TXN HASH] 0x8bb349d689f595ffc72e22a71d5abb2a81b3e50613e881e793fd5ca3feee4187|| 368
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 367
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7531306460630937154357 | uint256
+
+[2021/10/14, 11:27:11] || [TXN HASH] 0x2f05b7d1f4bbd01f905bc6b8357251b3d8b719b8dccea0c09bbe0f466e707a64|| 375
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 374
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7544414035411205341592 | uint256
+
+[2021/10/14, 18:20:46] || [TXN HASH] 0x2b505ed5fc45fba643c38e5fbd94402eb037ac0180068b6f4348e50785cd3b5a|| 379
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 378
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7547608955903488230298 | uint256
+
+[2021/10/15, 10:54:50] || [TXN HASH] 0xe8866b9a216325230186f9b88a4422a221993baa05aebd0d29317cc59447bc0d|| 388
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 387
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7554560547346812635569 | uint256
+
+[2021/10/15, 22:45:38] || [TXN HASH] 0xe4f762102f6e77615132aa34f376b567d1fa427e27a9f35ef32fa54bb5c30701|| 392
+USER > Serendale_Bank
+gas: 8.6375e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 391
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7560546830287156819955 | uint256
+
+[2021/11/11, 21:11:17] || [TXN HASH] 0x5b26e27fc9fabae2c104412975c63fbe74716be9dce6ebdea60085924d48a847|| 1028
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1027
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5275000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5275000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 8296603205722812177634 | uint256
+
+[2021/11/12, 15:53:22] || [TXN HASH] 0x0050d6ea6ac24b6fa8c2619c1223b5de16b8535d2058d20794c2626c264f06c4|| 1052
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1051
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7875900754175367658654 | uint256
+
+[2021/11/12, 23:27:31] || [TXN HASH] 0xf195ccd8c3e1144e36c23a74850fe3c79183f2fa2d4f978896f88d39a04417d8|| 1063
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1062
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7880262734679036021697 | uint256
+
+[2021/11/13, 23:28:00] || [TXN HASH] 0xcd9c8776793a390c0a93f02132cc75af1a3e87e71ce521cc9ca8d51a83fb22c3|| 1069
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1068
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7893672896782868723139 | uint256
+
+[2021/11/14, 19:02:39] || [TXN HASH] 0x5f002cdedf6491c012cac5c6d4052dafcca59ae650352a91004707610ae9f3bc|| 1078
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1077
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7904351160610155330966 | uint256
+
+[2021/11/18, 00:44:15] || [TXN HASH] 0xfcbc06b8ebdedbf7194c6b761e21b22a06404549291a8e0a008e810ac7f6dcbf|| 1124
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1123
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 7939843931768487787255 | uint256
+
+[2021/11/28, 23:30:13] || [TXN HASH] 0x54838bf0b99f82cc7375864884a3a9a093994d569a09cad4660cd3e36ba7c15d|| 1250
+USER > Serendale_Bank
+gas: 6.9612e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 1249
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | leave | 0 | _share | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 0 | from | USER | address
+Bank.json | event | Transfer | 1 | to | None | address
+Bank.json | event | Transfer | 2 | value | 5000000000000000000000 | uint256
+Bank.json | event | Transfer | 3 | from | Serendale_Bank | address
+Bank.json | event | Transfer | 4 | to | USER | address
+Bank.json | event | Transfer | 5 | value | 8018063195393130613653 | uint256

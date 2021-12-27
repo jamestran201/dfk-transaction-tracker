@@ -1,0 +1,28 @@
+
+[2021/11/18, 01:14:19] || [TXN HASH] 0xc46fe71a9fd8d3ecd809dff3b748a5e50e02e497c09c0cd46e8cd8bab100deeb|| 25
+USER > Serendale_MasterGardener
+gas: 4.96794e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 23
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MasterGardener.json | function | deposit | 0 | _pid | 10 | uint256
+MasterGardener.json | function | deposit | 1 | _amount | 4363035192001061 | uint256
+MasterGardener.json | function | deposit | 2 | _ref | None | address
+MasterGardener.json | event | Deposit | 0 | user | USER | address
+MasterGardener.json | event | Deposit | 1 | pid | 10 | uint256
+MasterGardener.json | event | Deposit | 2 | amount | 4363035192001061 | uint256
+
+[2021/11/22, 00:42:56] || [TXN HASH] 0xbcd804beab78bf3e2a41cdef41774cc6af1afe055a4e9473e7a9eacc36463cde|| 88
+USER > Serendale_MasterGardener
+gas: 4.73918e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 84
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MasterGardener.json | function | deposit | 0 | _pid | 2 | uint256
+MasterGardener.json | function | deposit | 1 | _amount | 30819783081361558100 | uint256
+MasterGardener.json | function | deposit | 2 | _ref | None | address
+MasterGardener.json | event | Deposit | 0 | user | USER | address
+MasterGardener.json | event | Deposit | 1 | pid | 2 | uint256
+MasterGardener.json | event | Deposit | 2 | amount | 30819783081361558100 | uint256
