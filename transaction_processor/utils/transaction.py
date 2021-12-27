@@ -1,5 +1,6 @@
 from utils import transaction_core
 from utils import utils
+from utils import hero
 
 from rich.console import Console
 console = Console()
@@ -122,7 +123,7 @@ class Transaction:
 
         # has bonusItem input not included in current method
         elif self.info['function'] == 'summonCrystal':
-            self.hero_log = transaction_core.add_hero(
+            self.hero_log = hero.add_hero(
                     self.hero_log,
                     self.transaction_data,
                     self.info['TxHash'],
@@ -131,7 +132,7 @@ class Transaction:
         # open crystal to summon hero 
         # need to find example with re-charging crystal w/JEWEL to summon hero
         elif self.info['function'] == 'open':
-            self.hero_log = transaction_core.add_hero(
+            self.hero_log = hero.add_hero(
                     self.hero_log,
                     self.transaction_data,
                     self.info['TxHash'],
@@ -151,14 +152,22 @@ class Transaction:
 
         ### Serendale_AuctionHouse
 
-        # TODO: it is possible that more events occur when a hero is sold
-        # This might be another transaction though.
         # Listing hero for auction (only TX fee)
+        # Also, uses graphQL to query if the hero has sold
+        # Hero is sold at .9675 of purchased price (dfk recieves 3.75% of hero sales)
+        # TODO
         elif self.info['function'] == 'createAuction':
+            self.info['TxTokens'], self.hero_log = transaction_core.createAuction(
+                    self.info['TxTokens'],
+                    self.hero_log,
+                    self.transaction_data,
+                    )
+        # Cancel hero for auction (only TX fee)
+        elif self.info['function'] == 'cancelAuction':
             pass
         # bid for hero
         elif self.info['function'] == 'bid':
-            self.hero_log = transaction_core.add_hero(
+            self.hero_log = hero.add_hero(
                     self.hero_log,
                     self.transaction_data,
                     self.info['TxHash'],
@@ -222,3 +231,5 @@ class Transaction:
         # Print receipt
         if self.verbose:
             self.get_receipt()
+
+#transfer

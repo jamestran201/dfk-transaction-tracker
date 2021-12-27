@@ -1,5 +1,6 @@
 from web3 import Web3
 from utils import utils
+from utils import hero
 from utils.abi_parser import ABIParser
 
 from rich.console import Console
@@ -104,24 +105,22 @@ def withdraw(liquidity_pool,net_transactions):
 
     return liquidity_pool
 
-"""
-Move to utils/hero.py
-"""
-def _add_hero(hero_log,transaction_data,tx_hash,_type):
+def createAuction(net_transactions,hero_log,transaction_data):
+    """
+    query graphQL to see if hero is sold,
+    if hero is sold, the USER recieves JEWEL
+    and loses their hero
+    """
+    _id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][1]['tokenId'][0]
+    auction_id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][2]['auctionId'][0]
+    price = transaction_data['SaleAuction.json']['event']['AuctionCreated'][3]['startingPrice'][0]
+    
+    if hero.check_hero_sold(auction_id):
+        profit = price * (1-hero.HEROTAX)
+        hero_log[f"subtractHero_{_id}"] = profit
+        net_transactions['0x72Cb10C6bfA5624dD07Ef608027E366bd690048F'] = profit
 
-    if _type == 'summonCrystal':
-        _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalSummoned'][1]['crystalId'][0]
-        hero_log[f"Crystal_{_id}"] = tx_hash
+    else:
+        pass
 
-    if _type == 'bid':
-        _id = transaction_data['SaleAuction.json']['event']['AuctionSuccessful'][0]['tokenId'][0]
-        hero_log[f"Hero_{_id}"] = tx_hash
-
-    if _type == 'open':
-        _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalOpen'][2]['heroId'][0]
-        hero_log[f"Hero_{_id}"] = tx_hash
-
-    return hero_log
-
-def add_hero(hero_log,transaction_data,tx_hash,_type):
-    return _add_hero(hero_log,transaction_data,tx_hash,_type)
+    return net_transactions, hero_log

@@ -23,9 +23,10 @@ INPUTS
 """
 function_type = 'enter'
 main_addresses = [
-        '***REMOVED***', # FriskyFox
-        '***REMOVED***', # Raspberry Swirl
-        '***REMOVED***', # baloo3101
+        #'***REMOVED***', # FriskyFox
+        #'***REMOVED***', # Raspberry Swirl
+        #'***REMOVED***', # baloo3101
+        '0xef2539ecc96565063cd744076f705d3c481659c8',
         ]
 
 # Writing info into log
