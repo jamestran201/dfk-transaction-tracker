@@ -64,7 +64,6 @@ class Transaction:
         self.info['status'] = dict(self.transaction_receipt)['status']
         # Basic transaction info
         self.info['TxHash'] = self.transaction_df['TxHash']
-        print(self.info['TxHash'])
         self.info['timestamp'] = self.transaction_df['timestamp']
         self.info['to'] = self.transaction_df['to']
         self.info['from'] = self.transaction_df['from']
