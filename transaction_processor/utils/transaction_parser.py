@@ -1,8 +1,8 @@
 from pyhmy import account
 from pyhmy import numbers
 from pyhmy.util import convert_one_to_hex
-from transaction_processor.contracts.contract_address import SerendaleContractAddress
-from transaction_processor.contracts.contract_address import Tokens
+from contracts.contract_address import SerendaleContractAddress
+from contracts.contract_address import Tokens
 from datetime import datetime
 from collections import Counter
 import pandas as pd
@@ -32,7 +32,11 @@ class TransactionFetcher:
         """
         Newest transactions are indexed earlier
         """
-        all_txns = account.get_transaction_history(self.main_address,
+        #print(account.get_transactions_count(self.main_address,'ALL',endpoint=self.main_net))
+        all_txns = account.get_transaction_history(
+                self.main_address,
+                page=0,
+                page_size=50_000,
                 include_full_tx=True,
                 order='DESC',
                 endpoint=self.main_net)
@@ -59,7 +63,7 @@ class TransactionFetcher:
         # Clean up
         df = df.drop(columns=['hash','ethHash','r','s','v'])
 
-        return df.sort_values(by='timestamp',ascending=False)
+        return df.sort_values(by='timestamp',ascending=True)
 
     def get_transactions(self,n_loops=1):
         all_txns = self._get_transactions()
