@@ -2,6 +2,7 @@ from web3 import Web3
 from utils import utils
 from utils import hero
 from utils.abi_parser import ABIParser
+from contracts.contract_address import SerendaleContractAddress
 
 from rich.console import Console
 console = Console()
@@ -12,6 +13,8 @@ event_hex = {
         'Transfer': '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef',
         'Withdrawal': '0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65'
         }
+
+JewelToken_address = [k for k, v in SerendaleContractAddress.CONTRACT_ADDRESS.items() if v == 'Serendale_JewelToken'][0]
 
 ETH = "ONE"
 
@@ -111,13 +114,13 @@ def createAuction(net_transactions,hero_log,transaction_data):
     if hero is sold, the USER recieves JEWEL
     and loses their hero
     """
-    _id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][1]['tokenId'][0]
-    auction_id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][2]['auctionId'][0]
-    price = transaction_data['SaleAuction.json']['event']['AuctionCreated'][3]['startingPrice'][0]
+    _id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][1]['tokenId'][0] # Hero id
+    auction_id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][2]['auctionId'][0] # Auction Id
+    price = transaction_data['SaleAuction.json']['event']['AuctionCreated'][3]['startingPrice'][0] # Price of hero
     if hero.check_hero_sold(auction_id):
         profit = price * (1-hero.HEROTAX)
         hero_log[f"subtractHero_{_id}"] = profit
-        net_transactions['0x72Cb10C6bfA5624dD07Ef608027E366bd690048F'] = profit
+        net_transactions[ JewelToken_address ] = profit
 
     else:
         pass
