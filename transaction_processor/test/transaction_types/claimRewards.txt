@@ -1,82 +1,17 @@
 
-[2021/08/24, 22:20:31] || [TXN HASH] 0xf25aff313fa761529a67c243be638fc9b03ec62b75c9399da8e9f88a05579e12|| 38
+[2021/12/05, 09:57:19] || [TXN HASH] 0x152c2d2e14beb74c63525daff5fa4c98b4c62bac2a1c6cce42d001a882cd36bf|| 1050
 USER > Serendale_MasterGardener
-gas: 1.25562e-13 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 37
+gas: 7.79422e-13 [ONE]
+gasPrice: 2.0000000005e-08 [ONE]
+nonce: 1043
 value: 0.0 [ONE]
 ------[PROCESSED] TRANSACTION RECEIPT------
-MasterGardener.json | function | claimRewards | 0 | _pids | [0] | uint256[]
-
-[2021/08/24, 22:21:10] || [TXN HASH] 0xbfe2521b67678e91233c614c941d0540055e195cdf5e72e9ddf8e6bedd9815d1|| 39
-USER > Serendale_MasterGardener
-gas: 1.392869e-12 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 38
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-MasterGardener.json | function | claimRewards | 0 | _pids | [0] | uint256[]
+MasterGardener.json | function | claimRewards | 0 | _pids | [10, 2] | uint256[]
 MasterGardener.json | event | SendGovernanceTokenReward | 0 | user | USER | address
-MasterGardener.json | event | SendGovernanceTokenReward | 1 | pid | 0 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 2 | amount | 243136601134749973092835 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 3 | lockAmount | 230979771078012474438193 | uint256
-
-[2021/08/25, 13:24:39] || [TXN HASH] 0xe190e65df3b32c2fc4d504ed7054df7e7452f528cb65d21160bf49d687a37ae3|| 55
-USER > Serendale_MasterGardener
-gas: 6.96889e-13 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 54
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-MasterGardener.json | function | claimRewards | 0 | _pids | [2, 0] | uint256[]
-MasterGardener.json | event | SendGovernanceTokenReward | 0 | user | USER | address
-MasterGardener.json | event | SendGovernanceTokenReward | 1 | pid | 2 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 2 | amount | 41315208007288978834005 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 3 | lockAmount | 39249447606924529892304 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 4 | user | USER | address
-MasterGardener.json | event | SendGovernanceTokenReward | 5 | pid | 0 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 6 | amount | 5514779033898375103094 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 7 | lockAmount | 5239040082203456347939 | uint256
-
-[2021/08/25, 22:46:35] || [TXN HASH] 0x1da647a2413f5c4c9cc7ffbcabb4fdb30ec7c6d441185c75c99abb4ad48bef57|| 56
-USER > Serendale_MasterGardener
-gas: 6.96889e-13 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 55
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-MasterGardener.json | function | claimRewards | 0 | _pids | [0, 2] | uint256[]
-MasterGardener.json | event | SendGovernanceTokenReward | 0 | user | USER | address
-MasterGardener.json | event | SendGovernanceTokenReward | 1 | pid | 0 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 2 | amount | 60514598252078456024851 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 3 | lockAmount | 57488868339474533223608 | uint256
+MasterGardener.json | event | SendGovernanceTokenReward | 1 | pid | 10 | uint256
+MasterGardener.json | event | SendGovernanceTokenReward | 2 | amount | 25586040518676546391 | uint256
+MasterGardener.json | event | SendGovernanceTokenReward | 3 | lockAmount | 18166088768260347937 | uint256
 MasterGardener.json | event | SendGovernanceTokenReward | 4 | user | USER | address
 MasterGardener.json | event | SendGovernanceTokenReward | 5 | pid | 2 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 6 | amount | 7766387982813286241536 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 7 | lockAmount | 7378068583672621929459 | uint256
-
-[2021/08/26, 09:50:58] || [TXN HASH] 0x2bcc3996686aa9cc4e17d505db308cc27cc9b745604e87567fd83902be16b080|| 58
-USER > Serendale_MasterGardener
-gas: 4.71163e-13 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 57
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-MasterGardener.json | function | claimRewards | 0 | _pids | [0, 2] | uint256[]
-
-[2021/08/26, 09:51:48] || [TXN HASH] 0xbac3f8c1d847918c58483f7ac4405d9b19b8a88d83b2b8e24410dc4690c4df09|| 59
-USER > Serendale_MasterGardener
-gas: 1.696889e-12 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 58
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-MasterGardener.json | function | claimRewards | 0 | _pids | [0, 2] | uint256[]
-MasterGardener.json | event | SendGovernanceTokenReward | 0 | user | USER | address
-MasterGardener.json | event | SendGovernanceTokenReward | 1 | pid | 0 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 2 | amount | 67048695315898710434838 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 3 | lockAmount | 63696260550103774913096 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 4 | user | USER | address
-MasterGardener.json | event | SendGovernanceTokenReward | 5 | pid | 2 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 6 | amount | 5265425968054496241680 | uint256
-MasterGardener.json | event | SendGovernanceTokenReward | 7 | lockAmount | 5002154669651771429596 | uint256
+MasterGardener.json | event | SendGovernanceTokenReward | 6 | amount | 4145283810361287957 | uint256
+MasterGardener.json | event | SendGovernanceTokenReward | 7 | lockAmount | 2943151505356514449 | uint256

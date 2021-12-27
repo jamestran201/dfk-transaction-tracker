@@ -1,9 +1,0 @@
-
-[2021/10/29, 12:10:52] || [TXN HASH] 0xdf376c23a86d37edcc96ae187109c5702e5d2ad9468a445b32fddd7e5674d79f|| 472
-USER > Serendale_summoning
-gas: 2.3818e-13 [ONE]
-gasPrice: 1e-08 [ONE]
-nonce: 471
-value: 0.0 [ONE]
-------[PROCESSED] TRANSACTION RECEIPT------
-HeroSummoningUpgradeable.json | function | rechargeCrystal | 0 | _crystalId | 563 | uint256

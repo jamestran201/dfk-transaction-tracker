@@ -32,10 +32,11 @@ class TransactionParser:
         """
         Newest transactions are indexed earlier
         """
+        #print(account.get_transactions_count(self.main_address,'ALL',endpoint=self.main_net))
         all_txns = account.get_transaction_history(
                 self.main_address,
                 page=0,
-                page_size=10_000,
+                page_size=50_000,
                 include_full_tx=True,
                 order='DESC',
                 endpoint=self.main_net)
