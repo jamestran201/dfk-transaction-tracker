@@ -1,0 +1,40 @@
+
+[2021/12/20, 09:30:34] || [TXN HASH] 0x064b6be3f58147760eecab0b263cb7ee784c48b990689a2d3f5b3b56747891db|| 221
+USER > Serendale_MeditationCircle
+gas: 6.32577e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 212
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | startMeditation | 0 | _heroId | 66999 | uint256
+MeditationCircle.json | function | startMeditation | 1 | _primaryStat | 4 | uint8
+MeditationCircle.json | function | startMeditation | 2 | _secondaryStat | 5 | uint8
+MeditationCircle.json | function | startMeditation | 3 | _tertiaryStat | 1 | uint8
+MeditationCircle.json | function | startMeditation | 4 | _attunementCrystal | None | address
+MeditationCircle.json | event | MeditationBegun | 0 | player | USER | address
+MeditationCircle.json | event | MeditationBegun | 1 | heroId | 66999 | uint256
+MeditationCircle.json | event | MeditationBegun | 2 | meditationId | 33784 | uint256
+MeditationCircle.json | event | MeditationBegun | 3 | primaryStat | 4 | uint8
+MeditationCircle.json | event | MeditationBegun | 4 | secondaryStat | 5 | uint8
+MeditationCircle.json | event | MeditationBegun | 5 | tertiaryStat | 1 | uint8
+MeditationCircle.json | event | MeditationBegun | 6 | attunementCrystal | None | address
+
+[2021/12/22, 11:44:44] || [TXN HASH] 0x534f2edf2edaa482d66af41b86fb4df1b46fd1138786e8692e3845892ed7cbb9|| 252
+USER > Serendale_MeditationCircle
+gas: 6.32565e-13 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 243
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+MeditationCircle.json | function | startMeditation | 0 | _heroId | 52310 | uint256
+MeditationCircle.json | function | startMeditation | 1 | _primaryStat | 4 | uint8
+MeditationCircle.json | function | startMeditation | 2 | _secondaryStat | 1 | uint8
+MeditationCircle.json | function | startMeditation | 3 | _tertiaryStat | 7 | uint8
+MeditationCircle.json | function | startMeditation | 4 | _attunementCrystal | None | address
+MeditationCircle.json | event | MeditationBegun | 0 | player | USER | address
+MeditationCircle.json | event | MeditationBegun | 1 | heroId | 52310 | uint256
+MeditationCircle.json | event | MeditationBegun | 2 | meditationId | 40183 | uint256
+MeditationCircle.json | event | MeditationBegun | 3 | primaryStat | 4 | uint8
+MeditationCircle.json | event | MeditationBegun | 4 | secondaryStat | 1 | uint8
+MeditationCircle.json | event | MeditationBegun | 5 | tertiaryStat | 7 | uint8
+MeditationCircle.json | event | MeditationBegun | 6 | attunementCrystal | None | address

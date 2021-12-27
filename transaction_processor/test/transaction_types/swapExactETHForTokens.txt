@@ -1,0 +1,168 @@
+
+[2021/11/22, 00:45:14] || [TXN HASH] 0xa8dd79ef4ceee55db4b017090ff274e805ceee423665e43a2ded1858b542a4e1|| 21
+USER > Serendale_UniswapV2Router02
+gas: 1.55133e-13 [ONE]
+gasPrice: 2e-08 [ONE]
+nonce: 17
+value: 1400.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 46930302905567938299 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Serendale_JewelToken'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1637561082 | uint256
+
+[2021/11/27, 01:16:15] || [TXN HASH] 0x6d6694d7df800c3b39b3389c18bde2b983a3499d1c87a246f1a30e22a6784eb5|| 52
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.64074e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 46
+value: 100.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 16730392 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1637994951 | uint256
+
+[2021/11/27, 06:53:22] || [TXN HASH] 0x3b16fcb893a6e92fc9fa1f445920ee75dd57efb652fa80b15dce73a05f3e0c66|| 63
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.47326e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 56
+value: 1400.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 239309758 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638015161 | uint256
+
+[2021/11/27, 19:54:37] || [TXN HASH] 0xf1feb587ea0f8acdec9a78b23bc90b8a012a79d66053078e428b7d7171c03b98|| 67
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.64074e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 60
+value: 53.238 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 8063146 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638062056 | uint256
+
+[2021/11/28, 11:13:17] || [TXN HASH] 0x5cbb4f37efde988276e023c90d985efd80abebdc5c5869f4c20644552074a2a8|| 71
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.64074e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 64
+value: 32.676990947712675 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 4884716 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638117170 | uint256
+
+[2021/11/29, 08:13:04] || [TXN HASH] 0x1f82f8376296ae5c6f4e7fa5e46f2efc7d38330df758b9946bdd0a8cddb36f89|| 75
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.64074e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 68
+value: 45.57302973721592 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 6573490 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638192764 | uint256
+
+[2021/11/29, 20:30:43] || [TXN HASH] 0x2defb1e54dd40e12858c519c5af903b99245dd62582188f40e5dd2f58fe88a2d|| 79
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.64088e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 71
+value: 930.29 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 135780267 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638237010 | uint256
+
+[2021/11/29, 20:34:53] || [TXN HASH] 0xb1f8d03394c0e2dbee3a0f69dd562b9271ebe53fe23566eaabd1fc95474364bc|| 81
+USER > Serendale_UniswapV2Router02
+gas: 1.71895e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 73
+value: 975.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 31040536599493737161 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Serendale_JewelToken'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638237258 | uint256
+
+[2021/11/30, 08:46:51] || [TXN HASH] 0x93fba4a0231d2c0a4a0309e95d86fc8d66ea4a370062d7b3e9cc83557aaf07fc|| 88
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.50661e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 80
+value: 71.793 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 10442116 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638281187 | uint256
+
+[2021/12/01, 09:19:05] || [TXN HASH] 0xbcbaee2702dd8587cda3be75fb3b251353d70549047c09f3310e59681d687edd|| 92
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.50661e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 84
+value: 76.75320060529664 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 11279944 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638369515 | uint256
+
+[2021/12/02, 07:14:21] || [TXN HASH] 0x24acbcd5c405969f2e6253c54812c6c53060e81d6777ed0b8e97ac130542fca5|| 97
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.64074e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 89
+value: 54.6 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 7958550 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638448433 | uint256
+
+[2021/12/04, 11:10:06] || [TXN HASH] 0x229a2b6c96039ca1259e405d5ab9ce1536edb4f4b9492e87da9c33b30d7ee0ee|| 104
+USER > 0xf012702a5f0e54015362cBCA26a26fc90AA832a3
+gas: 1.64074e-13 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 96
+value: 104.14426947247283 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 16566951 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Euphoria (WAGMI)'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1638635359 | uint256
+
+[2021/12/10, 14:02:48] || [TXN HASH] 0xe2ed962df9df8d6ace75f38c825739f057ba729e0c330de58524eb4f5e1f31bf|| 110
+USER > Serendale_UniswapV2Router02
+gas: 1.55133e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 102
+value: 2027.3078125602792 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 52923065604492595133 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Serendale_JewelToken'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1639164125 | uint256
+
+[2021/12/13, 21:59:37] || [TXN HASH] 0x0b4ab87697c4cbf8cb8b8df04240545b4b34595c0b15a6ebec0ed59fd6fd8cd0|| 131
+USER > Serendale_UniswapV2Router02
+gas: 1.55133e-13 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 122
+value: 2611.860480399 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+IUniswapV2Router02.json | function | swapExactETHForTokens | 0 | amountOutMin | 66351523253981085329 | uint256
+IUniswapV2Router02.json | function | swapExactETHForTokens | 1 | path | ['Wrapped ONE (WONE)', 'Serendale_JewelToken'] | address[]
+IUniswapV2Router02.json | function | swapExactETHForTokens | 2 | to | USER | address
+IUniswapV2Router02.json | function | swapExactETHForTokens | 3 | deadline | 1639451942 | uint256

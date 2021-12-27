@@ -1,0 +1,275 @@
+
+[2021/11/19, 21:05:12] || [TXN HASH] 0x03a316f4bb182b26d2ae94db0057e5c182e8416cca4db9749474a23aac42d3e3|| 3
+USER > Serendale_JewelToken
+gas: 4.8922e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 2
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | Serendale_UniswapV2Router02 | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | Serendale_UniswapV2Router02 | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | Serendale_UniswapV2Router02 | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | Serendale_UniswapV2Router02 | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | Serendale_UniswapV2Router02 | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | Serendale_UniswapV2Router02 | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_UniswapV2Router02 | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/11/19, 21:10:48] || [TXN HASH] 0x4c119fff553082b2e0938cf2ef7fc35568baa54e3bb2ac135d627dca13987adb|| 5
+USER > Jewel LP Token (JEWEL-LP)
+gas: 4.8789e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 4
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | Serendale_MasterGardener | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | Serendale_MasterGardener | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | Serendale_MasterGardener | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | Serendale_MasterGardener | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | Serendale_MasterGardener | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | Serendale_MasterGardener | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MasterGardener | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/11/27, 01:17:59] || [TXN HASH] 0x91d0df250aa1fe59b43123142ffeaf9e1f3b96e00a2c638f7474e8c4ed77b6d5|| 53
+USER > Euphoria (WAGMI)
+gas: 4.4354e-14 [ONE]
+gasPrice: 2.5e-08 [ONE]
+nonce: 47
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | None | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | None | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | None | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | None | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | None | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | None | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | None | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/11/27, 01:24:00] || [TXN HASH] 0x1fb71db2eb7d89b3c51816a471fe2485d11f379332ff54736c5eb22747d706dd|| 54
+USER > Euphoria (WAGMI)
+gas: 2.5154e-14 [ONE]
+gasPrice: 1.6e-08 [ONE]
+nonce: 48
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | None | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | None | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | None | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | None | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | None | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | None | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | None | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/11/27, 01:24:46] || [TXN HASH] 0x7a0967a9e7fa0e4b1d91ca20531dd7515d6a959420146554ce9ddc9248e8d25a|| 55
+USER > Euphoria (WAGMI)
+gas: 2.5154e-14 [ONE]
+gasPrice: 1.6e-08 [ONE]
+nonce: 49
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | None | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | None | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | None | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | None | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | None | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | None | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | None | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/11/27, 01:25:41] || [TXN HASH] 0xa061dd1c18ae332942e39e4b0698bc410ac591bb5dd5a670ba43f2499555af3e|| 56
+USER > Staked WAGMI (sWAGMI)
+gas: 4.4243e-14 [ONE]
+gasPrice: 1.6e-08 [ONE]
+nonce: 50
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | None | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | None | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | None | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | None | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | None | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | None | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | None | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/12/03, 07:25:08] || [TXN HASH] 0x711e7b10918e7ebe9c736932b3c74d5a48140b6d034f3df64c60d4aba774527b|| 100
+USER > Serendale_JewelToken
+gas: 4.8922e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 92
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | Serendale_Bank | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | Serendale_Bank | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | Serendale_Bank | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | Serendale_Bank | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | Serendale_Bank | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | Serendale_Bank | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_Bank | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/12/10, 13:58:24] || [TXN HASH] 0x12cbf1ed07bb00beb1652e33b48bfc578733015fa22b7668da98877cca34b8a0|| 107
+USER > Euphoria (WAGMI)
+gas: 4.8789e-14 [ONE]
+gasPrice: 2e-09 [ONE]
+nonce: 99
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | None | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | None | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | None | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | None | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | None | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | None | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | None | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/12/12, 20:27:15] || [TXN HASH] 0xfc98d6f7ccf155557d30dbe82b6f372ef5e99dcd9f1a7ff48926819245e5badf|| 111
+USER > Serendale_JewelToken
+gas: 4.8922e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 103
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | Serendale_AuctionHouse | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | Serendale_AuctionHouse | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | Serendale_AuctionHouse | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | Serendale_AuctionHouse | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | Serendale_AuctionHouse | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | Serendale_AuctionHouse | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_AuctionHouse | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/12/20, 09:29:42] || [TXN HASH] 0x2958b6a22baba69af3849ffd2f69d214bf6411de160680c5838ca32e1e91105a|| 219
+USER > Serendale_JewelToken
+gas: 4.8922e-14 [ONE]
+gasPrice: 1e-08 [ONE]
+nonce: 210
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | Serendale_MeditationCircle | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | Serendale_MeditationCircle | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | Serendale_MeditationCircle | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | Serendale_MeditationCircle | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+
+[2021/12/20, 09:30:16] || [TXN HASH] 0xbd4eedf3b43b03699a752b481676bcdb51bab9dc5a26b906d9fba551081671f7|| 220
+USER > ShvasRune
+gas: 4.8972e-14 [ONE]
+gasPrice: 1e-09 [ONE]
+nonce: 211
+value: 0.0 [ONE]
+------[PROCESSED] TRANSACTION RECEIPT------
+Bank.json | function | approve | 0 | spender | Serendale_MeditationCircle | address
+Bank.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+Bank.json | event | Approval | 0 | owner | USER | address
+Bank.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
+Bank.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | function | approve | 0 | spender | Serendale_MeditationCircle | address
+ERC20.json | function | approve | 1 | amount | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC20.json | event | Approval | 0 | owner | USER | address
+ERC20.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
+ERC20.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+ERC721.json | function | approve | 0 | to | Serendale_MeditationCircle | address
+ERC721.json | function | approve | 1 | tokenId | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | function | approve | 0 | spender | Serendale_MeditationCircle | address
+IUniswapV2Pair.json | function | approve | 1 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
+IUniswapV2Pair.json | event | Approval | 0 | owner | USER | address
+IUniswapV2Pair.json | event | Approval | 1 | spender | Serendale_MeditationCircle | address
+IUniswapV2Pair.json | event | Approval | 2 | value | 115792089237316195423570985008687907853269984665640564039457584007913129639935 | uint256
