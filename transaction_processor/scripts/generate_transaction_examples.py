@@ -26,7 +26,6 @@ main_addresses = [
         #'0x2E7669F61eA77F02445A015FBdcFe2DE47083E02', # FriskyFox
         #'0xd83d5ebbe238aefb7802506ac8386882b5cc8186', # Raspberry Swirl
         #'0x4a93a25509947d0744efc310ae23c1a15be7c19b', # baloo3101
-        #'0xef2539ecc96565063cd744076f705d3c481659c8',
         ]
 
 # Writing info into log
