@@ -27,7 +27,7 @@ def get_transaction_receipt_data(txn_receipt,txn_input,contract_address,main_add
         contract = w3.eth.contract(contract_address,abi=abi_json) # generate web3 contract to parse txn
         try:
             abi_data['function'] = _decode_transaction_function(contract, txn_input, abi_parser)
-            abi_data['event'] = _decode_transaction_receipts(contract, abi_parser)
+            abi_data['event'] = _decode_transaction_receipts(contract, abi_parser, txn_receipt)
         except:
             continue
 
@@ -62,12 +62,11 @@ def _decode_transaction_function(contract, txn_input, abi_parser):
 
     return result
 
-def _decode_transaction_receipts(contract, abi_parser):
+def _decode_transaction_receipts(contract, abi_parser, txn_receipt):
     """
     Extract txn receipt
     """
     results = {}
-
     abi_events = abi_parser.get_event_names()
     for event in abi_events:
         results[event] = []

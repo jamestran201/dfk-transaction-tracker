@@ -11,11 +11,16 @@ console = Console()
 import warnings
 warnings.simplefilter("ignore")
 
+
 """
 INPUTS
 """
-main_addresses = ['***REMOVED***', # Me
+main_addresses = [
+        #'0xef2539ecc96565063cd744076f705d3c481659c8', # Account that sold My Wallet Overlan Vorlas
+        #'***REMOVED***', # My Wallet
         '***REMOVED***', # FriskyFox
+        #'***REMOVED***', # Raspberry Swirl
+        #'***REMOVED***', # baloo3101
         ]
 verbose = True
 
