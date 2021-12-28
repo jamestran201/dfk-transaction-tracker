@@ -1,3 +1,5 @@
+import json
+
 from utils import transaction_core
 from utils import utils
 from utils import hero
@@ -19,6 +21,17 @@ class Transaction:
         self.hero_log = {}
         self.liquiditypool = {}
     
+    def _convert_token_addresses_to_names(self):
+        new_tx_tokens = {}
+        for key, values in self.info['TxTokens'].items():
+            token_name = utils.process_address(key, self.main_address)
+            if token_name:
+                new_tx_tokens[token_name] = values
+            else:
+                new_tx_tokens[key] = values
+
+        self.info['TxTokens'] = new_tx_tokens
+
     def get_receipt(self):
         """
         Print transaction information
@@ -35,7 +48,7 @@ class Transaction:
             receipt += f"-\n"
         else:
             for key,values in self.info['TxTokens'].items():
-                receipt += f"{key}: {values} ({utils.process_address(key,self.main_address)})\n"
+                receipt += f"{key}: {values}\n"
         receipt += f"[bold underline]Hero transfers[/]\n"
         if len(self.hero_log) == 0:
             receipt += f"-\n"
@@ -83,6 +96,8 @@ class Transaction:
             # Print receipt
             if self.verbose:
                 self.get_receipt()
+
+            self._convert_token_addresses_to_names()
             return 0
 
         ### UniswapV2Router02 
@@ -233,6 +248,8 @@ class Transaction:
 
         else:
             NotImplemented
+
+        self._convert_token_addresses_to_names()
 
         # Print receipt
         if self.verbose:
