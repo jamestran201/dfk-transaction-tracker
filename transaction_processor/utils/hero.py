@@ -1,18 +1,25 @@
 import requests
 import json
 
-HEROTAX = 3.75 / 100
+SALETAX = 3.75 / 100
 
 def api_call(query,url='http://graph3.defikingdoms.com/subgraphs/name/defikingdoms/apiv5'):
 
     return requests.post(url,json={'query':query})
 
-def check_hero_sold(auction_id):
+def check_hero_sold(auction_id,to_mapped):
     """
     Check if hero is sold in an auction transaction
     returns True when a hero is sold
     """
-    query_ = f"saleAuction(id:{auction_id})"
+    if to_mapped == 'Serendale_summoning':
+        query_ = f"assistingAuction(id:{auction_id})"
+        auction_type = 'assistingAuction'
+    elif to_mapped == 'Serendale_AuctionHouse':
+        query_ = f"saleAuction(id:{auction_id})"
+        auction_type = 'saleAuction'
+    else:
+        NotImplemented
     query = f"""query{{
       {query_} {{
           winner {{id}}
@@ -21,7 +28,7 @@ def check_hero_sold(auction_id):
     r = api_call(query)
     json_data = json.loads(r.text)
     try:
-        sold_hero_flag = (json_data['data']['saleAuction']['winner'] is not None)
+        sold_hero_flag = (json_data['data'][auction_type]['winner'] is not None)
     # There are cases where the graphql query returns null
     # In these cases, it is assumed that the sale was not successful.
     except:
