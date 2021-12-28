@@ -1,9 +1,10 @@
 import os
 
-from utils.abi_parser import ABIParser
-from contracts.contract_address import SerendaleContractAddress
-from contracts.contract_address import Tokens
 from web3 import Web3
+
+from transaction_processor.utils.abi_parser import ABIParser
+from transaction_processor.contracts.contract_address import SerendaleContractAddress
+from transaction_processor.contracts.contract_address import Tokens
 
 
 def receipt_data():
