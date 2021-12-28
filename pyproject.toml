@@ -15,11 +15,11 @@ web3 = "5.25.0"
 django-compressor = "3.1"
 pandas = "1.3.5"
 pyhmy = {git = "https://github.com/tmnhat2001/pyhmy.git", rev = "6ff5555499150f23d6f3da7feca5769757f0cd5b"}
+rich = "10.16.1"
 
 [tool.poetry.dev-dependencies]
 pytest-django = "4.5.2"
 django-libsass = "0.9"
-rich = "10.16.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
