@@ -1,8 +1,8 @@
 from web3 import Web3
-from utils import utils
-from utils import hero
-from utils.abi_parser import ABIParser
-from contracts.contract_address import SerendaleContractAddress
+
+from transaction_processor.utils import utils, hero
+from transaction_processor.utils.abi_parser import ABIParser
+from transaction_processor.contracts.contract_address import SerendaleContractAddress
 
 from rich.console import Console
 console = Console()
@@ -37,7 +37,6 @@ def get_LiquidityPair(lp_addr):
 def get_Transfers(transaction_receipt,main_address,verbose=False):
     net_transactions = {}
     for log in transaction_receipt['logs']:
-        address = log['address']
         data = log['data']
         func_hex = log['topics'][0].hex()
         if func_hex == event_hex['Transfer']:
@@ -56,6 +55,8 @@ def get_Transfers(transaction_receipt,main_address,verbose=False):
             except:
                 console.print(f"[bold red] WARNING[/]: (Transfer amount) {data}")
                 continue
+
+            address = log['address']
             if address not in net_transactions:
                 net_transactions[address] = sign * amount
             else:
