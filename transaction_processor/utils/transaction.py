@@ -150,8 +150,8 @@ class Transaction:
         elif self.info['function'] == 'completeMeditation':
             pass
 
-        ### Serendale_AuctionHouse
-
+        ### Serendale_AuctionHouse / Serendale_summoning
+        
         # Listing hero for auction (only TX fee)
         # Also, uses graphQL to query if the hero has sold
         # Hero is sold at .9675 of purchased price (dfk recieves 3.75% of hero sales)
@@ -160,10 +160,14 @@ class Transaction:
                     self.info['TxTokens'],
                     self.hero_log,
                     self.transaction_data,
+                    self.info['to_mapped']
                     )
         # Cancel hero for auction (only TX fee)
         elif self.info['function'] == 'cancelAuction':
             pass
+
+        ### Serendale_AuctionHouse
+
         # bid for hero
         elif self.info['function'] == 'bid':
             self.hero_log = hero.add_hero(

@@ -108,7 +108,7 @@ def withdraw(liquidity_pool,net_transactions):
 
     return liquidity_pool
 
-def createAuction(net_transactions,hero_log,transaction_data):
+def createAuction(net_transactions,hero_log,transaction_data,to_mapped):
     """
     query graphQL to see if hero is sold,
     if hero is sold, the USER recieves JEWEL
@@ -117,11 +117,16 @@ def createAuction(net_transactions,hero_log,transaction_data):
     _id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][1]['tokenId'][0] # Hero id
     auction_id = transaction_data['SaleAuction.json']['event']['AuctionCreated'][2]['auctionId'][0] # Auction Id
     price = transaction_data['SaleAuction.json']['event']['AuctionCreated'][3]['startingPrice'][0] # Price of hero
-    if hero.check_hero_sold(auction_id):
-        profit = price * (1-hero.HEROTAX)
-        hero_log[f"subtractHero_{_id}"] = profit
+    # `to_mapped` determines if the hero is rented or sold
+    if hero.check_hero_sold(auction_id, to_mapped):
+        profit = price * (1-hero.SALETAX)
         net_transactions[ JewelToken_address ] = profit
-
+        if to_mapped == 'Serendale_summoning':
+            hero_log[f"rentHero_{_id}"] = profit
+        elif to_mapped == 'Serendale_AuctionHouse':
+            hero_log[f"subtractHero_{_id}"] = profit
+        else:
+            NotImplemented
     else:
         pass
 
