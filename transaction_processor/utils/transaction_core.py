@@ -1,3 +1,5 @@
+import pathlib
+
 from web3 import Web3
 
 from transaction_processor.utils import utils, hero
@@ -24,8 +26,16 @@ def get_LiquidityPair(lp_addr):
         token1 = 'ONE'
         return (token0,token1)
     else:
+        # This first block of code figures out the absolute path to the directory that contains the ABI
+        # This function assumes we are using the files located at transaction_processor/contracts/abi/
+        # Because this function is used from both transaction_processor/main.py and tracker/tasks.py,
+        # using relative path won't work for the latter case. When run from tracker/tasks.py, the
+        # relative path is assumed to start from the directory that tasks.py is in, which is tracker/
+        current_dir = pathlib.Path(__file__).parent.resolve()
+        abi_dir = current_dir.parent / "contracts/abi"
+
         try:
-            abi = ABIParser('contracts/abi/IUniswapV2Pair.json').load_json()
+            abi = ABIParser(f"{abi_dir}/IUniswapV2Pair.json").load_json()
             contract = w3.eth.contract(lp_addr,abi=abi)
             token0 = contract.functions.token0().call()
             token1 = contract.functions.token1().call()
