@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% load static compress %}
+
+{% block css %}
+  {% compress css %}
+    <link type="text/x-scss" href="{% static 'scss/transactions_get.scss' %}" rel="stylesheet">
+  {% endcompress %}
+{% endblock %}
+
+{% block content %}
+<div class="d-flex flex-column justify-content-center vh-100">
+</div>
+{% endblock %}
