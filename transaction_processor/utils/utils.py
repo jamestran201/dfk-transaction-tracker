@@ -1,3 +1,4 @@
+import pathlib
 import os
 
 from web3 import Web3
@@ -17,10 +18,10 @@ def get_transaction_receipt(transaction_hash,main_net='https://rpc.s0.t.hmny.io'
     w3 = Web3(Web3.HTTPProvider(main_net))
     return w3.eth.get_transaction_receipt(transaction_hash)
 
-def get_transaction_receipt_data(txn_receipt,txn_input,contract_address,main_address,abidir='contracts/abi',main_net='https://rpc.s0.t.hmny.io'):
+def get_transaction_receipt_data(txn_receipt,txn_input,contract_address,main_address,main_net='https://rpc.s0.t.hmny.io'):
     # Loop through all abis to find function info
     w3 = Web3(Web3.HTTPProvider(main_net))
-    abi_parsers = _create_abi_parsers(abidir)
+    abi_parsers = _create_abi_parsers()
     data = {}
     for abi_parser in abi_parsers:
         abi_data = receipt_data() # Set-up empty data
@@ -36,7 +37,15 @@ def get_transaction_receipt_data(txn_receipt,txn_input,contract_address,main_add
 
     return data
 
-def _create_abi_parsers(abi_dir):
+def _create_abi_parsers():
+    # This first block of code figures out the absolute path to the directory that contains the ABI
+    # This function assumes we are using the files located at transaction_processor/contracts/abi/
+    # Because this function is used from both transaction_processor/main.py and tracker/tasks.py,
+    # using relative path won't work for the latter case. When run from tracker/tasks.py, the
+    # relative path is assumed to start from the directory that tasks.py is in, which is tracker/
+    current_dir = pathlib.Path(__file__).parent.resolve()
+    abi_dir = current_dir.parent / "contracts/abi"
+
     all_abis = [os.path.join(abi_dir,i) for i in os.listdir(abi_dir)]
     return [ABIParser(abi) for abi in all_abis]
 
