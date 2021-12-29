@@ -103,10 +103,12 @@ for main_address in main_addresses:
         TEST
         """
         transaction_receipt = get_transaction_receipt(df_row['TxHash']) # transaction receipt (logs/topics) have useful information that we do not use here
-        transaction_data = get_transaction_receipt_data(transaction_receipt,
-                df_row['input'],
-                df_row['to'],
-                main_address,abidir='../contracts/abi/')
+        transaction_data = get_transaction_receipt_data(
+            transaction_receipt,
+            df_row['input'],
+            df_row['to'],
+            main_address
+        )
         
         try:
             function = [j for j in [i for i in transaction_data.values()][0]['function'].keys()][0]

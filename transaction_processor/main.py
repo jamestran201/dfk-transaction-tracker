@@ -34,12 +34,11 @@ for main_address in main_addresses:
         df_row = txn_parser.all_transactions.iloc[idx]
         transaction_receipt = get_transaction_receipt(df_row['TxHash'])
         transaction_data = get_transaction_receipt_data(
-                transaction_receipt,
-                df_row['input'],            
-                df_row['to'],
-                main_address,abidir='contracts/abi'
-                )
-        # 
+            transaction_receipt,
+            df_row['input'],
+            df_row['to'],
+            main_address
+        )
         transaction = Transaction(
                 main_address,
                 df_row,
