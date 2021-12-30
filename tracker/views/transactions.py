@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from django.views import View
 
+from tracker.presenters.transaction_presenter import TransactionPresenter
+
 
 class TransactionsView(View):
     def get(self, request):
@@ -58,5 +60,7 @@ class TransactionsView(View):
             {'function': 'claimReward', 'status': 1, 'TxHash': '0x362b1a89878c3af1ec264b24c820fabf90a22d1d3e3c60318dc7e0aec5cdcbe7', 'timestamp': '2021/08/24, 22:22:51', 'to': '0xDB30643c71aC9e2122cA0341ED77d09D5f99F924', 'from': '0xD83d5EBBE238aEfB7802506aC8386882b5CC8186', 'to_mapped': 'Serendale_MasterGardener', 'from_mapped': 'USER', 'value': 0.0, 'TxFee': 0.0035646000000000002, 'TxTokens': {'Serendale_JewelToken': 141419779032898227366}},
             {'function': 'swapExactTokensForETH', 'status': 1, 'TxHash': '0xf514db8a26f470869f4555cda89ebcb56e1acdeeea43c2eb2fa2eaaae1de025c', 'timestamp': '2021/08/24, 22:27:17', 'to': '0x24ad62502d1C652Cc7684081169D04896aC20f30', 'from': '0xD83d5EBBE238aEfB7802506aC8386882b5CC8186', 'to_mapped': 'Serendale_UniswapV2Router02', 'from_mapped': 'USER', 'value': 0.0, 'TxFee': 0.00134827, 'TxTokens': {'Serendale_JewelToken': -1000000000000000000000, 'ONE': 2104022881041779429054}}
         ]
+        
+        presenters = [TransactionPresenter(t) for t in transactions]
 
-        return render(request, "transactions/get.html", {"transactions": transactions})
+        return render(request, "transactions/get.html", {"transactions": presenters})
