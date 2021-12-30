@@ -46,7 +46,7 @@
                 <p>Sent</p>
                 <ul>
                 {% for transfer in transfers %}
-                  <li>{{ transfer.token }}: {{ transfer.amount }}</li>
+                  <li>{{ transfer.amount }} {{ transfer.token }}</li>
                 {% endfor %}
               {% endif %}
               </ul>
@@ -57,7 +57,7 @@
                 <p>Received</p>
                 <ul>
                 {% for transfer in transfers %}
-                  <li>{{ transfer.token }}: {{ transfer.amount }}</li>
+                  <li>{{ transfer.amount }} {{ transfer.token }}</li>
                 {% endfor %}
               {% endif %}
               </ul>
