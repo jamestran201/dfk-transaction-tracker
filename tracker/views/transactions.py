@@ -72,6 +72,7 @@ class TransactionsView(View):
         total_pages = ceil(len(transactions) / TRANSACTIONS_PER_PAGE)
         pagination_presenter = TransactionPaginator(total_pages, current_page)
         
-        presenters = [TransactionPresenter(t) for t in transactions]
+        start = (current_page - 1) * TRANSACTIONS_PER_PAGE
+        presenters = [TransactionPresenter(transactions[i]) for i in range(start, start + TRANSACTIONS_PER_PAGE)]
 
         return render(request, "transactions/get.html", {"transactions": presenters, "paginator": pagination_presenter})
