@@ -1,2 +1,13 @@
-.transaction-summary {
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/variables';
+@import '../node_modules/bootstrap/scss/mixins/_breakpoints.scss';
+
+@include media-breakpoint-up(lg) {
+  .transaction-list {
+    align-items: center !important;
+  }
+
+  .transaction-container {
+    width: 60%!important;
+  }
 }
