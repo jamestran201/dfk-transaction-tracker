@@ -27,6 +27,16 @@
           <strong>Transaction hash:</strong>
           <a href="{{ transaction.block_explorer_link }}" target="_blank">{{ transaction.tx_hash }}</a>
 
+          <hr>
+
+          <strong>Status:</strong>
+          <span class="badge rounded-pill {{ transaction.status_badge_css_class }}">{{ transaction.status }}</span>
+
+          <hr>
+
+          <strong>Gas fee:</strong>
+          <span>{{ transaction.gas_fee }}</span>
+
           {% if transaction.has_token_transfers %}
             <hr>
 
@@ -53,6 +63,8 @@
               </ul>
             {% endwith %}
           {% endif %}
+
+
         </div>
       </div>
     </div>
