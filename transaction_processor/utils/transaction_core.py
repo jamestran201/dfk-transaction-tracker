@@ -25,7 +25,7 @@ def get_LiquidityPair(lp_addr):
         return (token0,token1)
     else:
         try:
-            abi = ABIParser('contracts/abi/IUniswapV2Pair.json').load_json()
+            abi = ABIParser('transaction_processor/contracts/abi/IUniswapV2Pair.json').load_json()
             contract = w3.eth.contract(lp_addr,abi=abi)
             token0 = contract.functions.token0().call()
             token1 = contract.functions.token1().call()
