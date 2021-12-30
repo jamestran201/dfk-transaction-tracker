@@ -14,6 +14,7 @@
       <div class="accordion-header">
         <div class="accordion-button collapsed flex-column align-items-start" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.counter0}}" aria-expanded="false" aria-controls="collapse{{forloop.counter0}}">
           <span>{{ transaction.date }}</span>
+
           <div class="d-flex flex-row justify-content-between w-100">
             <span>{{ transaction.transaction_type }}</span>
             <span>{{ transaction.action }}</span>
@@ -23,7 +24,30 @@
 
       <div id="collapse{{forloop.counter0}}" class="accordion-collapse collapse">
         <div class="accordion-body">
-          world{{forloop.counter0}}
+          {% if transaction.has_token_transfers %}
+            <strong>Token transfers:</strong>
+            {% with transfers=transaction.sent_tokens %}
+              {% if transfers|length > 0 %}
+                <p>Sent</p>
+                <ul>
+                {% for transfer in transfers %}
+                  <li>{{ transfer.token }}: {{ transfer.amount }}</li>
+                {% endfor %}
+              {% endif %}
+              </ul>
+            {% endwith %}
+
+            {% with transfers=transaction.received_tokens %}
+              {% if transfers|length > 0 %}
+                <p>Received</p>
+                <ul>
+                {% for transfer in transfers %}
+                  <li>{{ transfer.token }}: {{ transfer.amount }}</li>
+                {% endfor %}
+              {% endif %}
+              </ul>
+            {% endwith %}
+          {% endif %}
         </div>
       </div>
     </div>

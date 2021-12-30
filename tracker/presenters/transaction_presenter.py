@@ -23,3 +23,38 @@ class TransactionPresenter:
 
     def action(self):
         return self.transaction["function"]
+
+    def has_token_transfers(self):
+        return len(self.transaction["TxTokens"]) > 0
+
+    def sent_tokens(self):
+        results = []
+        for token, amount in self.transaction["TxTokens"].items():
+            if amount > 0:
+                continue
+
+            amount = self._convert_amount_relative_to_one_tokens(token, amount)
+            results.append(dict(token=token, amount=-1 * amount))
+
+        return results
+
+    def received_tokens(self):
+        results = []
+        for token, amount in self.transaction["TxTokens"].items():
+            if amount < 0:
+                continue
+
+            amount = self._convert_amount_relative_to_one_tokens(token, amount)
+            results.append(dict(token=token, amount=amount))
+
+        return results
+
+    def _convert_amount_relative_to_one_tokens(self, token, amount):
+        # TODO: Add logic to differentiate token vs item transfers
+        # Checking that amount is greater than 1000 is quick hack
+        # because the token transfers can contain in-game items as well.
+        # The amount for these in-game items does not need to be normalized.
+        if token != "ONE" and amount > 1000:
+            return amount / 10e17
+        else:
+            return amount
