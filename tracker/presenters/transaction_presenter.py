@@ -1,6 +1,9 @@
 CONTRACT_NAME_TO_GAME_NAME_MAPPING = {
     "UniswapV2Router02": "Marketplace",
 }
+
+HARMONY_BLOCK_EXPLORER = "https://explorer.harmony.one/tx/"
+
 class TransactionPresenter:
     def __init__(self, transaction):
         self.transaction = transaction
@@ -24,6 +27,12 @@ class TransactionPresenter:
     def action(self):
         return self.transaction["function"]
 
+    def tx_hash(self):
+        return self.transaction["TxHash"]
+
+    def block_explorer_link(self):
+        return f"{HARMONY_BLOCK_EXPLORER}{self.transaction['TxHash']}"
+
     def has_token_transfers(self):
         return len(self.transaction["TxTokens"]) > 0
 
@@ -33,8 +42,9 @@ class TransactionPresenter:
             if amount > 0:
                 continue
 
+            amount *= -1
             amount = self._convert_amount_relative_to_one_tokens(token, amount)
-            results.append(dict(token=token, amount=-1 * amount))
+            results.append(dict(token=token, amount=amount))
 
         return results
 
