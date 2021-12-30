@@ -34,8 +34,8 @@
 
           <hr>
 
-          <strong>Gas fee:</strong>
-          <span>{{ transaction.gas_fee }}</span>
+          <strong>Transaction fee:</strong>
+          <span>{{ transaction.transaction_fee }}</span>
 
           {% if transaction.has_token_transfers %}
             <hr>
@@ -63,8 +63,6 @@
               </ul>
             {% endwith %}
           {% endif %}
-
-
         </div>
       </div>
     </div>
