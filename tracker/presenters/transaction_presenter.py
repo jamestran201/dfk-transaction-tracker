@@ -33,6 +33,15 @@ class TransactionPresenter:
     def block_explorer_link(self):
         return f"{HARMONY_BLOCK_EXPLORER}{self.transaction['TxHash']}"
 
+    def status(self):
+        return "Success" if self.transaction["status"] == 1 else "Error"
+
+    def status_badge_css_class(self):
+        return "bg-success" if self.transaction["status"] == 1 else "bg-danger"
+
+    def gas_fee(self):
+        return self.transaction["TxFee"]
+
     def has_token_transfers(self):
         return len(self.transaction["TxTokens"]) > 0
 
