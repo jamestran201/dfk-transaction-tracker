@@ -40,7 +40,7 @@
   {% for transaction in transactions %}
     <div class="accordion-item text-wrap text-break mx-3 my-2 rounded custom-container">
       <div class="accordion-header">
-        <div class="accordion-button collapsed flex-column align-items-start" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.counter0}}" aria-expanded="false" aria-controls="collapse{{forloop.counter0}}">
+        <div class="accordion-button flex-column align-items-start" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.counter0}}" aria-expanded="false" aria-controls="collapse{{forloop.counter0}}">
           <span>{{ transaction.date }}</span>
 
           <div class="d-flex flex-row justify-content-between w-100">
@@ -50,7 +50,7 @@
         </div>
       </div>
 
-      <div id="collapse{{forloop.counter0}}" class="accordion-collapse collapse">
+      <div id="collapse{{forloop.counter0}}" class="accordion-collapse collapse show">
         <div class="accordion-body">
           <strong>Transaction hash:</strong>
           <a href="{{ transaction.block_explorer_link }}" target="_blank">{{ transaction.tx_hash }}</a>
