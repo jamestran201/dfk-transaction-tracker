@@ -40,7 +40,6 @@ ADMIN_ENABLED = False
 # Application definition
 
 DJANGO_APPS = [
-    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -149,13 +148,14 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 STATICFILES_FINDERS = [
     'django.contrib.staticfiles.finders.FileSystemFinder',
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     'compressor.finders.CompressorFinder',
 ]
-STATIC_ROOT = str(BASE_DIR / "static/")
+STATIC_ROOT = str(BASE_DIR / "staticfiles")
+STATICFILES_DIRS = [str(BASE_DIR / "static")]
 
 # django-libsass
 COMPRESS_PRECOMPILERS = (
