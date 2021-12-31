@@ -123,9 +123,9 @@ def createAuction(net_transactions,hero_log,transaction_data,to_mapped):
         profit = price * (1-hero.SALETAX)
         net_transactions[ JewelToken_address ] = profit
         if to_mapped == 'Serendale_summoning':
-            hero_log[f"rentHero_{_id}"] = profit
+            hero_log[f"rentHero_{_id}"] = net_transactions
         elif to_mapped == 'Serendale_AuctionHouse':
-            hero_log[f"subtractHero_{_id}"] = profit
+            hero_log[f"subtractHero_{_id}"] = net_transactions
         else:
             NotImplemented
     else:
