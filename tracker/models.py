@@ -78,13 +78,9 @@ class Transaction(models.Model):
             for lp, lp_values in lp_transaction.items():
                 # Input lp dict key in balance if it does not exist
                 if lp not in self.wallet_address.balance['liquidity_pools']:
-                    self.wallet_address.balance['liquidity_pools'][lp] = {}
-                # Determine the value of the hero based on materials used to create him/her
-                for k, v in lp_values.items():
-                    if k not in self.wallet_address.balance['liquidity_pools'][lp]:
-                        self.wallet_address.balance['liquidity_pools'][lp] = v
-                    else:
-                        self.wallet_address.balance['liquidity_pools'][lp] += v
+                    self.wallet_address.balance['liquidity_pools'][lp] = lp_values
+                else:
+                    self.wallet_address.balance['liquidity_pools'][lp] += lp_values
 
     def __str__(self):
         return self.transaction_hash
