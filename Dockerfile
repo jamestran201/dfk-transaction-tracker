@@ -6,8 +6,18 @@ COPY ./docker_build/requirements.txt ./requirements.txt
 
 RUN pip install --requirement requirements.txt
 
-FROM common_build as celery_build
-
 COPY . .
 
-ENTRYPOINT ["scripts/celery-start.sh"]
+FROM common_build as celery_build
+
+ENV PYTHONUNBUFFERED 1
+ENV PYTHONDONTWRITEBYTECODE 1
+
+ENTRYPOINT ["scripts/start-celery.sh"]
+
+FROM common_build as app_build
+
+ENV PYTHONUNBUFFERED 1
+ENV PYTHONDONTWRITEBYTECODE 1
+
+ENTRYPOINT ["scripts/start-django-prod.sh"]
