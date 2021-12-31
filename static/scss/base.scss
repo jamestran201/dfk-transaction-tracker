@@ -1,11 +1,21 @@
 // Overriding default variables from boostrap.scss
+// $component-active-bg: #009C44;
 $danger: #f83b4d;
 
 $accordion-bg: #ffe0b7;
+$accordion-button-active-bg: #009C44;
+$accordion-button-active-color: #FFFFFF;
 
 $pagination-color: #100F21;
 $pagination-bg: #ffe0b7;
 $pagination-border-color: #100F21;
+
+$pagination-focus-color: #009C44;
+$pagination-hover-color: #009C44;
+
+$pagination-active-color: #FFFFFF;
+$pagination-active-bg: #009C44;
+
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
 
