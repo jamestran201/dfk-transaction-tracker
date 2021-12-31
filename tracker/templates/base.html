@@ -15,6 +15,10 @@
 
     {% block css %}
     {% endblock %}
+
+    {% compress js %}
+    <script defer src="{% static 'js/vendor/bootstrap.min.js' %}"></script>
+    {% endcompress %}
   </head>
 
   <body>
