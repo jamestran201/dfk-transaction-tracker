@@ -1,0 +1,21 @@
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/variables';
+@import '../node_modules/bootstrap/scss/mixins/_breakpoints.scss';
+
+.header-link {
+  color: #FBE375;
+}
+
+.header-link:hover {
+  color: #009C44;
+}
+
+@include media-breakpoint-up(lg) {
+  .transaction-list {
+    align-items: center !important;
+  }
+
+  .custom-container {
+    width: 60%!important;
+  }
+}
