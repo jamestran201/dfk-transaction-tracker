@@ -17,5 +17,21 @@ services:
       - "6379:6379"
     restart: "unless-stopped"
 
+  celery-worker:
+    build:
+      context: .
+      target: celery_build
+    depends_on:
+      - db
+      - redis
+    environment:
+      - POSTGRES_PASSWORD=Password123!
+      - POSTGRES_USER=admin
+      - POSTGRES_DB=dfk_transaction_tracker
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
+      - CELERY_BROKER_URL=redis://redis:6379/0
+
+
 volumes:
   app-db-data:
