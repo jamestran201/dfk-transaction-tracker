@@ -135,3 +135,5 @@ CACHE/
 
 # For building docker images locally
 docker_build/
+
+staticfiles/

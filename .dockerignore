@@ -147,3 +147,5 @@ README.md
 main.py
 transaction_processor/test/
 transaction_processor/scripts/
+
+staticfiles/
