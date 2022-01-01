@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+{% load static compress %}
+
+{% block css %}
+  {% compress css %}
+    <link type="text/x-scss" href="{% static 'scss/transactions_get.scss' %}" rel="stylesheet">
+  {% endcompress %}
+{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-center">
+  <header class="d-flex justify-content-center custom-container mx-3 mt-2">
+    <a href="/" class="header-link">Home</a>
+  </header>
+</div>
+
+<nav aria-label="Page navigation" class="mt-3">
+  <ul class="pagination justify-content-center">
+    <li class="page-item {% if paginator.is_previous_button_disabled %} disabled {% endif %}">
+      <a class="page-link" href="/transactions?page={{ paginator.previous_page }}">
+        <span aria-hidden="true">&laquo;</span>
+      </a>
+    </li>
+
+    {% for page_number in paginator.page_numbers_to_show %}
+    <li class="page-item {% if page_number == paginator.current_page %} active {% endif %}">
+      <a class="page-link" href="/transactions?page={{ page_number }}">{{ page_number }}</a>
+    </li>
+    {% endfor %}
+
+    <li class="page-item {% if paginator.is_next_button_disabled %} disabled {% endif %}">
+      <a class="page-link" href="/transactions?page={{ paginator.next_page }}">
+        <span aria-hidden="true">&raquo;</span>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<div class="d-flex flex-column justify-content-center transaction-list">
+  {% for transaction in transactions %}
+    <div class="accordion-item text-wrap text-break mx-3 my-2 rounded custom-container">
+      <div class="accordion-header">
+        <div class="accordion-button flex-column align-items-start" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.counter0}}" aria-expanded="false" aria-controls="collapse{{forloop.counter0}}">
+          <span>{{ transaction.date }}</span>
+
+          <div class="d-flex flex-row justify-content-between w-100">
+            <strong>{{ transaction.transaction_type }}</strong>
+            <strong>{{ transaction.action }}</strong>
+          </div>
+        </div>
+      </div>
+
+      <div id="collapse{{forloop.counter0}}" class="accordion-collapse collapse show">
+        <div class="accordion-body">
+          <strong>Transaction hash:</strong>
+          <a href="{{ transaction.block_explorer_link }}" target="_blank">{{ transaction.tx_hash }}</a>
+
+          <hr>
+
+          <strong>Status:</strong>
+          <span class="badge rounded-pill {{ transaction.status_badge_css_class }}">{{ transaction.status }}</span>
+
+          <hr>
+
+          <strong>Transaction fee:</strong>
+          <span>{{ transaction.transaction_fee }}</span>
+
+          {% if transaction.has_token_transfers %}
+            <hr>
+
+            <strong>Token transfers:</strong>
+            {% with transfers=transaction.sent_tokens %}
+              {% if transfers|length > 0 %}
+                <p>Sent</p>
+                <ul>
+                {% for transfer in transfers %}
+                  <li>{{ transfer.amount }} {{ transfer.token }}</li>
+                {% endfor %}
+              {% endif %}
+              </ul>
+            {% endwith %}
+
+            {% with transfers=transaction.received_tokens %}
+              {% if transfers|length > 0 %}
+                <p>Received</p>
+                <ul>
+                {% for transfer in transfers %}
+                  <li>{{ transfer.amount }} {{ transfer.token }}</li>
+                {% endfor %}
+              {% endif %}
+              </ul>
+            {% endwith %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<nav aria-label="Page navigation" class="mt-3">
+  <ul class="pagination justify-content-center">
+    <li class="page-item {% if paginator.is_previous_button_disabled %} disabled {% endif %}">
+      <a class="page-link" href="/transactions?page={{ paginator.previous_page }}">
+        <span aria-hidden="true">&laquo;</span>
+      </a>
+    </li>
+
+    {% for page_number in paginator.page_numbers_to_show %}
+    <li class="page-item {% if page_number == paginator.current_page %} active {% endif %}">
+      <a class="page-link" href="/transactions?page={{ page_number }}">{{ page_number }}</a>
+    </li>
+    {% endfor %}
+
+    <li class="page-item {% if paginator.is_next_button_disabled %} disabled {% endif %}">
+      <a class="page-link" href="/transactions?page={{ paginator.next_page }}">
+        <span aria-hidden="true">&raquo;</span>
+      </a>
+    </li>
+  </ul>
+</nav>
+{% endblock %}
