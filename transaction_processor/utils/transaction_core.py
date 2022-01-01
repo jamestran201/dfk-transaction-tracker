@@ -35,11 +35,7 @@ def get_LiquidityPair(lp_addr):
         abi_dir = current_dir.parent / "contracts/abi"
 
         try:
-<<<<<<< HEAD
-            abi = ABIParser('transaction_processor/contracts/abi/IUniswapV2Pair.json').load_json()
-=======
             abi = ABIParser(f"{abi_dir}/IUniswapV2Pair.json").load_json()
->>>>>>> 6ae7318bc930132cec7932362b554bd649b1f4b7
             contract = w3.eth.contract(lp_addr,abi=abi)
             token0 = contract.functions.token0().call()
             token1 = contract.functions.token1().call()
