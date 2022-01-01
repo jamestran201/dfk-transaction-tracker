@@ -1,8 +1,7 @@
 #!/bin/bash
 
-ACCOUNT_NAME="$1"
-BUILD_TAG="$2"
+BUILD_TAG="$1"
 
-docker push "$ACCOUNT_NAME/dfk-transaction-tracker-celery-worker:$BUILD_TAG"
+docker push "jamestran/dfk-transaction-tracker-celery-worker:$BUILD_TAG"
 
-docker push "$ACCOUNT_NAME/dfk-transaction-tracker-app:$BUILD_TAG"
+docker push "jamestran/dfk-transaction-tracker-app:$BUILD_TAG"
