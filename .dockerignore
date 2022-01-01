@@ -141,6 +141,7 @@ poetry.lock
 poetry.toml
 pytest.ini
 README.md
+DEPLOYMENT.md
 
 # Files in transaction_processor that are not needed in production
 *.txt
