@@ -17,40 +17,41 @@ services:
       - "6379:6379"
     restart: "unless-stopped"
 
-  celery-worker:
-    build:
-      context: .
-      target: celery_build
-    depends_on:
-      - db
-      - redis
-    environment:
-      - POSTGRES_PASSWORD=Password123!
-      - POSTGRES_USER=admin
-      - POSTGRES_DB=dfk_transaction_tracker
-      - POSTGRES_HOST=db
-      - POSTGRES_PORT=5432
-      - CELERY_BROKER_URL=redis://redis:6379/0
-      - DJANGO_SETTINGS_MODULE=dfk_transaction_tracker.production
+  # celery-worker and app are only used for testing if the docker images can be run before pushing to production
+  # celery-worker:
+  #   build:
+  #     context: .
+  #     target: celery_build
+  #   depends_on:
+  #     - db
+  #     - redis
+  #   environment:
+  #     - POSTGRES_PASSWORD=Password123!
+  #     - POSTGRES_USER=admin
+  #     - POSTGRES_DB=dfk_transaction_tracker
+  #     - POSTGRES_HOST=db
+  #     - POSTGRES_PORT=5432
+  #     - CELERY_BROKER_URL=redis://redis:6379/0
+  #     - DJANGO_SETTINGS_MODULE=dfk_transaction_tracker.production
 
-  app:
-    build:
-      context: .
-      target: app_build
-    ports:
-      - "8000:8000"
-    depends_on:
-      - db
-      - redis
-      - celery-worker
-    environment:
-      - POSTGRES_PASSWORD=Password123!
-      - POSTGRES_USER=admin
-      - POSTGRES_DB=dfk_transaction_tracker
-      - POSTGRES_HOST=db
-      - POSTGRES_PORT=5432
-      - CELERY_BROKER_URL=redis://redis:6379/0
-      - DJANGO_SETTINGS_MODULE=dfk_transaction_tracker.production
+  # app:
+  #   build:
+  #     context: .
+  #     target: app_build
+  #   ports:
+  #     - "8000:8000"
+  #   depends_on:
+  #     - db
+  #     - redis
+  #     - celery-worker
+  #   environment:
+  #     - POSTGRES_PASSWORD=Password123!
+  #     - POSTGRES_USER=admin
+  #     - POSTGRES_DB=dfk_transaction_tracker
+  #     - POSTGRES_HOST=db
+  #     - POSTGRES_PORT=5432
+  #     - CELERY_BROKER_URL=redis://redis:6379/0
+  #     - DJANGO_SETTINGS_MODULE=dfk_transaction_tracker.production
 
 volumes:
   app-db-data:
