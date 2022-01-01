@@ -8,7 +8,7 @@ BUILD_TAG="$1"
 poetry export --format requirements.txt --output docker_build/requirements.txt --without-hashes
 
 # Build Docker image for Celery
-docker build --tag "jamestran/dfk-transaction-tracker-celery-worker:$BUILD_TAG" --target celery_build .
+docker build --tag "us-central1-docker.pkg.dev/integral-nimbus-336917/dfk-transaction-tracker/dfk-transaction-tracker-celery-worker:$BUILD_TAG" --target celery_build .
 
 # Build Docker image for Django app
-docker build --tag "jamestran/dfk-transaction-tracker-app:$BUILD_TAG" --target app_build .
+docker build --tag "us-central1-docker.pkg.dev/integral-nimbus-336917/dfk-transaction-tracker/dfk-transaction-tracker-app:$BUILD_TAG" --target app_build .

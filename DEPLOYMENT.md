@@ -1,8 +1,17 @@
 # Build and deployment instructions
 
+The project is hosted on GCP in the region us-central1:
+- Docker images are stored using Artifact Registry
+- The PostgreSQL database is hosted using Cloud SQL
+- The Redis instance is hosted using Memory Store
+
 The current build and deployment process is currently manual and can be improved.
 
 ## Steps
+
+### Set up gcloud CLI locally
+
+Download the `gcloud` CLI tool and run `gcloud init` to set up the credentials locally.
 
 ### Build Docker images
 
@@ -17,9 +26,7 @@ It will then be used to install the dependencies in the Docker images.
 
 ### Pushing the Docker images
 
-1. Log in to the Docker registry that you are using
-
-2. Run `scripts/push-docker-images.sh <image-tag>`. Use the same image tag as in the build step.
+Run `scripts/push-docker-images.sh <image-tag>`. Use the same image tag as in the build step.
 
 ### Deploy the Django app and Celery worker
 
