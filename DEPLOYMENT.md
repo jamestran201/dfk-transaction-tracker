@@ -30,4 +30,9 @@ Run `scripts/push-docker-images.sh <image-tag>`. Use the same image tag as in th
 
 ### Deploy the Django app and Celery worker
 
-TBD
+In the GCP console, go to the page for Cloud Run. Then, for the services `dfk-transaction-tracker-app`
+and `dfk-transaction-tracker-celery`, do:
+
+1. Choose `Edit & Deploy New Revision`
+2. Enter the URI for the corresponding Docker image that was pushed in the previous step
+3. Go to the bottom of the page and click `Deploy`
