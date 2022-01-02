@@ -1,4 +1,5 @@
 from django.db import transaction
+from django.http import JsonResponse
 from django.shortcuts import render
 from django.views import View
 from web3 import Web3
@@ -26,4 +27,14 @@ class WalletAddressView(View):
         if should_enqueue_task:
             sync_transactions.delay(checksum_address, sync_task.id)
 
-        return render(request, "wallet_address/post.html")
+        return render(request, "wallet_address/post.html", {"wallet_address": checksum_address})
+
+    def get(self, request):
+        wallet_address = request.GET["wallet_address"]
+
+        sync_task = TransactionSynchronization.objects.filter(wallet_address=wallet_address).last()
+        if sync_task.status == "SUCCESS":
+            return JsonResponse({"status": "success"})
+        elif sync_task.status in ("PENDING", "IN_PROGRESS"):
+            return JsonResponse({"status": "in_progress"})
+        # TODO: Implement what happens when status is FAILED
