@@ -20,7 +20,6 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 env = environ.Env()
 env.read_env(f"{BASE_DIR}/.env")
 
-APPS_DIR = BASE_DIR / "tracker"
 
 
 # Quick-start development settings - unsuitable for production
@@ -49,6 +48,7 @@ DJANGO_APPS = [
 
 THIRD_PARTY_APPS = [
     "compressor",
+    "storages",
 ]
 
 CUSTOM_APPS = [
@@ -72,7 +72,7 @@ ROOT_URLCONF = 'dfk_transaction_tracker.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [str(APPS_DIR / "templates")],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

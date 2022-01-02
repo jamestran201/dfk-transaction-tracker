@@ -18,6 +18,7 @@ pyhmy = {git = "https://github.com/tmnhat2001/pyhmy.git", rev = "6ff5555499150f2
 rich = "10.16.1"
 gunicorn = "20.1.0"
 django-libsass = "0.9"
+django-storages = {version = "1.12.2", extras = ["google"]}
 
 [tool.poetry.dev-dependencies]
 pytest-django = "4.5.2"
