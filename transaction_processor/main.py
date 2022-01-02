@@ -16,9 +16,9 @@ warnings.simplefilter("ignore")
 INPUTS
 """
 main_addresses = [
-        #'0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85', # My Wallet
+        '0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85', # My Wallet
         #'0x2E7669F61eA77F02445A015FBdcFe2DE47083E02', # FriskyFox (Dev)
-        '0xd83d5ebbe238aefb7802506ac8386882b5cc8186', # Raspberry Swirl (Dev)
+        #'0xd83d5ebbe238aefb7802506ac8386882b5cc8186', # Raspberry Swirl (Dev)
         #'0x4a93a25509947d0744efc310ae23c1a15be7c19b', # baloo3101 (dfk auction bot)
         ]
 verbose = True
@@ -26,6 +26,8 @@ verbose = True
 for main_address in main_addresses:
 
     console.print(f"USER: [magenta] {main_address}[/]")
+    # log of crystalId for tracking value of summoned heroes
+    crystal_log = {}
     # Get transaction parser
     txn_parser = TransactionFetcher(main_address)
     txn_parser.get_transactions()
@@ -44,6 +46,9 @@ for main_address in main_addresses:
                 df_row,
                 transaction_receipt,
                 transaction_data,
+                crystal_log,
                 verbose=verbose
                 )
         transaction.get_info()
+        # Update crystalId log
+        crystal_log = transaction.crystalId_log

@@ -3774,7 +3774,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 9.625e+18
 Hero transfers
-rentHero_8569: 9.625e+18
+rentHero_8569
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 9.625e+18
 Liquidity pool
 -
 
@@ -3817,7 +3818,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: -200000000000000000000
 Hero transfers
-addHero_8394: 0x70db865d569185027e5c846b7704a56a906c2c4940963357050c60369db7fb69
+addHero_8394
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -200000000000000000000
 Liquidity pool
 -
 
@@ -3950,7 +3952,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -43000000000000000000
 Hero transfers
-Crystal_503: 0x4d141f9cd017ee53be3c3cb34138ee05f29e3fd9b57c61ec4d506e405100c863
+Crystal_503
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -43000000000000000000
 Liquidity pool
 -
 
@@ -3965,7 +3969,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_9758: 0x85469889b496d225ba1d2bef0d75eeec6582acf553866ac3d974e284facdc307
+addHero_9758
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -43000000000000000000
 Liquidity pool
 -
 
@@ -3980,7 +3986,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -58000000000000000000
 Hero transfers
-Crystal_504: 0xe8bb300640d4044ab8c45c212721e26c38cbba41525023fb342b217c0b28e005
+Crystal_504
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -58000000000000000000
 Liquidity pool
 -
 
@@ -3995,7 +4003,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_9759: 0x2cd4e7b81f895b9ffa849524bfbba828adb4b9cc41022eff4395e518b0375e2e
+addHero_9759
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -58000000000000000000
 Liquidity pool
 -
 
@@ -4085,7 +4095,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -26000000000000000000
 Hero transfers
-Crystal_1202: 0xbee9f7e0d5f9a30cb629bd2f7cd2cb654caa52e989713798b78d00df1eef8852
+Crystal_1202
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -26000000000000000000
 Liquidity pool
 -
 
@@ -4100,7 +4112,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_10479: 0xd9505ff9657c8aab322c9ab262c404f01f52014ac74bb4bbd4401008e6b94576
+addHero_10479
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -26000000000000000000
 Liquidity pool
 -
 
@@ -4115,7 +4129,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -54000000000000000000
 Hero transfers
-Crystal_1205: 0x44311134f3a690dea3a8189fba0573e1c84863ce254b39a8a8f41b7222eda199
+Crystal_1205
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -54000000000000000000
 Liquidity pool
 -
 
@@ -4130,7 +4146,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_10482: 0x955d9874b95140edda32549a1e07f41474ab929627596bd0caeaac8570eba767
+addHero_10482
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -54000000000000000000
 Liquidity pool
 -
 
@@ -4145,7 +4163,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -48000000000000000000
 Hero transfers
-Crystal_1206: 0xd956b93e818d8379fc7e0ea9bf78db94eb1fc2c296a81b7d17a3961c2b4fc5df
+Crystal_1206
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -48000000000000000000
 Liquidity pool
 -
 
@@ -4160,7 +4180,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_10483: 0x25fa512bc90ed62eb7cac2aa0fe9979c2b5b991ff885df30de07c1452032bdd0
+addHero_10483
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -48000000000000000000
 Liquidity pool
 -
 
@@ -4175,7 +4197,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -54000000000000000000
 Hero transfers
-Crystal_1207: 0x415917fc0f463cc1bd5511ed68d63b714462e6ce4dea1be5747645c1c1a5d4e4
+Crystal_1207
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -54000000000000000000
 Liquidity pool
 -
 
@@ -4190,7 +4214,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_10484: 0x5d28a3e6a1bb1b76f01b1c1cf60c1ba88a1c8eaccfa4c1497b85d6079e0c39dd
+addHero_10484
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -54000000000000000000
 Liquidity pool
 -
 
@@ -4205,7 +4231,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -28000000000000000000
 Hero transfers
-Crystal_1208: 0x6ac5934628b478e88441b0904bc2403a8c0141a351e99f6fcbc88dc6895caead
+Crystal_1208
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -28000000000000000000
 Liquidity pool
 -
 
@@ -4220,7 +4248,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_10485: 0x9e9039db8ef8822a178c8592016c42c2ce476ec20de41e778e7d3a9db6497c95
+addHero_10485
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -28000000000000000000
 Liquidity pool
 -
 
@@ -5241,7 +5271,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -66000000000000000000
 Hero transfers
-Crystal_2349: 0xb5301ae6950a78953f173faef9ff1ba33ab237be1c76ebdcb1cf8056f8ca4d89
+Crystal_2349
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -66000000000000000000
 Liquidity pool
 -
 
@@ -5256,7 +5288,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_11626: 0xee54d34b18ff0e47479ec16ec7696d5da52e946af1b544bd46ea088fa9ffc65a
+addHero_11626
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -66000000000000000000
 Liquidity pool
 -
 
@@ -5791,7 +5825,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -68000000000000000000
 Hero transfers
-Crystal_3674: 0x86bef2931810d8e52bf8c775a6f043cc2dd1fa733a3fb0e3a36af47e69f67fb5
+Crystal_3674
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -5806,7 +5842,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_12949: 0x9f114094d3efdcc27a1a14ab4a5fa3c75250cb368eac1f0ca42418e2626a0ea3
+addHero_12949
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -5821,7 +5859,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -68000000000000000000
 Hero transfers
-Crystal_3678: 0xcd32eaedcf389edd4ddca467656cb72be7960fd841cef67aaa1b94f47cfebd2c
+Crystal_3678
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -5836,7 +5876,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_12955: 0x82cb71db8a7f0841a759dab7c0de6080c716037f225f04e09242c8681ef79346
+addHero_12955
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -5851,7 +5893,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -170000000000000000000
 Hero transfers
-Crystal_3704: 0xcb859682b8cb8a2015a1b60b6eceed591720b021fb4cce97b8a2207cb2b68ad5
+Crystal_3704
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -170000000000000000000
 Liquidity pool
 -
 
@@ -5866,7 +5910,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_12981: 0xa9e7c6fae306785c4539ae29e310f096659aff4e9722cbf114520382eccfd5dd
+addHero_12981
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -170000000000000000000
 Liquidity pool
 -
 
@@ -6303,7 +6349,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 7.7e+19
 Hero transfers
-rentHero_1250: 7.7e+19
+rentHero_1250
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 7.7e+19
 Liquidity pool
 -
 
@@ -6317,7 +6364,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.25625e+19
 Hero transfers
-rentHero_722: 6.25625e+19
+rentHero_722
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.25625e+19
 Liquidity pool
 -
 
@@ -6331,7 +6379,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.25625e+19
 Hero transfers
-rentHero_142: 6.25625e+19
+rentHero_142
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.25625e+19
 Liquidity pool
 -
 
@@ -6345,7 +6394,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_1543: 5.775e+19
+rentHero_1543
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6359,7 +6409,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_1846: 5.775e+19
+rentHero_1846
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6373,7 +6424,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 1.3475e+20
 Hero transfers
-rentHero_3793: 1.3475e+20
+rentHero_3793
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 1.3475e+20
 Liquidity pool
 -
 
@@ -6388,7 +6440,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -62000000000000000000
 Hero transfers
-Crystal_5425: 0xb8c21750f429052b4df4ebdbde9227720c93dfdb68d68d30f8aa5ac964d7cace
+Crystal_5425
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -62000000000000000000
 Liquidity pool
 -
 
@@ -6403,7 +6457,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_14700: 0x92da958b0dbcffd665d9d3db5fe104d9f10da02197c52b4bca490fb68883aeb6
+addHero_14700
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -62000000000000000000
 Liquidity pool
 -
 
@@ -6503,7 +6559,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 9.625e+17
 Hero transfers
-rentHero_8394: 9.625e+17
+rentHero_8394
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 9.625e+17
 Liquidity pool
 -
 
@@ -6518,7 +6575,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -72000000000000000000
 Hero transfers
-Crystal_10853: 0xb07239c5092f38994cadffc7ab10e9a419bb5b3efe5112a4f7c0e388e50a0ada
+Crystal_10853
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -72000000000000000000
 Liquidity pool
 -
 
@@ -6533,7 +6592,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_20129: 0x5117cbd5f4b2bcd9eddd900c18c8d732d48d88a7cbc1af3dc149b9603ca7754f
+addHero_20129
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -72000000000000000000
 Liquidity pool
 -
 
@@ -6547,7 +6608,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_142: 5.775e+19
+rentHero_142
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6561,7 +6623,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_722: 5.775e+19
+rentHero_722
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6575,7 +6638,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_1774: 5.775e+19
+rentHero_1774
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6589,7 +6653,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_1846: 5.775e+19
+rentHero_1846
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6603,7 +6668,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_1756: 5.775e+19
+rentHero_1756
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6617,7 +6683,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 5.775e+19
 Hero transfers
-rentHero_1543: 5.775e+19
+rentHero_1543
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 5.775e+19
 Liquidity pool
 -
 
@@ -6631,7 +6698,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 9.625e+19
 Hero transfers
-rentHero_1250: 9.625e+19
+rentHero_1250
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 9.625e+19
 Liquidity pool
 -
 
@@ -6646,7 +6714,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -78000000000000000000
 Hero transfers
-Crystal_10890: 0x69b1957b9c8b048365a67167a11d658170f96f0041c7a1c97dd4004cbeb6e556
+Crystal_10890
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -78000000000000000000
 Liquidity pool
 -
 
@@ -6661,7 +6731,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_20167: 0x911edec733ba5c31c9e97b4b4af052504a599d7dd47a34ead7017096f26aca64
+addHero_20167
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -78000000000000000000
 Liquidity pool
 -
 
@@ -7305,7 +7377,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.25625e+19
 Hero transfers
-rentHero_142: 6.25625e+19
+rentHero_142
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.25625e+19
 Liquidity pool
 -
 
@@ -7319,7 +7392,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.25625e+19
 Hero transfers
-rentHero_722: 6.25625e+19
+rentHero_722
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.25625e+19
 Liquidity pool
 -
 
@@ -7347,7 +7421,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.25625e+19
 Hero transfers
-rentHero_1543: 6.25625e+19
+rentHero_1543
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.25625e+19
 Liquidity pool
 -
 
@@ -7361,7 +7436,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.7375e+19
 Hero transfers
-rentHero_1756: 6.7375e+19
+rentHero_1756
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.7375e+19
 Liquidity pool
 -
 
@@ -7375,7 +7451,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.25625e+19
 Hero transfers
-rentHero_1774: 6.25625e+19
+rentHero_1774
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.25625e+19
 Liquidity pool
 -
 
@@ -7389,7 +7466,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.25625e+19
 Hero transfers
-rentHero_1846: 6.25625e+19
+rentHero_1846
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.25625e+19
 Liquidity pool
 -
 
@@ -7404,7 +7482,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: -80000000000000000000
 Hero transfers
-addHero_11308: 0x02961cc04f9869e644226b067cdd5574c8bd0fc65739492b6bba7bf18f2d1b76
+addHero_11308
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -80000000000000000000
 Liquidity pool
 -
 
@@ -7419,7 +7498,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -63000000000000000000
 Hero transfers
-Crystal_14289: 0xe69bdc176464c09bdc86be0c87ab5d2db43b1314dfeab7086c4fffb43858cd01
+Crystal_14289
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -63000000000000000000
 Liquidity pool
 -
 
@@ -7434,7 +7515,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_23563: 0x9f909576ee984f0aa975834e62f49d5858854d160c33e76580133eb184ffa688
+addHero_23563
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -63000000000000000000
 Liquidity pool
 -
 
@@ -8306,7 +8389,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -66000000000000000000
 Hero transfers
-Crystal_16799: 0x5fef7dbc514fc9b395a36750952d8709d27ab761dca0051b4949c97ae5bbe33a
+Crystal_16799
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -66000000000000000000
 Liquidity pool
 -
 
@@ -8321,7 +8406,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_26071: 0x2e557f927c88d2d1bcf37c3e20da8343d2a7f70681e5b33eafc9cb9fceff13eb
+addHero_26071
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -66000000000000000000
 Liquidity pool
 -
 
@@ -9504,8 +9591,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:31:30 || [Tx Hash] 0x2c0b7daf7609951942211bac634dbcc5b67540a00646e42841949eb3eb81dff4 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:31:30 || [Tx Hash] 
+0x2c0b7daf7609951942211bac634dbcc5b67540a00646e42841949eb3eb81dff4 || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
 (Transaction fee) 0.00501123 ONE
@@ -9518,8 +9608,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:31:30 || [Tx Hash] 0x1ef8d93f392f490c40b5783145ca5751b6b8a2b51496cb0d7ae4696a11141248 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:31:30 || [Tx Hash] 
+0x1ef8d93f392f490c40b5783145ca5751b6b8a2b51496cb0d7ae4696a11141248 || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
 (Transaction fee) 0.0056587 ONE
@@ -9532,8 +9625,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:31:33 || [Tx Hash] 0xbb003f940758778148714c8d7f1f8c9174021963d546fde67bfd233f22ecbdad || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:31:33 || [Tx Hash] 
+0xbb003f940758778148714c8d7f1f8c9174021963d546fde67bfd233f22ecbdad || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
 (Transaction fee) 0.00501123 ONE
@@ -9546,8 +9642,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:32:28 || [Tx Hash] 0x354772e171a2aa5a778c74e59832a89e935ab0b30885a62d4ad48db8ddb56ae9 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:32:28 || [Tx Hash] 
+0x354772e171a2aa5a778c74e59832a89e935ab0b30885a62d4ad48db8ddb56ae9 || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
 (Transaction fee) 0.0042922 ONE
@@ -9560,8 +9659,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:32:31 || [Tx Hash] 0xfdff25d7967cbc9432dbb7bdbbeb76b7d24d7046516a11f79f41a0279a8066ad || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:32:31 || [Tx Hash] 
+0xfdff25d7967cbc9432dbb7bdbbeb76b7d24d7046516a11f79f41a0279a8066ad || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
 (Transaction fee) 0.0042922 ONE
@@ -9574,8 +9676,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:32:33 || [Tx Hash] 0x5295a271f10d7b1f7299cdaac881a56bb30dad8c9fefc728b21515d02ef13e05 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:32:33 || [Tx Hash] 
+0xeb959100ef8d067a5473dcbfb2f1df97059448d42aab2e722c3291621e9f5eef || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
 (Transaction fee) 0.0042922 ONE
@@ -9588,8 +9693,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:32:33 || [Tx Hash] 0xeb959100ef8d067a5473dcbfb2f1df97059448d42aab2e722c3291621e9f5eef || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:32:33 || [Tx Hash] 
+0x5295a271f10d7b1f7299cdaac881a56bb30dad8c9fefc728b21515d02ef13e05 || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
 (Transaction fee) 0.0042922 ONE
@@ -9602,8 +9710,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:33:02 || [Tx Hash] 0x5e4a514267fdae419b68def6d84dd86dcfc8133781699828789e4307110baf4c || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:33:02 || [Tx Hash] 
+0x5e4a514267fdae419b68def6d84dd86dcfc8133781699828789e4307110baf4c || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
 (Transaction fee) 0.00547084 ONE
@@ -9616,8 +9727,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:33:05 || [Tx Hash] 0x8b040f354109a92cb89dcb5c1f202c009feb1bf0d01d32394d086d0e0f2e5bdd || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:33:05 || [Tx Hash] 
+0x8b040f354109a92cb89dcb5c1f202c009feb1bf0d01d32394d086d0e0f2e5bdd || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
 (Transaction fee) 0.00501123 ONE
@@ -9630,8 +9744,11 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:33:05 || [Tx Hash] 0x3e72fb02b9bd7c76bfc06419bd481e34856ef552daf51e65b4a908a965554465 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+[2021/11/12, 17:33:05 || [Tx Hash] 
+0x3e72fb02b9bd7c76bfc06419bd481e34856ef552daf51e65b4a908a965554465 || 
+[Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 
+0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
 (Transaction fee) 0.0052829800000000005 ONE
@@ -9686,7 +9803,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:34:08 || [Tx Hash] 0xd1daa1f5826932049c07881613c01c12c9ff73e4fa9283e246e84c0b1d2551cc || [Status] 1
+[2021/11/12, 17:34:08 || [Tx Hash] 0x1e9b95b1d5f86cd068ad76f51a8200c133b98f70927adb64b2ab7e599743f609 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -9700,7 +9817,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:34:08 || [Tx Hash] 0x1e9b95b1d5f86cd068ad76f51a8200c133b98f70927adb64b2ab7e599743f609 || [Status] 1
+[2021/11/12, 17:34:08 || [Tx Hash] 0xd1daa1f5826932049c07881613c01c12c9ff73e4fa9283e246e84c0b1d2551cc || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -9952,20 +10069,6 @@ Liquidity pool
 -
 
 
-[2021/11/12, 17:38:15 || [Tx Hash] 0xf8e3eeae88ed3f5e9be043a86de38f8784cf5a41bbfceb4f9052e5bb7c482a91 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
-(Remapped addresses) USER > Serendale_WishingWell
-(Function) completeQuest
-(Transaction fee) 0.00547099 ONE
-(Value) 0.0 ONE
-Token transfers
-GaiaTears: 6
-Hero transfers
--
-Liquidity pool
--
-
-
 [2021/11/12, 17:38:15 || [Tx Hash] 0x6ea2ad9f04a90891d5a60df4bc35300e648ee7815ede157ef513fd70c5429093 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
@@ -9974,6 +10077,20 @@ Liquidity pool
 (Value) 0.0 ONE
 Token transfers
 -
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/12, 17:38:15 || [Tx Hash] 0xf8e3eeae88ed3f5e9be043a86de38f8784cf5a41bbfceb4f9052e5bb7c482a91 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+(Remapped addresses) USER > Serendale_WishingWell
+(Function) completeQuest
+(Transaction fee) 0.00547099 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 6
 Hero transfers
 -
 Liquidity pool
@@ -10340,7 +10457,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -64000000000000000000
 Hero transfers
-Crystal_18099: 0x0d7db4844561a0a25db071c3f17afa04ff730dd3bba3938bf9b66a55993f39f0
+Crystal_18099
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -64000000000000000000
 Liquidity pool
 -
 
@@ -10355,7 +10474,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_27373: 0x01ab1925463acbb42f7f4b47fd6af96ccd50d0421a7065d254801fe01c72513f
+addHero_27373
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -64000000000000000000
 Liquidity pool
 -
 
@@ -10446,7 +10567,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 22:42:21 || [Tx Hash] 0xeb2f168ba72832a4fcfd146c97ea134e6dcd15a4e8336faff603497ce04b0c58 || [Status] 1
+[2021/11/12, 22:42:21 || [Tx Hash] 0xf1077296e08669440f0087034682a0a606835aa0c7fc2b6234ab60354c007a59 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -10460,7 +10581,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 22:42:21 || [Tx Hash] 0xf1077296e08669440f0087034682a0a606835aa0c7fc2b6234ab60354c007a59 || [Status] 1
+[2021/11/12, 22:42:21 || [Tx Hash] 0xeb2f168ba72832a4fcfd146c97ea134e6dcd15a4e8336faff603497ce04b0c58 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -10586,7 +10707,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 22:45:37 || [Tx Hash] 0x4b31fca78b98f87dc646919c54d488c223e8c1256c4aebdbde3529479e27a4f6 || [Status] 1
+[2021/11/12, 22:45:37 || [Tx Hash] 0x93908312ba88c9569b1b79b9f9f57a7a180105e9b82f42ea1bdcb0bf991bb6ed || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -10600,7 +10721,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 22:45:37 || [Tx Hash] 0x93908312ba88c9569b1b79b9f9f57a7a180105e9b82f42ea1bdcb0bf991bb6ed || [Status] 1
+[2021/11/12, 22:45:37 || [Tx Hash] 0x4b31fca78b98f87dc646919c54d488c223e8c1256c4aebdbde3529479e27a4f6 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -10670,7 +10791,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 22:48:16 || [Tx Hash] 0x60169067702cbf5c80ed14c44007db9061a09b0e14c8571e02f84195b7a26ec8 || [Status] 1
+[2021/11/12, 22:48:16 || [Tx Hash] 0x753be69f4788b37e3f5e2f3059adc1b2df4b3dc9eb8441ec7d52a931cd1c1ce7 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -10684,7 +10805,7 @@ Liquidity pool
 -
 
 
-[2021/11/12, 22:48:16 || [Tx Hash] 0x753be69f4788b37e3f5e2f3059adc1b2df4b3dc9eb8441ec7d52a931cd1c1ce7 || [Status] 1
+[2021/11/12, 22:48:16 || [Tx Hash] 0x60169067702cbf5c80ed14c44007db9061a09b0e14c8571e02f84195b7a26ec8 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -11132,20 +11253,6 @@ Liquidity pool
 -
 
 
-[2021/11/12, 22:59:35 || [Tx Hash] 0x9a0d8907501d030f20c450edc855fb5d0e157b722a4991ca51db3d85bf9159db || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
-(Remapped addresses) USER > Serendale_WishingWell
-(Function) completeQuest
-(Transaction fee) 0.00492663 ONE
-(Value) 0.0 ONE
-Token transfers
-GaiaTears: 5
-Hero transfers
--
-Liquidity pool
--
-
-
 [2021/11/12, 22:59:35 || [Tx Hash] 0x2ad6f58a410b5d5130515217b43405e713f0f48368efe626a946f011ebebc04f || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
@@ -11154,6 +11261,20 @@ Liquidity pool
 (Value) 0.0 ONE
 Token transfers
 GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/12, 22:59:35 || [Tx Hash] 0x9a0d8907501d030f20c450edc855fb5d0e157b722a4991ca51db3d85bf9159db || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+(Remapped addresses) USER > Serendale_WishingWell
+(Function) completeQuest
+(Transaction fee) 0.00492663 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 5
 Hero transfers
 -
 Liquidity pool
@@ -11218,7 +11339,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 12:58:21 || [Tx Hash] 0x3a246c23126272a45d17dcb81890d92d714de048cc59cb81ea6596d7ba94c111 || [Status] 1
+[2021/11/13, 12:58:21 || [Tx Hash] 0x1f1d78a02d73b7c79096f3f8b5e63fa0c40314f8eff31bf9a34fbc49cf0ae8de || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -11232,7 +11353,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 12:58:21 || [Tx Hash] 0x1f1d78a02d73b7c79096f3f8b5e63fa0c40314f8eff31bf9a34fbc49cf0ae8de || [Status] 1
+[2021/11/13, 12:58:21 || [Tx Hash] 0x3a246c23126272a45d17dcb81890d92d714de048cc59cb81ea6596d7ba94c111 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -11344,20 +11465,6 @@ Liquidity pool
 -
 
 
-[2021/11/13, 12:59:32 || [Tx Hash] 0xe0289b33f6fddcc8583945015337f3cf440f9e3f48e49db5b24b5066519483f7 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
-(Remapped addresses) USER > Serendale_WishingWell
-(Function) completeQuest
-(Transaction fee) 0.00532072 ONE
-(Value) 0.0 ONE
-Token transfers
-GaiaTears: 3
-Hero transfers
--
-Liquidity pool
--
-
-
 [2021/11/13, 12:59:32 || [Tx Hash] 0x8bb3e66c3997c0964c6c84a249be1cfcb6e99c225f6ffc4f482d7f7de72e2076 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
@@ -11366,6 +11473,20 @@ Liquidity pool
 (Value) 0.0 ONE
 Token transfers
 GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/13, 12:59:32 || [Tx Hash] 0xe0289b33f6fddcc8583945015337f3cf440f9e3f48e49db5b24b5066519483f7 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+(Remapped addresses) USER > Serendale_WishingWell
+(Function) completeQuest
+(Transaction fee) 0.00532072 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 3
 Hero transfers
 -
 Liquidity pool
@@ -11456,7 +11577,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:01:23 || [Tx Hash] 0x2e4c60181c0a692d8076d79d90ff12c8dca36cc08b1de106e67ad41d76b01c4b || [Status] 1
+[2021/11/13, 13:01:23 || [Tx Hash] 0x522f4567cb0d6201d4464b24c2f3ec9fe7d17ea2e1b5713077331f70be5ff645 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -11470,7 +11591,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:01:23 || [Tx Hash] 0x522f4567cb0d6201d4464b24c2f3ec9fe7d17ea2e1b5713077331f70be5ff645 || [Status] 1
+[2021/11/13, 13:01:23 || [Tx Hash] 0x2e4c60181c0a692d8076d79d90ff12c8dca36cc08b1de106e67ad41d76b01c4b || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -11904,7 +12025,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:08:16 || [Tx Hash] 0xbb0da669b5b3c31dd96315d063652b184a67a555cca14e9f2004ff8d43e67396 || [Status] 1
+[2021/11/13, 13:08:16 || [Tx Hash] 0x03b7351ce157530cd8cb8788e134d32c281d68e44fcd1a3ba1c3e9a4160cd16b || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -11918,7 +12039,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:08:16 || [Tx Hash] 0x03b7351ce157530cd8cb8788e134d32c281d68e44fcd1a3ba1c3e9a4160cd16b || [Status] 1
+[2021/11/13, 13:08:16 || [Tx Hash] 0xbb0da669b5b3c31dd96315d063652b184a67a555cca14e9f2004ff8d43e67396 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -11960,7 +12081,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:08:22 || [Tx Hash] 0xc547390982d0007f13b364bab7e93a8697cdd03cfad43ff9984189cd6c95170e || [Status] 1
+[2021/11/13, 13:08:22 || [Tx Hash] 0xd50d5d0d0f6a46eddde9c7c941f2bac4731dc75c6a2aac95781a66e29a211b8b || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -11974,7 +12095,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:08:22 || [Tx Hash] 0xd50d5d0d0f6a46eddde9c7c941f2bac4731dc75c6a2aac95781a66e29a211b8b || [Status] 1
+[2021/11/13, 13:08:22 || [Tx Hash] 0xc547390982d0007f13b364bab7e93a8697cdd03cfad43ff9984189cd6c95170e || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12128,7 +12249,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:14:53 || [Tx Hash] 0xeb1f286565faa3dab9ef5b2a306183764e10b6b4019bf1fd0a75970a78fd11fa || [Status] 1
+[2021/11/13, 13:14:53 || [Tx Hash] 0x39a7392504719a57d9b1e6c7cf6987fa5501b922aeedbe85f191daf9a5aaee41 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12142,7 +12263,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:14:53 || [Tx Hash] 0x39a7392504719a57d9b1e6c7cf6987fa5501b922aeedbe85f191daf9a5aaee41 || [Status] 1
+[2021/11/13, 13:14:53 || [Tx Hash] 0xeb1f286565faa3dab9ef5b2a306183764e10b6b4019bf1fd0a75970a78fd11fa || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12254,7 +12375,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:19:10 || [Tx Hash] 0x02d5724544ea821e90b46e591587a6dbb42ef2efd348713e016725a3645bfe10 || [Status] 1
+[2021/11/13, 13:19:10 || [Tx Hash] 0xcfa8a8a626f629bc3d3f712f7b23079d58a65b31355aff5766cba88cca1a3901 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -12268,7 +12389,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:19:10 || [Tx Hash] 0xcfa8a8a626f629bc3d3f712f7b23079d58a65b31355aff5766cba88cca1a3901 || [Status] 1
+[2021/11/13, 13:19:10 || [Tx Hash] 0x02d5724544ea821e90b46e591587a6dbb42ef2efd348713e016725a3645bfe10 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) completeQuest
@@ -12338,7 +12459,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:20:44 || [Tx Hash] 0x39ffb305fb5052032261ade48a498c32cdba684579fb338464767726d8106e0e || [Status] 1
+[2021/11/13, 13:20:44 || [Tx Hash] 0x188e508d84a795ad0000fc328b0e2b2a8a02c7df7c88396cb7d3a80fe8313026 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12352,7 +12473,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:20:44 || [Tx Hash] 0x188e508d84a795ad0000fc328b0e2b2a8a02c7df7c88396cb7d3a80fe8313026 || [Status] 1
+[2021/11/13, 13:20:44 || [Tx Hash] 0x39ffb305fb5052032261ade48a498c32cdba684579fb338464767726d8106e0e || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12380,7 +12501,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:20:50 || [Tx Hash] 0xe0a050e7b51d2729b0a31ed09bdd7409bfb3dc8e3d97c02013f123e5d0fd3e4a || [Status] 1
+[2021/11/13, 13:20:50 || [Tx Hash] 0xe1a19f6d8bd8d8e8fb62462b196d86d9b795830ae5d2627bb4b41f24f3efa7ac || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12394,7 +12515,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:20:50 || [Tx Hash] 0xe1a19f6d8bd8d8e8fb62462b196d86d9b795830ae5d2627bb4b41f24f3efa7ac || [Status] 1
+[2021/11/13, 13:20:50 || [Tx Hash] 0xe0a050e7b51d2729b0a31ed09bdd7409bfb3dc8e3d97c02013f123e5d0fd3e4a || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12492,20 +12613,6 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:29:10 || [Tx Hash] 0x13e68eef8ca35d0713bc0fff7d78a92d9b55b5134ffe05b52ea70e25b7821b02 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
-(Remapped addresses) USER > Serendale_WishingWell
-(Function) completeQuest
-(Transaction fee) 0.0051329800000000005 ONE
-(Value) 0.0 ONE
-Token transfers
-GaiaTears: 1
-Hero transfers
--
-Liquidity pool
--
-
-
 [2021/11/13, 13:29:10 || [Tx Hash] 0x1ed22654796416ace5c42017381b26d0434f0dc821ad28c6b67f2a412b61f5c4 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
@@ -12514,6 +12621,20 @@ Liquidity pool
 (Value) 0.0 ONE
 Token transfers
 -
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/13, 13:29:10 || [Tx Hash] 0x13e68eef8ca35d0713bc0fff7d78a92d9b55b5134ffe05b52ea70e25b7821b02 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+(Remapped addresses) USER > Serendale_WishingWell
+(Function) completeQuest
+(Transaction fee) 0.0051329800000000005 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 1
 Hero transfers
 -
 Liquidity pool
@@ -12572,7 +12693,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -76000000000000000000
 Hero transfers
-Crystal_19450: 0xefd3f5b82f0cd0fd41777f91320589dd4f0a9d7a00ca9fbaa30a0c3a957ea289
+Crystal_19450
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -12587,7 +12710,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_28724: 0xdef879764cb7ffe33526f11041769cf6ebd41cd240b87577ff6d00b6991d4b4e
+addHero_28724
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -12620,7 +12745,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:41:53 || [Tx Hash] 0x1916842ab27ca9a91411f42c089d4f8fcbc5a9e0dd794087d9e9602115cfe0e2 || [Status] 1
+[2021/11/13, 13:41:53 || [Tx Hash] 0x213edc91381aba09ee2a1266b4dcd56ec6cb2c193de9a2c79cc2e1901fa5011d || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12634,7 +12759,7 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:41:53 || [Tx Hash] 0x213edc91381aba09ee2a1266b4dcd56ec6cb2c193de9a2c79cc2e1901fa5011d || [Status] 1
+[2021/11/13, 13:41:53 || [Tx Hash] 0x1916842ab27ca9a91411f42c089d4f8fcbc5a9e0dd794087d9e9602115cfe0e2 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -12760,20 +12885,6 @@ Liquidity pool
 -
 
 
-[2021/11/13, 13:43:39 || [Tx Hash] 0x5db6e560c771b4e2a1d14dfadb4e7bcc1fcfb8006029cfd5c9392642a8e4eef8 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
-(Remapped addresses) USER > Serendale_WishingWell
-(Function) completeQuest
-(Transaction fee) 0.00532084 ONE
-(Value) 0.0 ONE
-Token transfers
-GaiaTears: 3
-Hero transfers
--
-Liquidity pool
--
-
-
 [2021/11/13, 13:43:39 || [Tx Hash] 0x3413a7fe15148a61d726e1f10a72b6e1ba273a68b06544c40b25db4d3c96dd8d || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
@@ -12782,6 +12893,20 @@ Liquidity pool
 (Value) 0.0 ONE
 Token transfers
 GaiaTears: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/13, 13:43:39 || [Tx Hash] 0x5db6e560c771b4e2a1d14dfadb4e7bcc1fcfb8006029cfd5c9392642a8e4eef8 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+(Remapped addresses) USER > Serendale_WishingWell
+(Function) completeQuest
+(Transaction fee) 0.00532084 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 3
 Hero transfers
 -
 Liquidity pool
@@ -12938,7 +13063,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -124000000000000000000
 Hero transfers
-Crystal_19476: 0x1add0934c6b620392931f5e9a0407467f5a6a7a66a831b65cdb2b17bc577dee2
+Crystal_19476
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -124000000000000000000
 Liquidity pool
 -
 
@@ -12953,7 +13080,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_28750: 0x97b3d978b8b64027cb94f2f25fe6a571ff897ddcb831697cdfb1118a69d6f804
+addHero_28750
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -124000000000000000000
 Liquidity pool
 -
 
@@ -13242,7 +13371,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -92000000000000000000
 Hero transfers
-Crystal_22683: 0x1ef47d67bdbcf3666ffb1c29a8a92b544897396ca62ea42e3a3cef8baed0921c
+Crystal_22683
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -92000000000000000000
 Liquidity pool
 -
 
@@ -13257,7 +13388,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_31966: 0xfd850c171cf8900663437af373350e00763aabccdfd4aac43016f738bd9af05d
+addHero_31966
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -92000000000000000000
 Liquidity pool
 -
 
@@ -13290,7 +13423,7 @@ Liquidity pool
 -
 
 
-[2021/11/15, 10:34:19 || [Tx Hash] 0xcbe7939b51593aa39b8b9f46bbcef83dec8699f6b57ff9dd962022a671d1fc7b || [Status] 1
+[2021/11/15, 10:34:19 || [Tx Hash] 0xedd37f0da6e476dd0d119c166688bfae3ac377eb11dc7b3756cf31cb058ac145 || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -13304,7 +13437,7 @@ Liquidity pool
 -
 
 
-[2021/11/15, 10:34:19 || [Tx Hash] 0xedd37f0da6e476dd0d119c166688bfae3ac377eb11dc7b3756cf31cb058ac145 || [Status] 1
+[2021/11/15, 10:34:19 || [Tx Hash] 0xcbe7939b51593aa39b8b9f46bbcef83dec8699f6b57ff9dd962022a671d1fc7b || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -13332,7 +13465,7 @@ Liquidity pool
 -
 
 
-[2021/11/15, 10:34:25 || [Tx Hash] 0x7d20ce8359c3e935bd18957294c14792bd598caadc0a1863c29af890f8e7d2bd || [Status] 1
+[2021/11/15, 10:34:25 || [Tx Hash] 0x8f8cced3feec0ec2ab40806611198749ff3de5297f806272bdc3b6ddb1b80d3a || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -13346,7 +13479,7 @@ Liquidity pool
 -
 
 
-[2021/11/15, 10:34:25 || [Tx Hash] 0x8f8cced3feec0ec2ab40806611198749ff3de5297f806272bdc3b6ddb1b80d3a || [Status] 1
+[2021/11/15, 10:34:25 || [Tx Hash] 0x7d20ce8359c3e935bd18957294c14792bd598caadc0a1863c29af890f8e7d2bd || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
 (Function) empty
@@ -13416,20 +13549,6 @@ Liquidity pool
 -
 
 
-[2021/11/15, 10:35:28 || [Tx Hash] 0x921fb865215b879715e4e6a02944dca64b66f5dc29e0cb3e00f7e44245a6f571 || [Status] 1
-(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
-(Remapped addresses) USER > Serendale_WishingWell
-(Function) completeQuest
-(Transaction fee) 0.00486123 ONE
-(Value) 0.0 ONE
-Token transfers
--
-Hero transfers
--
-Liquidity pool
--
-
-
 [2021/11/15, 10:35:28 || [Tx Hash] 0xf5b58c6c81df09821bfe36c4839402645685a9bb25fbce91ea8efbe6d407fa4c || [Status] 1
 (Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
 (Remapped addresses) USER > Serendale_WishingWell
@@ -13438,6 +13557,20 @@ Liquidity pool
 (Value) 0.0 ONE
 Token transfers
 GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/15, 10:35:28 || [Tx Hash] 0x921fb865215b879715e4e6a02944dca64b66f5dc29e0cb3e00f7e44245a6f571 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0xF5Ff69f4aC4A851730668b93Fc408bC1C49Ef4CE
+(Remapped addresses) USER > Serendale_WishingWell
+(Function) completeQuest
+(Transaction fee) 0.00486123 ONE
+(Value) 0.0 ONE
+Token transfers
+-
 Hero transfers
 -
 Liquidity pool
@@ -13822,7 +13955,9 @@ Token transfers
 GaiaTears: -140
 Serendale_JewelToken: -83000000000000000000
 Hero transfers
-Crystal_23943: 0xb4f8a341a5c2f81af559eca94a0dbfcdf445bc8a75bd353e7b2dff6e265ae65b
+Crystal_23943
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -140
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -83000000000000000000
 Liquidity pool
 -
 
@@ -13837,7 +13972,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_33222: 0x740680040ce8f201387a098fa2c83b6363adb6d44901165efb844950266dc1ed
+addHero_33222
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -140
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -83000000000000000000
 Liquidity pool
 -
 
@@ -13912,7 +14049,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -70000000000000000000
 Hero transfers
-Crystal_23989: 0xfb8821678a780fce3d9fb5949c7a2454b935450ade5caedd9011c69120f362bd
+Crystal_23989
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -70000000000000000000
 Liquidity pool
 -
 
@@ -13927,7 +14066,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_33268: 0xfc0cc3425e10492eecf2ad56c99a224c39b2facaa960c4c8930d5caae1b5ac19
+addHero_33268
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -70000000000000000000
 Liquidity pool
 -
 
@@ -13942,7 +14083,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -52000000000000000000
 Hero transfers
-Crystal_23991: 0xf3dcd820f4cb47f14cf0ae0c3c7a33500bc06e0a1a623e2d7643806d03c66f09
+Crystal_23991
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -13957,7 +14100,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_33271: 0x33b764108d823220eb1101aaf821342af188bb3484e968761697fa839f086a77
+addHero_33271
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -14135,7 +14280,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 4.8125e+19
 Hero transfers
-rentHero_142: 4.8125e+19
+rentHero_142
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 4.8125e+19
 Liquidity pool
 -
 
@@ -14149,7 +14295,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 4.8125e+19
 Hero transfers
-rentHero_722: 4.8125e+19
+rentHero_722
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 4.8125e+19
 Liquidity pool
 -
 
@@ -14177,7 +14324,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 4.8125e+19
 Hero transfers
-rentHero_1543: 4.8125e+19
+rentHero_1543
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 4.8125e+19
 Liquidity pool
 -
 
@@ -14191,7 +14339,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 4.8125e+19
 Hero transfers
-rentHero_1756: 4.8125e+19
+rentHero_1756
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 4.8125e+19
 Liquidity pool
 -
 
@@ -14205,7 +14354,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 4.8125e+19
 Hero transfers
-rentHero_1774: 4.8125e+19
+rentHero_1774
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 4.8125e+19
 Liquidity pool
 -
 
@@ -14219,7 +14369,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 4.8125e+19
 Hero transfers
-rentHero_1846: 4.8125e+19
+rentHero_1846
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 4.8125e+19
 Liquidity pool
 -
 
@@ -14248,7 +14399,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 4.8125e+19
 Hero transfers
-subtractHero_31966: 4.8125e+19
+subtractHero_31966
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 4.8125e+19
 Liquidity pool
 -
 
@@ -14263,7 +14415,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 6.7375e+19
 Hero transfers
-subtractHero_27373: 6.7375e+19
+subtractHero_27373
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 6.7375e+19
 Liquidity pool
 -
 
@@ -14278,7 +14431,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 9.625e+19
 Hero transfers
-subtractHero_26071: 9.625e+19
+subtractHero_26071
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 9.625e+19
 Liquidity pool
 -
 
@@ -14308,7 +14462,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -132000000000000000000
 Hero transfers
-Crystal_27355: 0x245e0ca97861025bbc567b672075cbf6b13ebb63960334842b884cc09820db48
+Crystal_27355
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -132000000000000000000
 Liquidity pool
 -
 
@@ -14323,7 +14479,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_36634: 0x456f7ae2b1980dab3468369403f46bb86f305c2cfbbd4ebc9098c80c294b6f44
+addHero_36634
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -132000000000000000000
 Liquidity pool
 -
 
@@ -14338,7 +14496,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -88000000000000000000
 Hero transfers
-Crystal_27367: 0x2bb8880e473c18e69ac2e0a643c9fb87abdb0fdfea89f06154440800399bc17a
+Crystal_27367
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -88000000000000000000
 Liquidity pool
 -
 
@@ -14353,7 +14513,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_36645: 0x432574f94c502945d3b86b356c882fb05dc266fe58791924947ce44ef0f7d19f
+addHero_36645
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -88000000000000000000
 Liquidity pool
 -
 
@@ -14540,7 +14702,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -93000000000000000000
 Hero transfers
-Crystal_31563: 0x4c3a0360ac26df81eba253a97ce1a4f9024234ffa6e771160b5f8841c05e01f8
+Crystal_31563
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -93000000000000000000
 Liquidity pool
 -
 
@@ -14555,7 +14719,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_40842: 0x1c4591257438adc55a171bc8cc4168ae063074ec5af46f595370add0f33ee91d
+addHero_40842
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -93000000000000000000
 Liquidity pool
 -
 
@@ -14569,7 +14735,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 9.625e+17
 Hero transfers
-rentHero_28724: 9.625e+17
+rentHero_28724
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 9.625e+17
 Liquidity pool
 -
 
@@ -14598,7 +14765,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -46000000000000000000
 Hero transfers
-Crystal_31579: 0xa32f773a0dcc8a5f3dd3b39e8c1ce657618b3af9fafcb2a0f6e3d4c2060975a3
+Crystal_31579
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -46000000000000000000
 Liquidity pool
 -
 
@@ -14613,7 +14782,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -69000000000000000000
 Hero transfers
-Crystal_31581: 0xac5ad864025c2a4d98a5cb59b445d7468f34e2dba3d77fd410df5aa472266026
+Crystal_31581
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -69000000000000000000
 Liquidity pool
 -
 
@@ -14628,7 +14799,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_40859: 0xe2dfa35e73eac203232fb3af490adc5c8c0ed2c8e1217338a1ce9ae17aa2b966
+addHero_40859
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -46000000000000000000
 Liquidity pool
 -
 
@@ -14643,7 +14816,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_40860: 0x60144bea880f8d0ce1dd2dcfe96f6e87974e5e2e8b2cf2059cb90249f8c6dd28
+addHero_40860
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -69000000000000000000
 Liquidity pool
 -
 
@@ -14658,7 +14833,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -80000000000000000000
 Hero transfers
-Crystal_31585: 0x8c40e9220c97bbf0f3cc7ddde0be7afd2a996b5cc71770df22b1eae894b20702
+Crystal_31585
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -80000000000000000000
 Liquidity pool
 -
 
@@ -14673,7 +14850,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -164000000000000000000
 Hero transfers
-Crystal_31587: 0xf0354ed22451433df7951a30cdae8afc3dbb98a74b6c65ec0ea7cdd776164385
+Crystal_31587
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -164000000000000000000
 Liquidity pool
 -
 
@@ -14688,7 +14867,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_40865: 0x6f2e3240cc44ef0fa83d78adf75bd955d52cb7de5ec8b1c9b10ea3b9e4fa8ea9
+addHero_40865
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -80000000000000000000
 Liquidity pool
 -
 
@@ -14703,7 +14884,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_40870: 0x5918ebfa4175c4c9568531ed2a4a02a2141b6ac9ff73341eecdd62f65abe70d1
+addHero_40870
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -164000000000000000000
 Liquidity pool
 -
 
@@ -14834,7 +15017,9 @@ Token transfers
 GaiaTears: -140
 Serendale_JewelToken: -91000000000000000000
 Hero transfers
-Crystal_33442: 0xa4bd2a4e1e645f448bcd3a77bdde1e04da8c9bac0d09ee8d4bae35cad49ab70d
+Crystal_33442
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -140
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -91000000000000000000
 Liquidity pool
 -
 
@@ -14849,7 +15034,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_42718: 0xfb204dbfc3eb03b5336224aa506290e27105ea03ec7825ab965c689bfb315ab9
+addHero_42718
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -140
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -91000000000000000000
 Liquidity pool
 -
 
@@ -14863,7 +15050,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 9.625e+16
 Hero transfers
-rentHero_3: 9.625e+16
+rentHero_3
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 9.625e+16
 Liquidity pool
 -
 
@@ -14878,7 +15066,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -82000000000000000000
 Hero transfers
-Crystal_34916: 0xec01a1e4d525a9de95e543828e778e798bf10f7e4880a99df60602214b8f8027
+Crystal_34916
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -82000000000000000000
 Liquidity pool
 -
 
@@ -14893,7 +15083,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_44193: 0x4ce0af30d7a56b24cc5d4322e22cb202532b0402b2ac4fb1aa720431038926b9
+addHero_44193
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -82000000000000000000
 Liquidity pool
 -
 
@@ -14908,7 +15100,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -122000000000000000000
 Hero transfers
-Crystal_34918: 0x1f309d776779e91e4d04e4717b124bbed77057eaaef9e6f8278569089bdc8db8
+Crystal_34918
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -122000000000000000000
 Liquidity pool
 -
 
@@ -14923,7 +15117,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_44195: 0xd1bd699d5ab9a2a6643af5627795c059d36ee847e70970b88b1dc44d46268104
+addHero_44195
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -122000000000000000000
 Liquidity pool
 -
 
@@ -14938,7 +15134,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -50000000000000000000
 Hero transfers
-Crystal_34919: 0x274dc4fad8f497b117c87811863d5c569d244141bbd2aea7e487313d27ea8a58
+Crystal_34919
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -14953,7 +15151,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_44196: 0x89b5b9493259fabcb190e6150b1eae0ba9384a5391aa4d6fad9dde3f8a1363db
+addHero_44196
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -14968,7 +15168,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -93000000000000000000
 Hero transfers
-Crystal_34925: 0x3f60753cf3a88f272c0db3b97d0105a8088d388ffac6bdae3adfea7c5bc14912
+Crystal_34925
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -93000000000000000000
 Liquidity pool
 -
 
@@ -14983,7 +15185,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_44202: 0x7b4b3a06c7ebb31a68987dd006568fa2329574a10f086fa2725f56803cb0a4bf
+addHero_44202
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -93000000000000000000
 Liquidity pool
 -
 
@@ -14998,7 +15202,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -70000000000000000000
 Hero transfers
-Crystal_34934: 0x8259e4677dba5392465a9e5393183e341189c6c477f91424e20ddc4c65767777
+Crystal_34934
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -70000000000000000000
 Liquidity pool
 -
 
@@ -15013,7 +15219,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_44210: 0x53526a1fb99ac8c1f808d80131c90f68ebb952f20606fb649c7afd2c36b6c151
+addHero_44210
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -70000000000000000000
 Liquidity pool
 -
 
@@ -15043,7 +15251,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -95900000000000000000
 Hero transfers
-Crystal_35310: 0x8ff75086d9647cc6ed8d89f93e147cf7cbe1d3dc7fa0774636e89b6eb2c9c2ab
+Crystal_35310
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -95900000000000000000
 Liquidity pool
 -
 
@@ -15058,7 +15268,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_44587: 0x4f45a19e8ac89eb3ff92300f1da1d34d8fd5757273c48b1f653cc4fcb6094798
+addHero_44587
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -95900000000000000000
 Liquidity pool
 -
 
@@ -15131,7 +15343,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -68000000000000000000
 Hero transfers
-Crystal_35680: 0x5188bf3238aa14968210d9fb9a1c26c45548f398b5ec9de4b5966892336b902f
+Crystal_35680
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -15146,7 +15360,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_44958: 0x530b3679375137cce3869297a8973410e9f5e9343f4a9acc3a02ef6fbc17cd2a
+addHero_44958
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -16397,7 +16613,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -89000000000000000000
 Hero transfers
-Crystal_38752: 0xe32e41c9dcd914089bb9d4fd01f5dcb0eb519a337c4ab32b18a38df808b7b7f0
+Crystal_38752
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -89000000000000000000
 Liquidity pool
 -
 
@@ -16412,7 +16630,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_48026: 0x23c39dc58c255eececba3815d84bf9ed3597f7007b548b598cdbd905ca8947b0
+addHero_48026
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -89000000000000000000
 Liquidity pool
 -
 
@@ -16427,7 +16647,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -91900000000000000000
 Hero transfers
-Crystal_38755: 0x17ff8568bb86ae132d73425c0c5e144a09489fd5532a87659d995e055868799a
+Crystal_38755
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -91900000000000000000
 Liquidity pool
 -
 
@@ -16442,7 +16664,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_48033: 0x3e2888b4d4acd55201092a4c1c6c3a9f91b82a46bbeb9e4bddee264d28cf62a5
+addHero_48033
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -91900000000000000000
 Liquidity pool
 -
 
@@ -16508,7 +16732,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -76000000000000000000
 Hero transfers
-Crystal_38767: 0xb56627435ed936b88bbd95534608623692bb7e9b5bb9a8a6d8226d99e0cb3e26
+Crystal_38767
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -16523,7 +16749,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_48044: 0xfb6a95b7cb6821dcfe6ba86143bb0cb4f33c7316b82c332d0c4c4ae62d04c640
+addHero_48044
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -16568,7 +16796,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -129000000000000000000
 Hero transfers
-Crystal_38778: 0x2577fb57d0009f8ac8ba9f76be5cfb5cb452ae820809ae483fc5dfff5ca5e42b
+Crystal_38778
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -129000000000000000000
 Liquidity pool
 -
 
@@ -16583,7 +16813,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_48053: 0x7e7a2a14f9c40f1bc8f75285a9321742d6940c1549745f7dc132f3aab88643bd
+addHero_48053
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -129000000000000000000
 Liquidity pool
 -
 
@@ -16598,7 +16830,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -75000000000000000000
 Hero transfers
-Crystal_38781: 0xdcf3c2080f7b0ed3586758d5bfc2f215d19e83c494acbb924a534d486ec350b3
+Crystal_38781
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -75000000000000000000
 Liquidity pool
 -
 
@@ -16613,7 +16847,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_38782: 0xa897ab36587193c4c1e1fa3486f083cb99d5abd500236e52a75b77c66680cc0b
+Crystal_38782
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -16628,7 +16864,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_48055: 0x73fb4521269f704f0847bb5b97b4971c8845165db970d3b809bbc4f9b1313786
+addHero_48055
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -75000000000000000000
 Liquidity pool
 -
 
@@ -16643,7 +16881,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_48057: 0xfaa44a2c8e249a4f637159ef4b8fb9a632f0e1229aa83db1ce9dc3503e8d3db6
+addHero_48057
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -16658,7 +16898,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -86000000000000000000
 Hero transfers
-Crystal_38788: 0x26c817401ec3d210b91c82a49d7a5b584a37c57debbba0f8e2ec6c83a4250d68
+Crystal_38788
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -86000000000000000000
 Liquidity pool
 -
 
@@ -16673,7 +16915,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_48063: 0xa5d5942dacf894ea66d2479bc993285ef10a568894a062606a789e69dcff9186
+addHero_48063
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -86000000000000000000
 Liquidity pool
 -
 
@@ -18594,7 +18838,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -58000000000000000000
 Hero transfers
-Crystal_42037: 0x810ab200380ff42bb611ff814872f58031a8a0733ff6b731d97fc4128acdc0c8
+Crystal_42037
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -58000000000000000000
 Liquidity pool
 -
 
@@ -18609,7 +18855,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_51318: 0x116d2e744f968eb94962302b875235302968c48904b8cb59b9d386b118345c26
+addHero_51318
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -58000000000000000000
 Liquidity pool
 -
 
@@ -18624,7 +18872,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -38000000000000000000
 Hero transfers
-Crystal_42056: 0xdedf424acb146ec9bfd61967cd6147a62262a611f3517f8ef3828dc2ea198640
+Crystal_42056
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -38000000000000000000
 Liquidity pool
 -
 
@@ -18639,7 +18889,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_51334: 0x03012206f9158ff152c5c8f6aacd1ba4976976ae5ae01b21083873e7a3cb638d
+addHero_51334
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -38000000000000000000
 Liquidity pool
 -
 
@@ -18654,7 +18906,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -32000000000000000000
 Hero transfers
-Crystal_42068: 0xa879b5caf0c7d2428adc0ac58b1dac287be6bb2692d9eb980cfec681cfc699b9
+Crystal_42068
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -32000000000000000000
 Liquidity pool
 -
 
@@ -18669,7 +18923,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_51348: 0x91f183ee29b0afe91284f49c08479b7a642bad02137cb2bd6599e8451df8f425
+addHero_51348
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -32000000000000000000
 Liquidity pool
 -
 
@@ -18684,7 +18940,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -66000000000000000000
 Hero transfers
-Crystal_42078: 0x11e007435ea5c8bafe202d9ea92857fe807da69d6b3db9a5612507190be8d602
+Crystal_42078
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -66000000000000000000
 Liquidity pool
 -
 
@@ -18699,7 +18957,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_51357: 0x53d54fc5da73c13f67cd182643ec05e709e2d7ed7d71ba3df30891a296524796
+addHero_51357
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -66000000000000000000
 Liquidity pool
 -
 
@@ -20425,7 +20685,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -102000000000000000000
 Hero transfers
-Crystal_45338: 0x9d9305bf963e42b812b212f29bdbde6a8a2b30137133ce70ad6ca2eae03f0c93
+Crystal_45338
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -102000000000000000000
 Liquidity pool
 -
 
@@ -20440,7 +20702,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54614: 0x086f3388b24cb5037d5ec5155347e642c1cffdcc9f3a150b09dcf364ce668f59
+addHero_54614
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -102000000000000000000
 Liquidity pool
 -
 
@@ -20455,7 +20719,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -50000000000000000000
 Hero transfers
-Crystal_45339: 0x22effc14bc1233ecaed77890c23c7ae12f24c342538e8fa0810eb758c82e8a48
+Crystal_45339
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -20470,7 +20736,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -38000000000000000000
 Hero transfers
-Crystal_45341: 0x0e15ebacd1fb0bdcd6b761349d6d1feb74e32a6fa45e335c5d6333e1d63f47f1
+Crystal_45341
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -38000000000000000000
 Liquidity pool
 -
 
@@ -20485,7 +20753,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54615: 0x2e0924cbf53f3bdc2aa9ff7dd28ad15cf8dc3f8b2d056f07a7ffad175ba8f4b1
+addHero_54615
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -20500,7 +20770,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54617: 0x8f6da49203219918c53cd58384c5125e4147b159ba791824f70417c99d2241d7
+addHero_54617
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -38000000000000000000
 Liquidity pool
 -
 
@@ -20515,7 +20787,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -62000000000000000000
 Hero transfers
-Crystal_45346: 0x534fba282a41e7d67a0ec2ad9ebc811aeb8f293779f7fe4e983d099dfca2c524
+Crystal_45346
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -62000000000000000000
 Liquidity pool
 -
 
@@ -20530,7 +20804,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -76000000000000000000
 Hero transfers
-Crystal_45347: 0xa95e503179840a5f540f69ac517f382e7b6409f1b623134789663f06b2ce524b
+Crystal_45347
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -20545,7 +20821,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54622: 0x1b0e908a1e487ae464bcee1ef900bfd43a992b52a477ede245517395bf9f664d
+addHero_54622
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -62000000000000000000
 Liquidity pool
 -
 
@@ -20560,7 +20838,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54624: 0x4cfdf8db09899b3eb7308cd8ae7c7a8a579516ef97b219eae71f1c48341a8e15
+addHero_54624
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -20575,7 +20855,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -86000000000000000000
 Hero transfers
-Crystal_45350: 0x799951eeb9743d0647083768bacc860332b2f267797b8bff0f03cee17adc45e6
+Crystal_45350
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -86000000000000000000
 Liquidity pool
 -
 
@@ -20590,7 +20872,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -73000000000000000000
 Hero transfers
-Crystal_45354: 0x9447cf8ca7164de5d3f2320506caf181ea8f40ab0104c1e916bf1cb842dc239b
+Crystal_45354
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -73000000000000000000
 Liquidity pool
 -
 
@@ -20605,7 +20889,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54629: 0xa81870c9b27d03bc5904a4de331029a0ab24a356313eba60cf6ddf8b2eb33c81
+addHero_54629
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -86000000000000000000
 Liquidity pool
 -
 
@@ -20620,7 +20906,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54630: 0xc18f2fa1ceb7e7743238fb2526cd1c7ef90d71207ebe226c9abd23c78ed257dc
+addHero_54630
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -73000000000000000000
 Liquidity pool
 -
 
@@ -20635,7 +20923,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -68000000000000000000
 Hero transfers
-Crystal_45358: 0x57521e69018f758e05ad7d6dacc4cc53add3a14aa32139dd3e0b90b2d01b4076
+Crystal_45358
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -20650,7 +20940,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54635: 0xe5dd2c14c64b8b6665d97c659116f566368961833941df99cdc9764ef140d112
+addHero_54635
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -20665,7 +20957,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -52000000000000000000
 Hero transfers
-Crystal_45361: 0xd777aefb5f2a2a06b0e8df59ea4129a6a1b82d524867c08ff54c90abfb1f5ac3
+Crystal_45361
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -20680,7 +20974,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -52000000000000000000
 Hero transfers
-Crystal_45362: 0xa748749d4dca68b4dea704ee6d8b07de36b685295b79abbc331edd3c82b0e2e3
+Crystal_45362
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -20695,7 +20991,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54637: 0xba8f9818367123d0475ef87027ca43931b54ab9a694592e52867dbc72a88489c
+addHero_54637
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -20710,7 +21008,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54638: 0xd87c4f49ad9080ad4c11d70f565af2fc6cc60a00705a4cd6acff7b724ae886fc
+addHero_54638
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -20725,7 +21025,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -84000000000000000000
 Hero transfers
-Crystal_45365: 0xc18328a2f8c9fca31f6a9424cb495d5f4705fb7ba757116a94169d56f989854a
+Crystal_45365
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -84000000000000000000
 Liquidity pool
 -
 
@@ -20740,7 +21042,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -86000000000000000000
 Hero transfers
-Crystal_45367: 0x5cbe14ece914792c6ddb6a3b327f8c7c04c87545f59ee34d235e353612b74b91
+Crystal_45367
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -86000000000000000000
 Liquidity pool
 -
 
@@ -20755,7 +21059,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54641: 0xb36ca3834a8b4f137970d48770e50d77e74945e55b8099555c0e85890d501e6c
+addHero_54641
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -84000000000000000000
 Liquidity pool
 -
 
@@ -20770,7 +21076,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_54642: 0xb1d1ff8e5100a285b66ddce70a3a31f5b03dae74cc7c0a25b5d47c0406d0cb94
+addHero_54642
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -86000000000000000000
 Liquidity pool
 -
 
@@ -20860,7 +21168,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -72000000000000000000
 Hero transfers
-Crystal_45812: 0xd76e5a9c83ec6c5254889504172f78735f4dccb7b6f2a30381946c5926d1734c
+Crystal_45812
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -72000000000000000000
 Liquidity pool
 -
 
@@ -20875,7 +21185,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_55090: 0xdbd19464b1b3a513aed62134939020c0335cf24a90563b0c4268190859bb0093
+addHero_55090
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -72000000000000000000
 Liquidity pool
 -
 
@@ -23060,7 +23372,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -110000000000000000000
 Hero transfers
-Crystal_51833: 0x291214a9fbce840f3d6710670f47b5d7dc99621dd13501e6bd91c7ecfcef0afe
+Crystal_51833
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -110000000000000000000
 Liquidity pool
 -
 
@@ -23075,7 +23389,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_61110: 0xe158a8116191da51094e2fa7339bb62a491d0a77565b79917c8524bc80e4a25f
+addHero_61110
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -110000000000000000000
 Liquidity pool
 -
 
@@ -23090,7 +23406,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -69000000000000000000
 Hero transfers
-Crystal_51843: 0x838c0d7ca253cf49d5005ae525dc3acf46ad3a7244df43429866b43099742612
+Crystal_51843
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -69000000000000000000
 Liquidity pool
 -
 
@@ -23105,7 +23423,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_61120: 0x9b988b4dbd9b3ad293dc50da95abc681fb8e65d667686cca95649eb341a4731c
+addHero_61120
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -69000000000000000000
 Liquidity pool
 -
 
@@ -23120,7 +23440,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: -54000000000000000000
 Hero transfers
-addHero_58332: 0x89de362fe78ca09e8f7c7108b869b0b13c52f740c1d3b07599e517dbf79578fb
+addHero_58332
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -54000000000000000000
 Liquidity pool
 -
 
@@ -23135,7 +23456,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -50000000000000000000
 Hero transfers
-Crystal_51856: 0x6a6baa7ab71194f45d1dc61f5870ded595d263f9cacaf0cba9e76298fea42118
+Crystal_51856
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -23150,7 +23473,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_61133: 0xfa75aacfdfae120d58d035933f21bb848ae2140dfaedc1177e6383342b499abd
+addHero_61133
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -23165,7 +23490,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -74000000000000000000
 Hero transfers
-Crystal_51859: 0x0770e10dcae2215bb3eb33995a88debc59e5e5de85f2a25fc1105c94216e4f9e
+Crystal_51859
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -74000000000000000000
 Liquidity pool
 -
 
@@ -23180,7 +23507,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_61135: 0x84c61c90a99d61f330342d049af940ed737888e02d243a12191241b651be8686
+addHero_61135
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -74000000000000000000
 Liquidity pool
 -
 
@@ -23195,7 +23524,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -50000000000000000000
 Hero transfers
-Crystal_51870: 0xbefbde01247730f19b8d9a96d5c0b4d0e32c2ab41a1f3837dfbc43fb3a55b1b2
+Crystal_51870
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -23210,7 +23541,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_61146: 0xdc7ca584a8e434019a28a0b791a979068d806e5427f1a63adfdf04d69abcba60
+addHero_61146
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
 Liquidity pool
 -
 
@@ -23857,7 +24190,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -52000000000000000000
 Hero transfers
-Crystal_56190: 0xe4d9e1c011f3862ab462ef07d5e0ce3f444afeced04852a119a45594f7a651ec
+Crystal_56190
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -23872,7 +24207,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_65462: 0x4efe0246b096a2dd5e4f9783ef69b4f9cb1b84f5d034488e30128185e6dca026
+addHero_65462
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -52000000000000000000
 Liquidity pool
 -
 
@@ -23887,7 +24224,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -56000000000000000000
 Hero transfers
-Crystal_57783: 0x4ba478c4323dffa6ddacab278d976c019c136da6a5ba3a604f50427c44ad4a2d
+Crystal_57783
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -23902,7 +24241,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_67060: 0x95d45b374541c62d80bfdee8f3dabdab4e51a4aba3d0da754dd5f2c136ddfee7
+addHero_67060
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -24230,7 +24571,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -64000000000000000000
 Hero transfers
-Crystal_57861: 0x2d62603c8a4727c4ab4cf89828c3c44f60272796e1b9068ed122eb4cf3e40a61
+Crystal_57861
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -64000000000000000000
 Liquidity pool
 -
 
@@ -24245,7 +24588,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_67139: 0xc28b3cd0b0400cf5d3a93124353a75e94b51277e28435fcec68700e452ec1b3a
+addHero_67139
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -64000000000000000000
 Liquidity pool
 -
 
@@ -24260,7 +24605,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -76000000000000000000
 Hero transfers
-Crystal_57892: 0x87595479ff58239109936b2e18be2353c67b7613119a11d1d03c80e902f32659
+Crystal_57892
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -24275,7 +24622,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_67170: 0x5851e10bfc2de49636a20c256df758df3ed16a300da068e660553d8dba9b57d7
+addHero_67170
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -76000000000000000000
 Liquidity pool
 -
 
@@ -24994,7 +25343,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -56000000000000000000
 Hero transfers
-Crystal_58930: 0xc635b3f3032f08061706840be369b6a3abf6237c03ff9a7d1972fb266ca690f9
+Crystal_58930
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -25009,7 +25360,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_68211: 0x29d4af605d18afc5cd3a26a0cbd7465abfb75115a5976d095420f1a00915e2ad
+addHero_68211
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -25024,7 +25377,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -99000000000000000000
 Hero transfers
-Crystal_58943: 0x1e0744e9121ce33f4362fa43897fea84912420fea48a92168e7603b0bbc4595f
+Crystal_58943
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -99000000000000000000
 Liquidity pool
 -
 
@@ -25039,7 +25394,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_68220: 0xffd4cfe26d02c868fec9d47ed2a830b45170f2c36069ed382fac9d4b9a46e5d3
+addHero_68220
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -99000000000000000000
 Liquidity pool
 -
 
@@ -25054,7 +25411,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -56000000000000000000
 Hero transfers
-Crystal_58950: 0x3fddac21b168e7f4e6352bcb8b646a098e60b4458f0ac869f5c2d7e63b37aedc
+Crystal_58950
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -25083,7 +25442,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_68237: 0x1d03d9a5beedfed0210ad21ad879cfbdb471ce81eb8008ac99c2de5ae68715ac
+addHero_68237
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -25098,7 +25459,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -48000000000000000000
 Hero transfers
-Crystal_59046: 0x4c1e8d9fad6608611c80ff258231d6a671e125e340404b083d21b0a403e0a0c0
+Crystal_59046
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -48000000000000000000
 Liquidity pool
 -
 
@@ -25113,7 +25476,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_68321: 0xb0f15ff092fad85525a9b74bfb14fa8f84fd295aa9c3854946e90c058be5aed2
+addHero_68321
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -48000000000000000000
 Liquidity pool
 -
 
@@ -26063,7 +26428,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_62523: 0x5af747b66c740359c118a434be5924e1959befa283b3f6c3ed6c51870aec609c
+Crystal_62523
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -26078,7 +26445,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_71801: 0x3cafa84ac284bb751d76b3cb8338e4f6dcf17fde7eab5562955d8777d202f73e
+addHero_71801
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -26093,7 +26462,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -56000000000000000000
 Hero transfers
-Crystal_62526: 0xf7b8035a2eed2b202ab916d1ec3258a397a0fe32168f1a1784b90f830342549f
+Crystal_62526
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -26108,7 +26479,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_71804: 0xa998ed9b0b7d5d50b76925e2aa1ce61483511617e386cf1419b0b5a5262c5f56
+addHero_71804
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -26123,7 +26496,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -56000000000000000000
 Hero transfers
-Crystal_62528: 0xb2c28ebd0b119be339978d9e906f408ef2345068adc8395f4c48976366d8a3f5
+Crystal_62528
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -26138,7 +26513,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_71806: 0x6eec6bdc59906737cdb0f70b6e54382cb2467111b34f81bebb909af01fb89a5f
+addHero_71806
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -56000000000000000000
 Liquidity pool
 -
 
@@ -26425,7 +26802,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 1.299375e+20
 Hero transfers
-subtractHero_5915: 1.299375e+20
+subtractHero_5915
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 1.299375e+20
 Liquidity pool
 -
 
@@ -26440,7 +26818,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 1.280125e+20
 Hero transfers
-subtractHero_68211: 1.280125e+20
+subtractHero_68211
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 1.280125e+20
 Liquidity pool
 -
 
@@ -26454,7 +26833,8 @@ Liquidity pool
 Token transfers
 Serendale_JewelToken: 3.36875e+19
 Hero transfers
-rentHero_68220: 3.36875e+19
+rentHero_68220
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 3.36875e+19
 Liquidity pool
 -
 
@@ -26862,7 +27242,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -68000000000000000000
 Hero transfers
-Crystal_64014: 0xebb6994e5ee2f95d09fb67f0daada517afb1f2d2f44413903ce8a773a5f848fe
+Crystal_64014
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -26877,7 +27259,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_73292: 0x89d63891b8826583b6d8db011f978f695ef6d8a5c03df0e15e0c0a04ecde190f
+addHero_73292
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -26960,7 +27344,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_11308
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -28099,7 +28485,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_66222: 0x21cea15f8049046924fabe380aaaa09daf87cb1155d4f2e63802dd6ded95e9b4
+Crystal_66222
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -28114,7 +28502,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75501: 0x2308ffc8d95a9d975d4a28c1f5ba7b493c67933828741429936e0be94d0a06d8
+addHero_75501
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -28129,7 +28519,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_66224: 0x83a08f9cf6063cb980d6fac9a48f8234a926eb1c12f530e0d10f175d23733d31
+Crystal_66224
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -28144,7 +28536,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75503: 0xbacb8ddb5f42db5afe5f1700c98a9030d0461fb64c8f89e76fe22f06c697c6b4
+addHero_75503
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -28159,7 +28553,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -48000000000000000000
 Hero transfers
-Crystal_66234: 0xf0939bab9fdd5ea40547afdb3979b625a0b7750244408d8b35ef23cfed8790e1
+Crystal_66234
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -48000000000000000000
 Liquidity pool
 -
 
@@ -28174,7 +28570,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75513: 0x9e2045341ce06ab05350d6f4c37dfa600d812cd14d6241a1df3b8c00ef274075
+addHero_75513
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -48000000000000000000
 Liquidity pool
 -
 
@@ -28189,7 +28587,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -72000000000000000000
 Hero transfers
-Crystal_66245: 0x7cbee0ee4891e259f15b025eac12ca84827e6a79349870a3e1f464eb75b7b78d
+Crystal_66245
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -72000000000000000000
 Liquidity pool
 -
 
@@ -28204,7 +28604,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75526: 0xcd436509afb9b00f22dc12fc52dabedec69d3faafa14d4f2074f74bf5bc38f83
+addHero_75526
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -72000000000000000000
 Liquidity pool
 -
 
@@ -28219,7 +28621,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -58000000000000000000
 Hero transfers
-Crystal_66249: 0xc1209a75a34808b4b8992f5a9578ebc3473c1b219ccc812b63cd0dc507502e7a
+Crystal_66249
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -58000000000000000000
 Liquidity pool
 -
 
@@ -28234,7 +28638,9 @@ Token transfers
 GaiaTears: -80
 Serendale_JewelToken: -102000000000000000000
 Hero transfers
-Crystal_66251: 0xd18e45e1d15107c1be72ecb72aea3e6b76a72b0daa61057d01227ca825c09bc1
+Crystal_66251
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -102000000000000000000
 Liquidity pool
 -
 
@@ -28249,7 +28655,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75528: 0xa6c84fdfe98f7710a4d9a5b7c128d0c86309df21cc3fb80c233f06bb834480a6
+addHero_75528
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -58000000000000000000
 Liquidity pool
 -
 
@@ -28264,7 +28672,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75529: 0xb02e8e5d85b3ba5414f61d3d412f5c52931689a21cf6329118fc28e364f929d5
+addHero_75529
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -80
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -102000000000000000000
 Liquidity pool
 -
 
@@ -28279,7 +28689,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_1543
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -28308,7 +28720,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_1756
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -28337,7 +28751,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_3239
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -28406,7 +28822,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -67000000000000000000
 Hero transfers
-Crystal_66302: 0x647a60b0b93cae3a269a1aef3cf4f321703f10237ec2ba14e2db3858b9f7e371
+Crystal_66302
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -67000000000000000000
 Liquidity pool
 -
 
@@ -28421,7 +28839,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75581: 0x99041cbd3ebdb330c38d07570d8ccbdd8593fe576061c38e6d74870d2db542e1
+addHero_75581
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -67000000000000000000
 Liquidity pool
 -
 
@@ -28436,7 +28856,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -80000000000000000000
 Hero transfers
-Crystal_66306: 0xa1f05366c98482e3cb77a9a2c5646c7a1767736a13db793d52d98836b4eac668
+Crystal_66306
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -80000000000000000000
 Liquidity pool
 -
 
@@ -28451,7 +28873,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75585: 0x9f318f121ade4254aa8d14848ad5b467ef64284aa1332e42842775ac1c577068
+addHero_75585
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -80000000000000000000
 Liquidity pool
 -
 
@@ -28466,7 +28890,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -44000000000000000000
 Hero transfers
-Crystal_66312: 0x1baaf1bd62702e5df8ea2fa066da0bf5a17474c7c71b9ce53241a9bccdb67364
+Crystal_66312
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -44000000000000000000
 Liquidity pool
 -
 
@@ -28481,7 +28907,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_75591: 0x098c738374ba342675cde793bea7c266c8bd94510eab8219f6a33120efade661
+addHero_75591
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -44000000000000000000
 Liquidity pool
 -
 
@@ -30407,7 +30835,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_68938: 0xc0940140c4e56b521cdb2c56a5c695c542bc6454cfe80614f53b79374fc9d61c
+Crystal_68938
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -30422,7 +30852,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_68939: 0x6cd97824cf29166fd8d366370d86d2f2b33db4b11757a55c29081090d7f47d57
+Crystal_68939
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -30437,7 +30869,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_78216: 0x9f26103cd4cb4b85255ada2ef924b5792e514119b83d3b7157517e80b6cf8011
+addHero_78216
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -30452,7 +30886,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_78217: 0x470e26d906550e1c475894a596fe6851ebda2af1dda29261428fa08765781b62
+addHero_78217
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -30467,7 +30903,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_68941: 0x855711e7a0b5438fed7f066c88bb425e5b66e045985eff957010c9a8a839c12b
+Crystal_68941
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -30482,7 +30920,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_78220: 0xb34f97a377fc8a917f504fcdcdce1d94c92293a59c858f866a13c2d3f6d0d653
+addHero_78220
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -30497,7 +30937,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_68944: 0xdb07be3a5c344e92f9d689d0f20052b537f9b6014b12d10ec21562be55038324
+Crystal_68944
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -30512,7 +30954,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_78221: 0x60bfc8296707c036f51a7c90967c52a5e4629432ab7e99490a635a9613cf3982
+addHero_78221
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -31020,7 +31464,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -68000000000000000000
 Hero transfers
-Crystal_69311: 0xdfa217cd4df09c505ffb7caf490c80e4c7f375338db2ad7090a52841e4082708
+Crystal_69311
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -31035,7 +31481,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_78589: 0x5cae3b00c049430a84835a0bec1b1f374f8eab9e32a31cff12e478aead5410cc
+addHero_78589
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -68000000000000000000
 Liquidity pool
 -
 
@@ -31050,7 +31498,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_4361
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -31133,7 +31583,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_48057
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -31176,7 +31628,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_5048
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -31205,7 +31659,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_40842
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33517,7 +33973,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_44196
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33546,7 +34004,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_142
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33575,7 +34035,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_42718
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33604,7 +34066,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_28724
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33633,7 +34097,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_2462
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33662,7 +34128,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_2467
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33708,7 +34176,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_722
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33737,7 +34207,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_1846
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33766,7 +34238,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_5922
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33809,7 +34283,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_51348
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33838,7 +34314,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_12955
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -33867,7 +34345,9 @@ Token transfers
 ShvasRune: -1
 Serendale_JewelToken: -100000000000000000
 Hero transfers
--
+levelupHero_5454
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
 Liquidity pool
 -
 
@@ -34783,7 +35263,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_71858: 0xc76cc38e4706a00af6e2dd95e1371c8bdb237483710d8b1da39e41e232b8cc27
+Crystal_71858
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -34798,7 +35280,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_71860: 0x6294ace608b0bce352b9f0cfa3db07b4e53e2c44bbbffcc43d6ce0223678feff
+Crystal_71860
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -34813,7 +35297,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_81138: 0xb1df6a98e5f820e73e64c9384382702194a5b970860911a7fb99016fa4256bd1
+addHero_81138
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -34828,7 +35314,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_81139: 0xbae899f74a6f44409971ef848f73b9084348ac556e3629d30a46a406ed52868e
+addHero_81139
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -34843,7 +35331,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_71861: 0x4998884d7c15c8d2a6c6524952c1b6da3e0dcdf76327e86299ee04d18e7116d5
+Crystal_71861
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -34858,7 +35348,9 @@ Token transfers
 GaiaTears: -20
 Serendale_JewelToken: -60000000000000000000
 Hero transfers
-Crystal_71862: 0xa39be2b08259687c4d8bfa340fe6e211d0a97d6b9d9d90f1c9b32cbe1ccd7814
+Crystal_71862
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -34873,7 +35365,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_81140: 0x1bb1123b4a015c1bdeca340f5f5cd200f7a9d29fb668445cccd84a1b7cbbcc5b
+addHero_81140
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -34888,7 +35382,9 @@ Liquidity pool
 Token transfers
 -
 Hero transfers
-addHero_81141: 0xca6e14399fdbe338601a4018a6f99fe67b98bff97c1564ca9cd30800f692f1c1
+addHero_81141
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
 Liquidity pool
 -
 
@@ -35121,9 +35617,10 @@ Liquidity pool
 (Transaction fee) 0.0020514500000000002 ONE
 (Value) 0.0 ONE
 Token transfers
--
+Serendale_JewelToken: 9.625e+16
 Hero transfers
--
+rentHero_1543
+0x72cb10c6bfa5624dd07ef608027e366bd690048f: 9.625e+16
 Liquidity pool
 -
 
@@ -35136,6 +35633,1571 @@ Liquidity pool
 (Value) 0.0 ONE
 Token transfers
 Serendale_JewelToken: -64000000000000000000
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:19:12 || [Tx Hash] 0x796fa9cd595dfaa9bf352a0ba26a36ff034fdb9a5293483a87f1f274bdbc7cb0 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.05324784 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_DFKGold: 381200
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:19:41 || [Tx Hash] 0x255a5e3904720d109196aa7dbcd0edcd1e63274e8c2e2038893ce96063fbb3d8 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.056726200000000004 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_DFKGold: 381700
+GaiaTears: 8
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:21:51 || [Tx Hash] 0xd22a10e39092e70bf3b80147e6bb384bfd3ef9e7549ff58e2512117ba337af83 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.0062730400000000006 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_3810
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:22:12 || [Tx Hash] 0xd119696a3b4a725db2c572caf03fc4f72997046a56be377c6049fed30f4b16b2 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00784019 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:24:44 || [Tx Hash] 0x45170b06fa38e204e2d6907ac5bf287b2cb14c6ed8d0d74506d289124ad1ebe5 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.0062730400000000006 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_48055
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:25:25 || [Tx Hash] 0x854a63dcdc6034dbd010c1ef28d96ec4d8778843046add58f0efaf994413a906 || [Status] 0
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.009143130000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:25:50 || [Tx Hash] 0x870dc93bfe0fc32989389f2bf41ba927b3084d11eaa46913237ca9a97e28a545 || [Status] 0
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00907189 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:26:16 || [Tx Hash] 0xf886cdac1880d64023eebf44d3f44935e9331165eb0f8b8489d3676e23637979 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.011588264999999999 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:27:28 || [Tx Hash] 0xb3417c82230f80da864cac8f90e118ca9921cdee217c0aeb96e4e95794b93e4e || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.00627292 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_4827
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:27:56 || [Tx Hash] 0x9556b9a234619f8ad2de8924772d6caf4a3e40c6d4974de3986c7acc1a9db3eb || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00764411 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:28:34 || [Tx Hash] 0xd97e609fc857c446919fb1c9ca8ab15f98a4534451fcd043d7288bdc913f2009 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.0062730400000000006 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_5918
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:29:00 || [Tx Hash] 0xf580e95c87dc6921a9e8047b4303716b0ae207456e496c71cf8f042a9581d853 || [Status] 0
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00908761 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:29:12 || [Tx Hash] 0x4b821157c70c7c1d8f6ed379429a1971aa3126b818bba209529e9869210f9aaf || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.0076440100000000006 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:29:56 || [Tx Hash] 0xe609b3ae11abea310cb3c50b8d9a6a68c2e08cb3fe5350a58765e69acdfb7228 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.0062730400000000006 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_5930
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:30:22 || [Tx Hash] 0x42b5ee53890113bf7a297bf6c6ca52ae324c8ab11ab65fac39631915d3f3cb93 || [Status] 0
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00941213 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:30:51 || [Tx Hash] 0x72a87df4a9dd8c2214aef4749874bace22191575c129094cbb80d734866c442f || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00754146 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:31:38 || [Tx Hash] 0x955a2b111a280a0e458e5790c7fb782df0b38179585c0f6bb24aac461356e8e0 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.0062730400000000006 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_6814
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:32:09 || [Tx Hash] 0x464910a01a13ed84b04bc446d968fc2fceb19289abacb5cb2b65526246d47590 || [Status] 0
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00911294 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:32:21 || [Tx Hash] 0x5b4aff5af1c325153c68254588bd99f543a5a5453f6d3a4b088e2204a0d19f3d || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00788869 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:33:21 || [Tx Hash] 0xffe920e8754e98666336e083194b2f98fb948a5548d1f4b20dfd1ac40a4219a2 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.00627292 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_20167
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:34:02 || [Tx Hash] 0x45a0772bbce8e92293952df627cd6d28126c48dd5791f5d903b6739135dc2cde || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.0007747450000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:34:57 || [Tx Hash] 0xde50ecddb2bf7c0dcdbe4f590cecba141b1fdb2b628436353ff958871aeeaa35 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.028892420000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:35:38 || [Tx Hash] 0xa01fe765a4bd5012755e9232f1288cda90d2e1fc2fcd9f5a278a14a32e4389ac || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.029180440000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:36:12 || [Tx Hash] 0xf1efa9daa5f4d5500b67ae8c4bc41c9d5282d42c305d18210250b458873edc00 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.02947027 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:37:01 || [Tx Hash] 0x8ddfc201026a7db82127aa03053e0d21384e42d73729bdb90648e96b2894fe63 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.02975991 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:37:29 || [Tx Hash] 0x3de0358d3c4ed351208a1508ee8bc1af1b63ea5089844c2bc9eaab44d155398a || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.03004971 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:38:04 || [Tx Hash] 0x6da6f8fecfeab7bbc7ffdbc3a6f2fd51daec08dcdfe82d33dc49632dfa78bd99 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.030339230000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:38:52 || [Tx Hash] 0x6ad28402febbc5d2813aa174a9fc63226ca6c538b49749ecb1e3310cf9f54f86 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.03062904 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:39:21 || [Tx Hash] 0x38150f61fdbc25f3665b00fd544a6e731d78f776675d8e585f4a48f12aa61905 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.03091903 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:40:05 || [Tx Hash] 0x59792a683f5ec1f1aeab5aac8330fd9326282b4b98ed5765b987a4e6e192186a || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.03120895 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:40:38 || [Tx Hash] 0xb55eae3eefdf701cd9e51ea333b267a3e5bc249ecc84bf9c0091471f777c3b28 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.03149905 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:41:13 || [Tx Hash] 0x3478f053e4aac781d6f87abb34ed50acff51d804cf19f653cdfda551fcd9dbb6 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.031789200000000004 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:41:50 || [Tx Hash] 0xb5c6eb1831c0081a268304d9e0c2f0a64b499f2d49a9d8dbfd532faf6b10a038 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.0200976 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:42:54 || [Tx Hash] 0x1322882322fca1d5e3ac0c621891de300785fbc030d176f260c4662c0ac8ca20 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.03229481 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:43:25 || [Tx Hash] 0x6d51f5e356486b18db86eeaa81d53dc47cb4647b5badc2935765c6a258aa6508 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.032584880000000004 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:43:42 || [Tx Hash] 0xbe18e77e0a267be26f8ec948f6e6b5eca618647d89b7528bd86fb5cb5bc2a254 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.01692054 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:45:02 || [Tx Hash] 0xd44c539e3ef96a8833775bd5f96e4cb3b98224f8e566430c821cf97e455483cf || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.0172523 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:45:55 || [Tx Hash] 0x0c05526305d3626244223af21a9dce928a8f65498946517b7ec4f18ec2171814 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.018046 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:46:54 || [Tx Hash] 0x286a618d41e62412cc4c348842cff6f1b1c4e7335715ac6fe1ece96e6335847f || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.018455680000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:47:32 || [Tx Hash] 0x12081ea956670bd678f219ded419531f365af24132877c0c3453c6fc5107a6e1 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01886543 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:48:08 || [Tx Hash] 0x01c50467f376a2e0f2c30ef6f4136b3713d1b69f3ebdab00a3b013ba9ece96c5 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01927527 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:48:53 || [Tx Hash] 0x60a7f2078cee8db20ca0c1ca561f14b4cca9daddbc9077e80b4b6abd23c2c8dc || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01968588 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:49:22 || [Tx Hash] 0x949754dfc17258ea9e3c930ba259a296e309fbf9ea8d256721a9bf98660ec5ba || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01971189 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:49:50 || [Tx Hash] 0x91b01775457970dc0b78027e8396d86e78dd2257432ffa1117c3f0170d931aef || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.02050612 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:50:32 || [Tx Hash] 0xabaf6a57193b486f65cb66e9a9ad59736406d50015d6f963b2a6fa548187a5dc || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.02091619 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:51:06 || [Tx Hash] 0x42035a32c1e2884b78f123dfd7152bc1977810082f309f8e22cdc1fe48c11155 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.0213266 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:57:37 || [Tx Hash] 0x185f0e2551459d9e52e34773350b33d2694a55e0507b6159ed6d230660590826 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.02173764 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 20:15:50 || [Tx Hash] 0x58fd448bfdcc1ed4fa2aec266d7139a086ae3d2f6b71ab3fc8e84c2a6fda2ad9 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.022146660000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 20:16:21 || [Tx Hash] 0xbddf1fb9488f97d6e692c9846d5be43f7447375b1246f4a1c7be45e99336a942 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.02255787 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 20:18:13 || [Tx Hash] 0x16ed7c19a26fe6a6a84c33d9432a504c4d8aec8252f492d1e23a7a8680cec612 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.022536010000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 20:19:24 || [Tx Hash] 0xe1891c71e60e59aaeb0fc8cfcb62fec888342a5eeef420a4610d847ec561606e || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.02316338 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 20:21:02 || [Tx Hash] 0xfc44970313a9ccc972cdc3607ab49221fac7063dfe049f341adad799fe181b2a || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.09185625 ONE
+(Value) 0.0 ONE
+Token transfers
+Ragweed: 7
+Redleaf: 2
+Darkweed: 3
+GaiaTears: 11
+Rockroot: 4
+ShvasRune: 1
+Ambertaffy: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 20:21:35 || [Tx Hash] 0x0a834b1132d856992bb8cfc852c9278c340e21cf749968ab9095ed67a7a7cb4e || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.09424209 ONE
+(Value) 0.0 ONE
+Token transfers
+Ragweed: 12
+GaiaTears: 8
+Rockroot: 4
+ShvasRune: 1
+Ambertaffy: 2
+Darkweed: 1
+Redleaf: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:14:32 || [Tx Hash] 0xda48cc07c9495811aa8fc9c23e7a855292a6cd8b8d272499d1c146d3b80da62f || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.009166884 ONE
+(Value) 0.0 ONE
+Token transfers
+Redleaf: 3
+GreyPetEgg: 1
+GaiaTears: 8
+Rockroot: 3
+Ambertaffy: 3
+Ragweed: 4
+Goldvein: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:17:40 || [Tx Hash] 0xcb7c0bf7977676d153cb8979a98838938ef3ba7dd2cf262858097ac9321f5411 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.08814156000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Darkweed: 3
+Ragweed: 6
+Rockroot: 2
+GaiaTears: 4
+Goldvein: 2
+Redleaf: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:18:07 || [Tx Hash] 0xae1213d78db952fc4d2c3adb532d1a2999dac437394da6843b06ceb04f5ac003 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.09222253 ONE
+(Value) 0.0 ONE
+Token transfers
+Ragweed: 3
+ShvasRune: 1
+Redleaf: 3
+Rockroot: 5
+GaiaTears: 12
+Ambertaffy: 1
+Goldvein: 1
+Darkweed: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:18:59 || [Tx Hash] 0x2f11a99f6217f09a71dc04f9f6cc971dbbba02b8cdc44ac438343c10c2d97b32 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.09004925 ONE
+(Value) 0.0 ONE
+Token transfers
+Redleaf: 2
+Rockroot: 3
+Ragweed: 9
+GaiaTears: 2
+Goldvein: 2
+Ambertaffy: 2
+Darkweed: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:19:31 || [Tx Hash] 0x57bc61adb2c58f7052ba8a3ab8a3ad70d8a57ecbb6b2e50f0fb314b5c7186609 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.08821126 ONE
+(Value) 0.0 ONE
+Token transfers
+Rockroot: 3
+Ragweed: 9
+Darkweed: 3
+GaiaTears: 2
+Redleaf: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:22:10 || [Tx Hash] 0xcf565df633f55ff6647de5cd976b2a3aad8e0ff04817afec09b0ad2c28cd01ba || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.08940786 ONE
+(Value) 0.0 ONE
+Token transfers
+Darkweed: 1
+GaiaTears: 4
+Ambertaffy: 2
+Redleaf: 1
+Ragweed: 8
+Rockroot: 3
+SwiftThistle: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:22:30 || [Tx Hash] 0x0f36e14e3e3fd62c2dd0ca432982545bd3a12e0be06edd624683658147954e52 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.09114269 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 14
+Ragweed: 10
+Darkweed: 2
+Ambertaffy: 1
+ShvasRune: 1
+Redleaf: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:22:54 || [Tx Hash] 0xc61e1222eb6aba20214012f90578bf04dc5d8fb40b48597664b90e0551846fa0 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.09267042 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Redgill: 1
+Sailfish: 1
+Ironscale: 3
+Bloater: 12
+GaiaTears: 4
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:23:34 || [Tx Hash] 0xede36dc0f56036dbe8de5eb27fc2be53e405ee75172da5555a6967af13715d9d || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0895822 ONE
+(Value) 0.0 ONE
+Token transfers
+Silverfin: 1
+ShvasRune: 1
+Ironscale: 1
+Bloater: 10
+Sailfish: 1
+GaiaTears: 3
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 22:24:10 || [Tx Hash] 0xea97b03cb0e51a1e0033dee1ccf3f68dd62e60edd848bb29aaab50fe9580589b || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.03082366 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Ironscale: 1
+Sailfish: 1
+GaiaTears: 4
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 11:57:00 || [Tx Hash] 0x9c7297bf1cbdbb87f05b7b1a3dbf25f9251bb85daab5efe05196f77c5f00b268 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) summonCrystal
+(Transaction fee) 0.01165026 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: -20
+Serendale_JewelToken: -71900000000000000000
+Hero transfers
+Crystal_73588
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -71900000000000000000
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/31, 11:57:46 || [Tx Hash] 0x72e23a3900de397cf9b8a15125bf6f76883b1c6a5683ec3468c1a1851bfe4e7e || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) open
+(Transaction fee) 0.017414640000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+addHero_82867
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -71900000000000000000
+Liquidity pool
+-
+
+
+[2021/12/31, 11:59:03 || [Tx Hash] 0xb6a5e38904e11d8b97c33a40529e4e6f6c6d41613869cb974e35d15c68961bb9 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) summonCrystal
+(Transaction fee) 0.00967938 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: -20
+Serendale_JewelToken: -60000000000000000000
+Hero transfers
+Crystal_73590
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/31, 12:02:41 || [Tx Hash] 0xd2f7db7d6186e27ca6c3cd682b3a013dc4affb71341756c7fd142f5b589d188d || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) open
+(Transaction fee) 0.01759229 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+addHero_82872
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
+Liquidity pool
+-
+
+
+[2021/12/31, 12:08:49 || [Tx Hash] 0xa6bce02d3e45bdb9221fa87acde268e4a8cd1402e98f58a7616b2f0d49a8c342 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) summonCrystal
+(Transaction fee) 0.00967901 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: -20
+Serendale_JewelToken: -60000000000000000000
+Hero transfers
+Crystal_73595
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/31, 12:11:06 || [Tx Hash] 0xe1dd177f47971c589595b569a3ca3830eaad050c5cd6f3c6bd930ab4e694e90c || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) open
+(Transaction fee) 0.01756495 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+addHero_82875
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
+Liquidity pool
+-
+
+
+[2021/12/31, 12:54:38 || [Tx Hash] 0x426e14fe1e15c1ef680f90dc48d8171f5c6a30e1969adad423a52ca44a9069b0 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) summonCrystal
+(Transaction fee) 0.00967889 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: -20
+Serendale_JewelToken: -60000000000000000000
+Hero transfers
+Crystal_73627
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/31, 12:55:25 || [Tx Hash] 0xfe125c7048255ee48af326accf97d17a7c426f804ddfd575022b054a874698dd || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) open
+(Transaction fee) 0.01755705 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+addHero_82906
+0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04: -20
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -60000000000000000000
+Liquidity pool
+-
+
+
+[2021/12/31, 12:56:12 || [Tx Hash] 0xda9ce4d0ddb0c97b38282031bd78ee26363548f317011b07c5898452b35e22bf || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.09061286 ONE
+(Value) 0.0 ONE
+Token transfers
+Ragweed: 7
+GaiaTears: 5
+Goldvein: 1
+Rockroot: 3
+Redleaf: 7
+Ambertaffy: 4
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 12:56:58 || [Tx Hash] 0x62cc36a61745568b86265a546debe4da866019b77d9e18ec138e9d9dfa1c715b || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0907785 ONE
+(Value) 0.0 ONE
+Token transfers
+Ragweed: 5
+GaiaTears: 5
+Redleaf: 2
+Darkweed: 4
+Rockroot: 1
+ShvasRune: 1
+Ambertaffy: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 12:57:40 || [Tx Hash] 0x80afd7c20ae1a0d8a62f474b0c0e6784b2e2824c4d00fa60fa926815e6cc8813 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.04524066 ONE
+(Value) 0.0 ONE
+Token transfers
+Ragweed: 3
+Rockroot: 2
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 12:58:46 || [Tx Hash] 0xd555139625f3b29392e5668a6689f5b34209cd070f3f33cf0c1416261eb9ceaf || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.05418631 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_DFKGold: 383125
+GaiaTears: 9
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 12:59:18 || [Tx Hash] 0xf6ef07d1a209eec558e30f3dcd66b54a65fdf8a329485867df505d5d97be8507 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01322454 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 87181219923805000
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:00:04 || [Tx Hash] 0x9868988c36dbf22fe909d3c1b78bf5d69b5519ef7a20cfccf4e0be3138d052fb || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.014178950000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 89046184813445000
+0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881: 1
+0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9: 1
+GaiaTears: 4
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:01:10 || [Tx Hash] 0xfa6837ffdb26723800202cea2853b0609630930a33a1cf4f5967361fac19fedf || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.05401815 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_DFKGold: 382875
+GaiaTears: 7
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:01:42 || [Tx Hash] 0x6d733246e99ebbc7e5927a502c65c0248310c1f4667f1b5552b156bb029cad06 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.05501615 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_DFKGold: 381475
+GaiaTears: 10
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:02:26 || [Tx Hash] 0x9edbe577a0b5bf1bac3d5f3f84ed072b86c111f8fe92b03d2b76b903af65d414 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01318767 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 100977262255822500
+0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:02:52 || [Tx Hash] 0x218cd347c0619c530998d6bd76c148069b92f7e31ab8fbb79bff57287a035611 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01278199 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 102314120301857500
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:03:12 || [Tx Hash] 0x5003829d44482097cc19d6c851eed1999e140badcc866ca63e6dd9e54dc970a5 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01353118 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 98665752810290000
+0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9: 1
+GaiaTears: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:03:36 || [Tx Hash] 0xe881523f32d83570b59e79a97bb83ffac28f25e9850bb2d212c56f134241a914 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01346186 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 60642095230643750
+GaiaTears: 4
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:04:08 || [Tx Hash] 0x919332289bac71c5e555cf4403e218030e1b0d5fda2003576de5a4041480d5cf || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01285445 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 57678033662203750
+0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:04:43 || [Tx Hash] 0xc06386b54465af31ba90fa7c8ee1e2c27f25fc341748890ad1760964661efa49 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01278187 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 108100417256650000
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:05:33 || [Tx Hash] 0x2e2873c83c1a4a18580597e4499b49b19e14526aa9c891022f2a019e9b072a38 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0126233 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 107340974728935000
+0xc0214b37FCD01511E6283Af5423CF24C96BB9808: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:06:30 || [Tx Hash] 0x023f36656d959841eb3db72b1a6ce0bd019d8fe5b65087c47e672cfa8530d8b2 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01279988 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 183694699245355000
+0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:07:06 || [Tx Hash] 0xfa81ca2fe1f39d492b431467ae8e00bf67656cf833260530dd012fd4e05375a7 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01327563 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 177142198534960000
+0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:07:53 || [Tx Hash] 0x3ad2af9f7eb1fc3cfd4a35e379fde8b533a272f0ac88fb957bd8f710495e16a4 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01351429 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 182381910634530000
+0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881: 1
+0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9: 1
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:08:14 || [Tx Hash] 0xc658b964469483d4a1d052ff92c1e57af7ee6466fed65b370b7b39fd3ceba3c3 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01274087 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 88813530859711250
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:08:49 || [Tx Hash] 0x2be9cef58880eb683c3bce9734339f9d33e5dc35bb1f23dfb65cb4cb6a437af5 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01377961 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 86940078129137500
+GaiaTears: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:09:21 || [Tx Hash] 0x367578204d0b63d8da6ae8ebb452e75fcfb3b14b1826b43cb9ee5dd5f702331e || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01298817 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 84442849347902500
+0xc0214b37FCD01511E6283Af5423CF24C96BB9808: 1
+GaiaTears: 4
+0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:07:12 || [Tx Hash] 0xc3fd6db562ead4e7578891db2e2eddc11f554f2b9488ce4a419c31ff803c4f85 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.02798966 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:11:28 || [Tx Hash] 0xa35cf2b1c70192c1233a03000bb25f0a4832f927c249937b549ae31c7fc99c97 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.02831829 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:13:54 || [Tx Hash] 0xb0bb47980293e5fd1ff8244f0f62681dc870a8abf32a9e82333502f5205e09df || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.04445182 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:15:39 || [Tx Hash] 0x0bd29c973ec55a73625c97dded9ffcf5ab015f4452a4dcd94170fe75d2e47a4e || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01304817 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:18:47 || [Tx Hash] 0x3963d3b49f4b24676105e06f4306c96d4b0c9dd796068618fa92ed62ce922e2c || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01384064 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:20:36 || [Tx Hash] 0x898139a5f16090b2ed3283f75195b0eb2928fb273ff3bcf6048a19a488466042 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01424922 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:26:49 || [Tx Hash] 0xba992348d50f706d201470a43fca951ab9aae3cc284510b82aec9470129a577c || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.01465824 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:27:19 || [Tx Hash] 0xf5cdc10971bec981ea479b44fc9ed65e03a2fc61466bd0352df7670e60a668d3 || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.015067220000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 10:29:38 || [Tx Hash] 0x279ace3fed1d688f42d1137507404b12e36bb168cbfe62740420c1d4099fb79b || [Status] 1
+(Raw addresses) 0xD83d5EBBE238aEfB7802506aC8386882b5CC8186 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) empty
+(Transaction fee) 0.015476160000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+-
 Hero transfers
 -
 Liquidity pool

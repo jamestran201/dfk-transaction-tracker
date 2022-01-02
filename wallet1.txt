@@ -1,0 +1,4971 @@
+USER:  0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85
+
+[2021/11/19, 20:57:10 || [Tx Hash] 0x26e3d2e15eacc2f482ad67707f4a4756acd55e549b2f8668fbbabc55d4936510 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xabD4741948374b1f5DD5Dd7599AC1f85A34cAcDD
+(Remapped addresses) USER > Serendale_Profiles
+(Function) empty
+(Transaction fee) 0.0020536 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/19, 21:03:19 || [Tx Hash] 0x994173dce1e2ad64110ff63ad56fe8617fb106631686c1128c021993d42c9fb0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapETHForExactTokens
+(Transaction fee) 0.00138583 ONE
+(Value) 67.44478007972208 ONE
+Token transfers
+Serendale_JewelToken: 2000000000000000000
+ONE: -67.44478007972208
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/19, 21:05:12 || [Tx Hash] 0x03a316f4bb182b26d2ae94db0057e5c182e8416cca4db9749474a23aac42d3e3 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x72Cb10C6bfA5624dD07Ef608027E366bd690048F
+(Remapped addresses) USER > Serendale_JewelToken
+(Function) approve
+(Transaction fee) 0.00044475 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/19, 21:07:50 || [Tx Hash] 0x1f993336cf9b7d4d5ed52cf6982d3bd351ee1bf4f9a35431bea943c288e94700 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00170464 ONE
+(Value) 66.91547216938969 ONE
+Token transfers
+Serendale_JewelToken: -1999993735922782797
+Jewel LP Token (JEWEL-LP): 11063330847667011101
+ONE: -66.91547216938969
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/19, 21:10:48 || [Tx Hash] 0x4c119fff553082b2e0938cf2ef7fc35568baa54e3bb2ac135d627dca13987adb || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xEb579ddcD49A7beb3f205c9fF6006Bb6390F138f
+(Remapped addresses) USER > Jewel LP Token (JEWEL-LP)
+(Function) approve
+(Transaction fee) 0.00044354 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/19, 21:11:17 || [Tx Hash] 0x10fd3a96f0b40eb9a5d64885992a568375a0292131d28727eaf5c2d19bb0b26a || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00231389 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/19, 21:12:23 || [Tx Hash] 0x5595abbdb83e449d26b591679234afc06d47a85fa9e8f5023fa93fed2abd572c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00445921 ONE
+(Value) 0.0 ONE
+Token transfers
+Jewel LP Token (JEWEL-LP): -11000000000000000000
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 11000000000000000000
+
+
+[2021/11/19, 23:52:18 || [Tx Hash] 0xebcac32addf739f8718bf90e1a83b0e8bcdf1a5841199897e10269f7947bf218 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapETHForExactTokens
+(Transaction fee) 0.00123595 ONE
+(Value) 844.5866823653785 ONE
+Token transfers
+Serendale_JewelToken: 25000000000000000000
+ONE: -844.5866823653785
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/19, 23:53:38 || [Tx Hash] 0xbff904fafe9995031736bce74b4d194cbb84212c7bdf6a04929777028e50c14c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.0016769600000000001 ONE
+(Value) 837.5441107320487 ONE
+Token transfers
+Serendale_JewelToken: -24999992245168163254
+Jewel LP Token (JEWEL-LP): 138379264295651448999
+ONE: -837.5441107320487
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/20, 00:08:42 || [Tx Hash] 0x95e9dd6238dac0be87885895026c5b1e881da0d99c5d0be2f0b5e33a75b38d81 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00466441 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 3013588550500000
+Jewel LP Token (JEWEL-LP): -138442595143318460100
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 138442595143318460100
+
+
+[2021/11/20, 11:53:53 || [Tx Hash] 0xcce5730ceaf3ea896ad1796480c1fc261f2137164330e809f2c134e645331305 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.01884075 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 160084539232891319
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/20, 11:55:44 || [Tx Hash] 0xb7b13fcd4f71d9eacf03fee954a0f4c9017c9bee725957619d28614f5810fc1b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapETHForExactTokens
+(Transaction fee) 0.00617915 ONE
+(Value) 12.937473337417357 ONE
+Token transfers
+Serendale_JewelToken: 400000000000000000
+ONE: -12.937473337417357
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/20, 11:56:49 || [Tx Hash] 0x075d6e4e26f4dba360d745efe29ec4e019a90f82aa51aa535fb7029f7c55da5e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.0083684 ONE
+(Value) 18.068692905152012 ONE
+Token transfers
+Serendale_JewelToken: -563112146692445268
+Jewel LP Token (JEWEL-LP): 3049929831061022467
+ONE: -18.068692905152012
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/20, 11:57:56 || [Tx Hash] 0x7871e95ab1f0b6cacdcb242bd9b06c610ef0440d05a788fbe594eb222f76129d || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.013064949999999999 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/20, 21:25:55 || [Tx Hash] 0xc76f9b1971662d260ac2a5fed472b8755056037d299d4d4ab665a7d6d72382f2 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapETHForExactTokens
+(Transaction fee) 0.00126435 ONE
+(Value) 1018.7758874940984 ONE
+Token transfers
+Serendale_JewelToken: 30000000000000000000
+ONE: -1018.7758874940984
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/20, 21:31:33 || [Tx Hash] 0x86b03a32e2a61fddd4bdbac771749eeb95b8e345736c2af652807f87817da984 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.001682352 ONE
+(Value) 1011.5805097926448 ONE
+Token transfers
+Serendale_JewelToken: -30000000000000000000
+Jewel LP Token (JEWEL-LP): 166545157733328675288
+ONE: -1011.5805097926448
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/20, 21:35:05 || [Tx Hash] 0xa50e9208453da0f438dda7ef9600c2d7400ef024f549066f40ccc4cdfe15794d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00445548 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 131144233134166144
+Jewel LP Token (JEWEL-LP): -169595087564389697755
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 169595087564389697755
+
+
+[2021/11/22, 00:45:14 || [Tx Hash] 0xa8dd79ef4ceee55db4b017090ff274e805ceee423665e43a2ded1858b542a4e1 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactETHForTokens
+(Transaction fee) 0.00231208 ONE
+(Value) 1400.0 ONE
+Token transfers
+Serendale_JewelToken: 47167467944832120104
+ONE: -1400.0
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/22, 00:47:17 || [Tx Hash] 0xff39f3a5152dc621e71df1333d8167a42121c71cefd101f12b9d1548d0646543 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.0038717 ONE
+(Value) 1399.5097538924763 ONE
+Token transfers
+Serendale_JewelToken: -47298308602511445110
+Jewel LP Token (JEWEL-LP): 245877140782995300483
+ONE: -1399.5097538924763
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/22, 00:49:14 || [Tx Hash] 0x587950f7d7211fe13667e6f29841123b0e3af7daec7c28695bab46922c5f7b02 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00861096 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 779832525387612197
+Jewel LP Token (JEWEL-LP): -245877140782995300483
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 245877140782995300483
+
+
+[2021/11/22, 19:57:18 || [Tx Hash] 0xf41daa5673b0e64c7ad75c59b408c8a3edd4616155f36cafb9f9da59beaa6325 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.001150917 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 917907334147725873
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/22, 19:59:28 || [Tx Hash] 0x3b9adb22319c58c93e3ad05dfdb22ec37419e0f12de08909bbff33b0a5fe323e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00193561 ONE
+(Value) 47.75894531152495 ONE
+Token transfers
+Serendale_JewelToken: -1698005976574337633
+Jewel LP Token (JEWEL-LP): 8603634237606457110
+ONE: -47.75894531152495
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/22, 20:00:28 || [Tx Hash] 0x03bc77370cd55e717780a75f215f3c2e5ff3b86a363f0c2abb161d08a87bc89f || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.0027339179999999997 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/22, 20:01:15 || [Tx Hash] 0xf71446c420baae14382864f17992c53bd9938734f7dc810936516d942226e3ed || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.0069977600000000004 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 2856253744224975
+Jewel LP Token (JEWEL-LP): -8603634237606457110
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 8603634237606457110
+
+
+[2021/11/22, 20:01:20 || [Tx Hash] 0x22d61fcbb3c709da58a439338c8bb0971451ec64f446d404ef479d9807768152 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00360276 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/24, 09:07:54 || [Tx Hash] 0x774b1a8d8821f54aa397785b905b5a6945e710c78b15083b7688d08765531bc4 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.007672780000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1583159723885704709
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/24, 09:09:04 || [Tx Hash] 0x8707e6bce198aeb270784dac07f509c41151d393760d81d39ba51f28ae8dc15d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00188741 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -700000000000000000
+ONE: 19735625925712129729
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/24, 09:09:49 || [Tx Hash] 0xe3660b0bb4fec19afc3107efa192f3ccd987fec9dd0def50ac6a89d556327ca9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.0037218200000000002 ONE
+(Value) 25.05633725223565 ONE
+Token transfers
+Serendale_JewelToken: -886053436045771259
+Jewel LP Token (JEWEL-LP): 4500294054927669563
+ONE: -25.05633725223565
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/24, 09:12:29 || [Tx Hash] 0x9e6dfe83e73c6667d0d0bbb731de817fdee4e2ce1f2a7476450f7114d45177a4 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00530076 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/24, 09:13:44 || [Tx Hash] 0x70e3d029e690072b71f9944d616afd0c95e5da710615e17e932d24d80198c395 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00470468 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 4145255551672774
+Jewel LP Token (JEWEL-LP): -4500000000000000000
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 4500000000000000000
+
+
+[2021/11/24, 20:36:55 || [Tx Hash] 0xcb178463c00a13950c589417c998bc60d21013148ba5fbfcce23e12d5dd06cab || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapETHForExactTokens
+(Transaction fee) 0.0024719 ONE
+(Value) 1246.709417751997 ONE
+Token transfers
+Serendale_JewelToken: 43000000000000000000
+ONE: -1246.709417751997
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/24, 20:37:50 || [Tx Hash] 0x3db8f21377d469c2f87e69da91cba5ce065e0aa66b4b9c2fadbcae3286eef6d4 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00326586 ONE
+(Value) 1237.1044558267029 ONE
+Token transfers
+Serendale_JewelToken: -43004145255551672774
+Jewel LP Token (JEWEL-LP): 220276146651443675054
+ONE: -1237.1044558267029
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/24, 20:38:28 || [Tx Hash] 0x87cff021f41ee9558b8fb508c44ffec438d21cde3d9e5a469f6a934701fc43d2 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00904744 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 492145415398040359
+Jewel LP Token (JEWEL-LP): -220276440706371344617
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 220276440706371344617
+
+
+[2021/11/25, 11:54:17 || [Tx Hash] 0x75d79254c1c59448bd7951d1281fff37c017fa9eb899293a0cec65edcba5ef0b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.0038363900000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 868635066487807551
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/25, 11:55:03 || [Tx Hash] 0xbd87892cd236df5c021074e2c987efda2537a71380a21676d945d62fc6c80647 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00134815 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -700000000000000000
+ONE: 20658482211572161601
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/25, 11:55:34 || [Tx Hash] 0xbeff055c5c99a3c473bbcde636c5432a2394d4cb75d58cf7ae902b214b94997f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00193561 ONE
+(Value) 19.55970873918661 ONE
+Token transfers
+Serendale_JewelToken: -660700722204669602
+Jewel LP Token (JEWEL-LP): 3432720044383558487
+ONE: -19.55970873918661
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/25, 11:56:28 || [Tx Hash] 0x52be8772e63b879677d0ea544a10284da6ef38d6c40521b9e73a6c76ec66f59b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00205258 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1982880036179698
+Jewel LP Token (JEWEL-LP): -3432720044383558487
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 3432720044383558487
+
+
+[2021/11/26, 10:52:33 || [Tx Hash] 0x7c21b3b592760c7b91e793f305cac4038f30511f616851ce232b3f566abfcfad || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.0038363900000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1281761355902719605
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/26, 10:53:25 || [Tx Hash] 0xcfbaeb3797a269b8c13947a734b6c8f7cad431716ea8a26fa8f46b9591935ca6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00122643 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -600000000000000000
+ONE: 17615221036762036407
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/26, 10:54:00 || [Tx Hash] 0xbfacf92e467bb9772d83b2b23ee427675e8205671a362dcacdbf01ced3f2b201 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00175202 ONE
+(Value) 20.13659309853051 ONE
+Token transfers
+Serendale_JewelToken: -683823995620077611
+Jewel LP Token (JEWEL-LP): 3542564605437635352
+ONE: -20.13659309853051
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/26, 10:54:39 || [Tx Hash] 0xc071c44d6b8cacbb91eb11ca88d76ad2acabaaad7a510c7edded0bfa8c0420ea || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00265038 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/26, 11:47:31 || [Tx Hash] 0x02fa73b7aa21436d2cacc591f4853e1e132cd9f569c3adcaae313d93898a9b31 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.0045236 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 52229082590735669
+Jewel LP Token (JEWEL-LP): -3542564605437635352
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 3542564605437635352
+
+
+[2021/11/26, 20:36:55 || [Tx Hash] 0x2ca19e0b2785ef3c46f9b11d8477356988a903a625aaa77d16feb87f7d4701a7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.0038363900000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 514563343611033261
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/26, 20:38:23 || [Tx Hash] 0x0136a2c5337f36daa37cdf49f435c8059a5cdde12afabc4bc4d31591cc128d75 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapETHForExactTokens
+(Transaction fee) 0.00123595 ONE
+(Value) 1417.9149698660142 ONE
+Token transfers
+Serendale_JewelToken: 49000000000000000000
+ONE: -1417.9149698660142
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/26, 20:39:03 || [Tx Hash] 0x0ece52bff31e3e3d3650ad353b8f1423e69a922026a5bfa861a96922ebe3e99e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00173955 ONE
+(Value) 1422.8332056371048 ONE
+Token transfers
+Serendale_JewelToken: -49566792426201768930
+Jewel LP Token (JEWEL-LP): 253507040116703351728
+ONE: -1422.8332056371048
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/26, 20:39:51 || [Tx Hash] 0xa77d238b3998e928b77a2a2a009313aba2dbbf9e9fc19834c63d93e66adea050 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.00452372 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 2671707335122152
+Jewel LP Token (JEWEL-LP): -253507040116703351728
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 253507040116703351728
+
+
+[2021/11/27, 01:17:59 || [Tx Hash] 0x91d0df250aa1fe59b43123142ffeaf9e1f3b96e00a2c638f7474e8c4ed77b6d5 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0dc78c79B4eB080eaD5C1d16559225a46b580694
+(Remapped addresses) USER > Euphoria (WAGMI)
+(Function) approve
+(Transaction fee) 0.00110885 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 01:24:00 || [Tx Hash] 0x1fb71db2eb7d89b3c51816a471fe2485d11f379332ff54736c5eb22747d706dd || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0dc78c79B4eB080eaD5C1d16559225a46b580694
+(Remapped addresses) USER > Euphoria (WAGMI)
+(Function) approve
+(Transaction fee) 0.000402464 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 01:24:46 || [Tx Hash] 0x7a0967a9e7fa0e4b1d91ca20531dd7515d6a959420146554ce9ddc9248e8d25a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0dc78c79B4eB080eaD5C1d16559225a46b580694
+(Remapped addresses) USER > Euphoria (WAGMI)
+(Function) approve
+(Transaction fee) 0.000402464 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 01:25:41 || [Tx Hash] 0xa061dd1c18ae332942e39e4b0698bc410ac591bb5dd5a670ba43f2499555af3e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xF38593388079F7f5130d605E38aBF6090D981eC2
+(Remapped addresses) USER > Staked WAGMI (sWAGMI)
+(Function) approve
+(Transaction fee) 0.000707888 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 06:44:54 || [Tx Hash] 0x0cb5df64e8aa4890d1a0f51882c2a5cce0ec23e4b819417703fb45464a7d1e69 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.001663 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 06:45:58 || [Tx Hash] 0x657bf846a301270cf0bd134d05d1d0c66ccb99e4f4c343ed799a33aab8800178 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.004220029 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 758143258405403134
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 06:47:06 || [Tx Hash] 0x607a1d23ab3b70ff335b13cbd01050ad92d8ef3879b791766bc297494fb55a76 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00134803 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -350000000000000000
+ONE: 9977756064799628347
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 06:51:41 || [Tx Hash] 0xa64dc5c71c2b6e995c4e3fcb4ce5a646652104a52f6f1732bcee713e64142642 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00178257 ONE
+(Value) 11.746903845699478 ONE
+Token transfers
+Serendale_JewelToken: -410814965740525286
+Jewel LP Token (JEWEL-LP): 2096935313534940173
+ONE: -11.746903845699478
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 06:52:29 || [Tx Hash] 0x337b6da89ebff5572fe435e95850216590e5e2badc7aec62259c47175f8d8f51 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.0045236 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 8647053550422678
+Jewel LP Token (JEWEL-LP): -2096935313534940173
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 2096935313534940173
+
+
+[2021/11/27, 19:49:33 || [Tx Hash] 0x31a3a712945f78aaa5b6a9a2c625bc65e4a1044d76000b1ae08beeff38aae06d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.0038363900000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 975470542702162634
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/27, 19:52:05 || [Tx Hash] 0x9a838c00707131ad0137b6b9a15f2c3bd5084fb32c5ad6763e4f196895ad21ba || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.0011983900000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -984117596252585312
+ONE: 27877671616343047485
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/28, 11:06:17 || [Tx Hash] 0x99731b7474d241524dad72ce49eba34b6e6f371ca506b56f3acedfcee3e64299 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.0018319069999999998 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1178739672650707380
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/28, 11:12:07 || [Tx Hash] 0x95cdf24d825ab7905f31a2c7e94688475085739eb307ac180c22dca33b1b9097 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.001318229 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -1178739672650707380
+ONE: 32692108538067597081
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/29, 08:11:07 || [Tx Hash] 0x0220aa74a7dcfdae4a4c2dbb6bd2f40c05c9ecfea01af2dfb545f50bb5ad5ae5 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00166537 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1466010496911281709
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/29, 08:12:20 || [Tx Hash] 0x36ebcbdedba1e1f413f2a4f334bd85f0a0ef56ac5d03b96c916a2e2f8217a8cf || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00107679 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -1466010496911281709
+ONE: 45577802947215915835
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/29, 20:34:53 || [Tx Hash] 0xb1f8d03394c0e2dbee3a0f69dd562b9271ebe53fe23566eaabd1fc95474364bc || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactETHForTokens
+(Transaction fee) 0.00118444 ONE
+(Value) 975.0 ONE
+Token transfers
+Serendale_JewelToken: 31191136164100617293
+ONE: -975.0
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/29, 20:35:47 || [Tx Hash] 0x049079eb38b463bc40bfa3eec0bbc154b304b829a84de662606929ad0474fd62 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00173955 ONE
+(Value) 972.086354993269 ONE
+Token transfers
+Serendale_JewelToken: -31191136164100617293
+Jewel LP Token (JEWEL-LP): 165885582042259979211
+ONE: -972.086354993269
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/29, 20:36:49 || [Tx Hash] 0x5ef2b4b1b0c63a79581993154f4efc186bba8ca7f66dcd1987cae91a7949656b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.0022027 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1133913526403913874
+Jewel LP Token (JEWEL-LP): -165885582042259979211
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 165885582042259979211
+
+
+[2021/11/30, 08:40:03 || [Tx Hash] 0x0b5f509b904b105fde957fd937ab98045143f57404379eebe2b023545b71a173 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.001663 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/30, 08:42:38 || [Tx Hash] 0x71d972a3e582459fbbc24d8eb12ed2da92bf3a735c661a1c9a65417b0d1b3de2 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.001663 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/30, 08:43:13 || [Tx Hash] 0xaf976161c2dbf8f77ccf48cb6bc56b84702485a8e870464e40e0601a795e7f17 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.0038363900000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 972954426660362865
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/11/30, 08:45:31 || [Tx Hash] 0x994994b25fb1baa8752643a5cccde44d04e29f8316139ca572299e46d86670d4 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.0011983900000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -2106867953064276739
+ONE: 66019135898540999758
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/01, 09:16:33 || [Tx Hash] 0xd0839125a5887a98dcd9a01d220e7ff4f79595c71ac3d44d52f588c6fd7da9f8 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00398639 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 2114168469504495101
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/01, 09:17:22 || [Tx Hash] 0xed3e4d1afaa3a2885e48b352a071ce99be9095fd31e72e8c95771dc29b20362a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00107667 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -2114168469504495101
+ONE: 66769494046602286109
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/02, 07:11:01 || [Tx Hash] 0x8c8d3b02c78c5ccc5d336ae689e170ca926b040cbe58141a6587e870bc045214 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00186857 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/02, 07:11:38 || [Tx Hash] 0x262fed2dd89b0336de4c9f61fbde9728af158daedd1ada685a68ca33d304fb32 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00405463 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1789738371423916888
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/02, 07:13:46 || [Tx Hash] 0xad6494b6ab65e592cbae0cbf0e249f44c867064bcc76928b2e6e54bdd574427d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.0011983900000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -1789738371423916888
+ONE: 54608490626278997777
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/03, 07:00:22 || [Tx Hash] 0x6affb14111a12d6707f4a0062ea0be7c9844df6959466914e50e17b4dbfadb35 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00405463 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 2515621599965368399
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/03, 07:25:08 || [Tx Hash] 0x711e7b10918e7ebe9c736932b3c74d5a48140b6d034f3df64c60d4aba774527b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x72Cb10C6bfA5624dD07Ef608027E366bd690048F
+(Remapped addresses) USER > Serendale_JewelToken
+(Function) approve
+(Transaction fee) 0.00044475 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/03, 07:26:05 || [Tx Hash] 0x599ae7381e61a4721ee4bee79b40513a16e2036446500e1f2b63d41a3aefa91f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xA9cE83507D872C5e1273E745aBcfDa849DAA654F
+(Remapped addresses) USER > Serendale_Bank
+(Function) enter
+(Transaction fee) 0.00072204 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_Bank: 1561645568911217517
+Serendale_JewelToken: -2515621599965368399
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/04, 11:07:11 || [Tx Hash] 0x4e2d975ac40a5aef2a0fbb6baa6099bf1cd163eb9e1066e3a19b8a3dbb07f5e9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00405463 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 3156551883840079015
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/04, 11:08:29 || [Tx Hash] 0x6eeb7553f09083a9a9d331ba88c2e6a75f37c47514e7b411aaf0821cd156e6cd || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00107679 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -3156551883840079015
+ONE: 114157315376193828556
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/10, 13:58:24 || [Tx Hash] 0x12cbf1ed07bb00beb1652e33b48bfc578733015fa22b7668da98877cca34b8a0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0dc78c79B4eB080eaD5C1d16559225a46b580694
+(Remapped addresses) USER > Euphoria (WAGMI)
+(Function) approve
+(Transaction fee) 8.8708e-05 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/10, 14:02:05 || [Tx Hash] 0x96bd4f711b48c505361e6e84883cd776a5555991ccbc74bd5e1ae4809cfcf7a3 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00412287 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 17256398601392867440
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/10, 14:02:48 || [Tx Hash] 0xe2ed962df9df8d6ace75f38c825739f057ba729e0c330de58524eb4f5e1f31bf || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactETHForTokens
+(Transaction fee) 0.00115604 ONE
+(Value) 2027.3078125602792 ONE
+Token transfers
+Serendale_JewelToken: 53186950156157281900
+ONE: -2027.3078125602792
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/12, 20:27:15 || [Tx Hash] 0xfc98d6f7ccf155557d30dbe82b6f372ef5e99dcd9f1a7ff48926819245e5badf || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x72Cb10C6bfA5624dD07Ef608027E366bd690048F
+(Remapped addresses) USER > Serendale_JewelToken
+(Function) approve
+(Transaction fee) 0.00044475 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/12, 20:29:38 || [Tx Hash] 0x1fde4b419a248d36f3bd84ce5989225160c86508f6d88f15a1561460696c44d8 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) bid
+(Transaction fee) 0.00334256 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -50000000000000000000
+Hero transfers
+addHero_52310
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -50000000000000000000
+Liquidity pool
+-
+
+
+[2021/12/12, 20:42:05 || [Tx Hash] 0xfca0cb5241268214889173d27edfecc5108e50c82e0b15520376283d69fa67a7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.00809799 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/12, 20:43:35 || [Tx Hash] 0x49e3ea67d0b766dc4fc520c92527d710f94a71b8f2f710f891d558f98cf90256 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.007031758999999999 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/12, 21:33:11 || [Tx Hash] 0x4ebbd5e8f9dc69b36af177a446a6843e78222ecbb677c7eedd1bb5fa0e9bf35e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.00809799 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/12, 21:33:49 || [Tx Hash] 0x7d4ae3d7e66df99e4a8346b9d438c88dcdd79b3ab076abbd6a003bbe606b27d7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.00784137 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/12, 21:36:13 || [Tx Hash] 0x9ca13bfb5eb0bc157d82b254aee11c22cdb17e0240bc0d47a3e7e8a2db3d80ff || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5F753dcDf9b1AD9AabC1346614D1f4746fd6Ce5C
+(Remapped addresses) USER > Serendale_Hero
+(Function) setApprovalForAll
+(Transaction fee) 0.00047772 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/12, 21:36:42 || [Tx Hash] 0x2e96e2042bf3953ae10289862bc6fdc629b3747ef1ee16ef4597ec8306100fe7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.00269248 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/13, 06:57:43 || [Tx Hash] 0x77fc7f2d9f44c78dac479b95798b3ac8609e348e8133f5e555012e8d24fdc03a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 0.00090319 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 06:58:45 || [Tx Hash] 0x8dc19af02f8a06ecbbb17000763bcfe7710c3d161429900315e4bf49592a370b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.00807822 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 07:04:43 || [Tx Hash] 0x6f04e28794d9d5d1f2c411d2c22802db063412c5934d0fe99191559108da0b96 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01695648 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Bloater: 1
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 10:43:25 || [Tx Hash] 0xa3111f17d292ef7e9798c1db3bd6944841f1d09cb85896cbe80ff7ad399ad7e1 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.00809799 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 10:44:47 || [Tx Hash] 0x4a1114947450a711fd52df2a9fc9c6b63ddfe51ba2f2aa07c2a5f3ded8e1f4cf || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.010194100000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+GaiaTears: 2
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 14:01:24 || [Tx Hash] 0xe562ab114348a883cbb9896187e0f7e84f69b1deb05cfc103895363f169c9047 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.008907789 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 14:03:12 || [Tx Hash] 0x074221c56bd9c8160dd2a7c81b2f4f9b41709debb4c904bb0aa31333ba45b223 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.005832294 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/13, 14:45:40 || [Tx Hash] 0xe71680e7fe28226efd321bd26c9e3dffcf492ca877206da52dc024cd9e621730 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.00280024 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/13, 19:49:43 || [Tx Hash] 0x903250d268a2d08272f1e60641250810c958f65c479413c509fc04467e1cacb7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 0.0009935089999999998 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 19:50:28 || [Tx Hash] 0x34a26a93002fc06ed8066b13fcff12a041d609061333ba347ac0e689420e3559 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.003239196 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 19:52:46 || [Tx Hash] 0xa1a36c6cfee80c39681a5d2ac9a38c9fda09b73bd40db08f3360401057ff8fac || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002204794 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 21:59:37 || [Tx Hash] 0x0b4ab87697c4cbf8cb8b8df04240545b4b34595c0b15a6ebec0ed59fd6fd8cd0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactETHForTokens
+(Transaction fee) 0.00115604 ONE
+(Value) 2611.860480399 ONE
+Token transfers
+Serendale_JewelToken: 66692660464438215579
+ONE: -2611.860480399
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/13, 22:00:16 || [Tx Hash] 0xd16f7641804ec30ab971245b83cfca176c5e6ebd3929ccc67e4bb0bbccf81af3 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) bid
+(Transaction fee) 0.00308197 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -79000000000000000000
+Hero transfers
+addHero_66999
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -79000000000000000000
+Liquidity pool
+-
+
+
+[2021/12/13, 22:00:20 || [Tx Hash] 0x8889b58969bb8f98d23fd00818ec2b4f8cada201900814072a882331f10a3abc || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) bid
+(Transaction fee) 0.00023553000000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 22:00:24 || [Tx Hash] 0x04ba530fb7449441a384bc8e770a6d95ae1dedd9f9c8560ed44476cee517d9f5 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) bid
+(Transaction fee) 0.00023553000000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 22:50:11 || [Tx Hash] 0xcdad372cee801103fb78b76248c1f72483235962d3ca62f51e7fba8f0ea197ed || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.004830916 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 22:52:19 || [Tx Hash] 0x4799d61665bf9610c8a5e9e20b8c93c21d5f8c5d7db88930045f5d4a99936f85 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.004493232 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 22:53:46 || [Tx Hash] 0xbe77a6174988bbeb36248b3717ba2c11d7afb5f624fb8dfa86121b5f37139621 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.00809799 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/13, 22:55:37 || [Tx Hash] 0x33f30b9d66f5eb4238ab7afdfef96f44c31e61e90af0b959f94e5e605957817c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.000818935 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/13, 22:57:09 || [Tx Hash] 0x32673391f51e83e59e2fbd9cef81f82c2e37e2181afc89a7354ce957c1ed7859 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.00306119 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/13, 22:58:26 || [Tx Hash] 0x0900d62ffca817a5571e704296989e6838d8b7dce5f3ca0b9cb3f0804c574176 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.0026926 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/14, 05:56:39 || [Tx Hash] 0xf05eab52ceb2189bf9277d2eb128ab3d063af0b06b60a4e86515209190571c51 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 0.0010139 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/14, 05:56:49 || [Tx Hash] 0x506ae4fc98ee77fcd0e13a53354d7891dbd439322ddce8a7535f5cfd0dad57fc || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 0.00075331 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 05:57:42 || [Tx Hash] 0x58383d563c8a3e3f7e0cdec48a85c271f0212520480152beb653d5506d48d2e0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 06:02:23 || [Tx Hash] 0xb3df1859d35a5962d469652d95c7f4144ffd35aca73d98ea71ca920b1eca8eb1 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002607508 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 2
+Bloater: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 09:13:20 || [Tx Hash] 0x2d90600a5e03d57fce061cac8a97c7411a810ee5e2329a199ef242de1325a95f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 09:16:06 || [Tx Hash] 0xaaeaf066a5cee7c5639c8830fb502a06cf1dc750ba7d8177d4b254769ed792d1 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002060567 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Lanterneye: 1
+Bloater: 4
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 09:17:42 || [Tx Hash] 0x033bdf5e2deefd1f05164d8b101a308bc129d84bbb5d8b7cdc196e33bf7d1546 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00397287 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 9570970785657609019
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 09:18:49 || [Tx Hash] 0xbcb470ee5cf73a2c0948141a59ec1cef6e6cd7d0a499ea84e4d55c008e625584 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) swapExactTokensForETH
+(Transaction fee) 0.00122655 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: -8000000000000000000
+ONE: 324273975626534324744
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 09:20:01 || [Tx Hash] 0xf3d5e3edbb7a5868f7d0a438a8b70cabede9a9a34607882a62fb404c0703cf09 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x24ad62502d1C652Cc7684081169D04896aC20f30
+(Remapped addresses) USER > Serendale_UniswapV2Router02
+(Function) addLiquidityETH
+(Transaction fee) 0.00181401 ONE
+(Value) 394.64860994364744 ONE
+Token transfers
+Serendale_JewelToken: -9706933754228294791
+Jewel LP Token (JEWEL-LP): 58880366663402539541
+ONE: -394.64860994364744
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 09:23:59 || [Tx Hash] 0x900497cd50663b00cb9b52b2b3da4055f79ff97d4202f573389f4a88877f96f3 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) deposit
+(Transaction fee) 0.0045102 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 10017307997326810
+Jewel LP Token (JEWEL-LP): -58880366663402539541
+Hero transfers
+-
+Liquidity pool
+Serendale_JewelToken-ONE: 58880366663402539541
+
+
+[2021/12/14, 12:34:11 || [Tx Hash] 0xfe75c0bb48f02a30d84354b996ad8106d6b279bd179f5ce21f2e39ab6c9de8a6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 12:36:34 || [Tx Hash] 0x173a98995ea063ab83ffd4d2dffcb13d3a50ada9701bc4bb97810a44b1081dc0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002047858 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 4
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 15:33:35 || [Tx Hash] 0x8453eb1234d1d98c666fb65a73618e53268485aa82644767bbcc20d70b820cc6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 15:36:28 || [Tx Hash] 0x5ecd88beefe6c323e8f878b29de41fa9e092e079f7bc106686a0ff85bae4b4c6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001955909 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 23:51:27 || [Tx Hash] 0xb43b5b308c0f68adddea272bda5270ae38d37cfb09349ad833f90d02a460644d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203775 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/14, 23:57:24 || [Tx Hash] 0x50d83c0d6a9f5b7edab3f6fe3a807e413ff8fe1f4c2018d3547aafadf003387b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0031204450000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+GaiaTears: 1
+Shimmerskin: 3
+Ironscale: 2
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 06:42:22 || [Tx Hash] 0xa75bf5ed3b8d7122af904b760b9853785098bdd45c51d5665249573cfe2451b5 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 06:47:22 || [Tx Hash] 0x28f6c6b6ff8a2cfab37b6e713ed79d2b1ef9adfa01bc289ce1440938b6d2ce6b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002590212 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Bloater: 3
+Ironscale: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 10:29:00 || [Tx Hash] 0x2b71eb263a26050bbdec3a7c9a225d03972f2f00807a3fac4fe366e1d5533949 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 10:49:04 || [Tx Hash] 0x56b02a323eba7734d3766443768308395370fe2d219fa3081272114fd4af0083 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0019187630000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 2
+GaiaTears: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 14:58:59 || [Tx Hash] 0xac21cce40ff3b4ee73128bf8f257e15152636343ee81845c5cf3299630a6d5ba || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 15:02:27 || [Tx Hash] 0x8dfc441e9212cae958ae1b4009d7acf257fa4c74d3a6fdc56e6ae5b374123ca9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002408959 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Bloater: 2
+GaiaTears: 5
+Redgill: 1
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 18:40:50 || [Tx Hash] 0x02d3165d2e978878b63e50969396207c9de3d7b5321e2539f435a132baeb9f83 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 18:43:41 || [Tx Hash] 0xe95ee41075388d6cea4457e5200cdf6dbe8a43a07e48807fbf86e11a56f5b00d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002055765 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+GaiaTears: 4
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 21:49:30 || [Tx Hash] 0xb6e556dbffc7b8a2d8f5c44ac501111c09afcd03afd3f7477fc0154a243da709 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/15, 21:51:55 || [Tx Hash] 0xe2a03ddf13c7e37dfaf3f540784a0f939d43bd91e096fb10e841978812ab68e0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0019095070000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Ironscale: 2
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 00:07:19 || [Tx Hash] 0xfd6150ea35d4ec79fa4e7630495e9ef6e2b62d30760a0bea988c724e13f7317a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 00:09:52 || [Tx Hash] 0x4e07bf9406002c0e273f6cd765ac4b73f0af661cd691cb52f2195e608c834dbf || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001547989 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 07:02:18 || [Tx Hash] 0x2b423031b44422a604793d3301f85ceda6b02850d1e5faeba732a498cee2017c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 07:09:38 || [Tx Hash] 0xeaa41a621426420027a02912c737d3c8c2f5bb39d5bda68d702b2cb63fba6516 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0027077340000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 2
+Bloater: 2
+Silverfin: 2
+Lanterneye: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 11:03:01 || [Tx Hash] 0x12132cd9e6072d08965ca86c62db33195c7718eea553e1be342b0638b976c20f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 11:07:46 || [Tx Hash] 0xe88c797d7d88de5208e8f888ed095256927437962a0db7b9bbbc2ebacc099051 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002366398 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 9
+Bloater: 2
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 15:04:52 || [Tx Hash] 0x33ace10d8ccf1acfe3b336ede82e549ed498fe32ac36ddb9b9c665ac6fa6ef95 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 15:13:12 || [Tx Hash] 0x183ce19c45987280b88e7524fdd6295ab7e058b71f1291953175131625384ed8 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0019392670000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Redgill: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/16, 15:28:50 || [Tx Hash] 0xc714a47da576faa95bb52f28d9585143413dcf5c7f429269175bca954ad4f5b6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.00030611900000000004 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/16, 15:30:12 || [Tx Hash] 0x66f435f82324219331cbf5f4a183d4e8c44c44aff3a9920e2d5a000a87e9b3e7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.00028426 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/16, 21:41:08 || [Tx Hash] 0xa8980559df0e61c29cbb2141f64d49a4b84a2d5e7f6b5a467ec585f3b4ce4961 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 0.0020278 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/16, 21:41:28 || [Tx Hash] 0x0a4f48fb438dce0cc3cdbf805d54526bcb2afe9ea6eb7d69636ae194cb059c69 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 7.5331e-05 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 21:42:10 || [Tx Hash] 0x6995229cfff44ab93f9919fd22f8b963ac90da3b0731fc015347e9085cb7b123 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 21:46:50 || [Tx Hash] 0x118eb39a1dad354d14fea772dd057fb173a48c522d8caf718e8c941f5173ff57 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002649705 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 4
+Silverfin: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 23:21:49 || [Tx Hash] 0x0cf2869ba9228acf59515ade741331fae15673d0584b674428cab473824a1e50 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/16, 23:23:10 || [Tx Hash] 0xaa1c64159ca93c539216a84fdb7846c3cd416dc502f9ace6566d751c781c999b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001469199 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/16, 23:26:06 || [Tx Hash] 0x00f7414c91cf22aec41090da4ec2416b000d97223efda9c2265246286e139771 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.00030611900000000004 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/16, 23:27:22 || [Tx Hash] 0xcf695b61ca757896df4f7c7ed502ba382e0846983a5a01a0c48750e85d98d2ed || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) createAuction
+(Transaction fee) 0.000284236 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/17, 07:29:28 || [Tx Hash] 0x36753ce04ceadf754fa2866103743620b81f82b560a20033dc88f01752352002 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 0.00010139 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+ WARNING: (Transfer amount) 0x
+
+[2021/12/17, 07:29:44 || [Tx Hash] 0xd67a27ad8b1d1f25371b15087b9608adb8bb933f3163e392f85425bcdb1dc7ac || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x13a65B9F8039E2c032Bc022171Dc05B30c3f2892
+(Remapped addresses) USER > Serendale_AuctionHouse
+(Function) cancelAuction
+(Transaction fee) 7.5331e-05 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 07:30:34 || [Tx Hash] 0xe58f481bacaaadda7b3b1d748b8907342e28f09f514a0d3fee9b7d929b4cc07f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203775 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 07:37:18 || [Tx Hash] 0x319a3201e7a06727ed722714ccf586c321be7074b64764f387a847292ca82869 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.003091232 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 2
+Bloater: 5
+Redgill: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 11:31:37 || [Tx Hash] 0x2b13585c1086e6c782722067fcb02f20e8519e469725fd57ea542d1c62ec3bee || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 11:33:59 || [Tx Hash] 0x9b15d5350e7183925f041daa22459417faf3f1c8b211a6ab863ce69608302efc || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0019374250000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Sailfish: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 16:02:27 || [Tx Hash] 0x08733f3289ae02d3d72af32ed607a084dd607c62e75885367babf672bd396a80 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 16:13:30 || [Tx Hash] 0x25cf84bf782b86f00b93b7ddec7ac2b354244e31be7aff68cef0d2e379095ff9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.00218061 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 19:48:00 || [Tx Hash] 0xd7161c6844807cc6c9f494fd165839ee8eb9e873c2c98bcfadcc90b2cd2f0c0c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 19:50:40 || [Tx Hash] 0x37b0dffe520a0859528ea5116dec6d5862e52b534e0d8a6fa674dc8b143e1cff || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0018915890000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Shimmerskin: 1
+Bloater: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 22:34:58 || [Tx Hash] 0x0dfbd6f128881ea6c53c053530daf52ad0118771631a3e25ac8b5a96c038799e || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.000177502 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 22:35:41 || [Tx Hash] 0xeb87d90b083b5b7e549d02351f957e5e2f5a945206fba54d792300aeff3ffc60 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.000808222 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 9552282499299053813
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 23:43:52 || [Tx Hash] 0xaf557b24f40a6ab06efecf038032c478c1889146ba44387aeab7362657f8a4cb || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 23:46:29 || [Tx Hash] 0x948d95c09271a044313895a8fdbc35b45d84c0cb7248ee3ceb5e0eb3f89bb08d || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002012092 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/17, 23:47:29 || [Tx Hash] 0xf82e50ef69e00b728318280ab05f551e6c9817959220432701b3edeb55f6490f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001848409 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 07:01:31 || [Tx Hash] 0x57745eb54e3a5c8d86d51c5c3a5fd9e4317de99a6242a6f41ba7c660be74d33b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203775 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 07:08:42 || [Tx Hash] 0x0ab3068ccb34cf70030cb9821450e40e4c812106c4e6a989f22b036f34701585 || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.003470709 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 07:09:14 || [Tx Hash] 0x2f61559b0b51a2e4c815a01a3b72c063b523b4dfc7b8bbafbfc98490401e603e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.06349788 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 17:45:47 || [Tx Hash] 0xb8a932575af29fc0d441941d771cbce5a98a359f0cb129dba858114ef7e4a6ce || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203775 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 17:54:33 || [Tx Hash] 0x9df0dc3d71663924a3126825e0bdd826f840a46b734e44a93a9d053542516156 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.003027264 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 3
+Redgill: 2
+GaiaTears: 1
+Silverfin: 1
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 21:28:39 || [Tx Hash] 0x669e1024599624219c0f6a705b5fd38b03f424bed531c5574f55640ea9fe2589 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 21:44:07 || [Tx Hash] 0x07cbd5e0da8356c0528ea3d7478051fd6a1f826752ca6a0dc9325be58951b62c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001953826 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Bloater: 1
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 23:11:03 || [Tx Hash] 0x42c459811c7278e90c10c67a6a877ef4e75d9b61c3f06a751a059582d2c9fe43 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/18, 23:19:23 || [Tx Hash] 0x17166db3a8d2864757ef61d7225c0694e051340a57e50c48bf079a19d89a3cad || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0015140750000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+GaiaTears: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 07:52:57 || [Tx Hash] 0x402fbbfc99f92912ab58dbd5287bf0b71632b70601e49cb40ea602d18d4101d6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203775 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 07:59:16 || [Tx Hash] 0xc118ee76631622b23c45035b4aa79658ed5718350ee0f68e3aed1d174d69ecf2 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.003127036 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 7
+Redgill: 1
+Lanterneye: 1
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 13:02:48 || [Tx Hash] 0x48793b116a94b2a1ee35ec4a05a48774aad77d73e910e3a9f4076559bf72dc5e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 13:10:25 || [Tx Hash] 0xc4839267920d6f80b9c70c3a595642bdd8f0012d8d8532eed763a965dbf2fc1b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002194536 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 18:35:45 || [Tx Hash] 0x6e137447a6820ad4ceabb6bcca1b389fdc18e35d9881fe51eff0c5a94c6b1e25 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 18:41:35 || [Tx Hash] 0x8bce615b38af77fa7ccafcc2c4d17fc7d87293efc0b3c7fd21e370e365824a85 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002266307 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Bloater: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 23:01:06 || [Tx Hash] 0xc326110492c086e516541cf1432063425ce9d038fbedf47c153d38799f49afa5 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/19, 23:09:08 || [Tx Hash] 0x9e7ced4ca4b8c18c780fe35024dacb72e1ae1d7eb09ef0e04d33caa17482bfe6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002389562 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 2
+GaiaTears: 3
+Bloater: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 07:03:27 || [Tx Hash] 0x079a83bd1e771b8e5bbe092a15cb60a74b119c3576b34bdf99f2cefe59afeb15 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 07:10:19 || [Tx Hash] 0x4ab1bb0dc670c298ce13dd5bb142b9e8fed1d00b7b83973239f558109fdbdc20 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002740474 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+GaiaTears: 2
+Redgill: 1
+Ironscale: 1
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 09:29:42 || [Tx Hash] 0x2958b6a22baba69af3849ffd2f69d214bf6411de160680c5838ca32e1e91105a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x72Cb10C6bfA5624dD07Ef608027E366bd690048F
+(Remapped addresses) USER > Serendale_JewelToken
+(Function) approve
+(Transaction fee) 0.00044475 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 09:30:16 || [Tx Hash] 0xbd4eedf3b43b03699a752b481676bcdb51bab9dc5a26b906d9fba551081671f7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x66F5BfD910cd83d3766c4B39d13730C911b2D286
+(Remapped addresses) USER > ShvasRune
+(Function) approve
+(Transaction fee) 4.452e-05 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 09:30:34 || [Tx Hash] 0x064b6be3f58147760eecab0b263cb7ee784c48b990689a2d3f5b3b56747891db || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.000608116 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_66999
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/20, 09:31:00 || [Tx Hash] 0x2f672941c9e9e60ac73ed5816d9a19d40343bf4bbdc95b79b35501d7363ca7ff || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.000498388 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 09:32:12 || [Tx Hash] 0x60a930c97022f015d49f57085d99bcb0f34dd9a79197f49a78067b8a9f79c3bc || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001205752 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 09:35:46 || [Tx Hash] 0x1a830c9ddce925ad19e589e4c691ea1336487273aaedba1b654004fe0a4b3bc6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001854132 ONE
+(Value) 0.0 ONE
+Token transfers
+Silverfin: 1
+Redgill: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 09:36:29 || [Tx Hash] 0x27cefe3f2f53b79872902f0929230cb867f9a83aac1e956f35927753ce0a2dec || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.000809811 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 09:39:27 || [Tx Hash] 0xfbd678e8841ca131b61b4901f954ad1600b7128f87cd7f662d1ef0173b2665f4 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0011952240000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 13:54:08 || [Tx Hash] 0x761ff8d4ad718c6d9ecc36b2feb8984cfa6b1e5cc85902662e02efef5941ae58 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 14:01:01 || [Tx Hash] 0x2fdbd6c7ba89fec309376c1f3558edb92c5f5dbd1bb791a79ffdbe725908062c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) cancelQuest
+(Transaction fee) 0.00677103 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 15:21:37 || [Tx Hash] 0xf8a13f32ab0715b09104e169e27ac651b472e741782994563d240fca4c0e3dac || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 15:22:47 || [Tx Hash] 0x7396054e8ced29ee25d9f7a9309d8173038c99fda5e8d78ba917f10159be6309 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0014523860000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 19:26:00 || [Tx Hash] 0x8b4677ac4e677ca340fe3d0b1b3b60192cd57844aeef6687f74eb53e5ecf3fbc || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 19:29:24 || [Tx Hash] 0xa73627c31cd636efcf38beeca04c2e5b0bc540c8bac5f293bfd50d15fb3fbf96 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.00241425 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Bloater: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 22:49:38 || [Tx Hash] 0x1fb55b444d50e85d657d2d6b1bd2599900816e8e68788310a02b5976369bd43e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/20, 22:57:21 || [Tx Hash] 0xf96bc89f4c3c62592d2dc2aa05050d7211a7ea0207cd68ed1bd2a59b2fc64d67 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0019399180000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 1
+Bloater: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 01:09:16 || [Tx Hash] 0x791f136572345173b4ad030b7635cae97b16256648aaa5f4b7397633fa47cf7a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 01:10:34 || [Tx Hash] 0xef5ab24572743250ab4932cbfc88b9a2e8ecaeb1936e6ae667e914c6abdb10c7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001466904 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 07:58:16 || [Tx Hash] 0x2905e9ab8df15477b0e6adf134a05ffb7013a28c3e1cade8f55022462eb50577 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 08:03:39 || [Tx Hash] 0x1c11cf54578c0d3650bf767521a8732c94dae7bc869010523beb5509ed354064 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002799451 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Ironscale: 1
+Redgill: 2
+Lanterneye: 1
+GaiaTears: 2
+Sailfish: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 12:44:29 || [Tx Hash] 0x8f5af30de55787802a57a3fd0fe82aea9078ba5585d136178f71b8ac543b7885 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 12:48:01 || [Tx Hash] 0xd853b62ca247dd4369b2a040dfd80cc6e404d4b4dd1792e7ff5cf9bf47f7c0cb || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002207716 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 15:35:24 || [Tx Hash] 0x502bf1a12b6ec0ce4d08aa4806c1ab5a8d24eeb71b9f2db62c32b56fd80ee340 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 15:37:42 || [Tx Hash] 0x728f94f189e0a1555026376b5995b1b70fedbe3fd1d8137aab08cb95765f7c80 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0018365920000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Shimmerskin: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 15:38:24 || [Tx Hash] 0xcdd28a04e5e61f6d82aaefa66f46e0e23def05cc9d93cbb95f32a95b0254a8f0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.000404111 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 8513550146291633468
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 18:43:52 || [Tx Hash] 0xdf62507e98605d6365bfe3255877bc4d0f201b2c38883013442b3975007926fe || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 18:50:08 || [Tx Hash] 0xce0576f5c2848747288905e03678ae7f1fb953749e46202f8724cc20040c467c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01886268 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+GaiaTears: 1
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 23:42:05 || [Tx Hash] 0x9e75fb11a5f81ba3eb3caccc65202a961a935f3a8f236a99cc6f493d8680e85f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/21, 23:47:05 || [Tx Hash] 0x941c4f232b5235f8ecb5dc57e03e657ccc08a5226ded1e387082eb276442bd07 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002282922 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 07:38:01 || [Tx Hash] 0x2c9030541de2ef5afdef70e57bea8346ed16060f0b4bcf0d66bb01637d8036ba || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.012077290000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 07:45:07 || [Tx Hash] 0xd43d3040ceb12f4fc8d83a43063c880e05ad54616eb0de39a3f91eca8b1bedfa || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0025859800000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 3
+Bloater: 3
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 11:35:05 || [Tx Hash] 0xd32aceba7285edd17c131c6f52b6e52961debc662e831c0ae20fb4bd394d46b9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207729 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 11:40:01 || [Tx Hash] 0x37d8e99cfba51ec075c11842668d95e4607141fbf33b441c91f1810d09691c0a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0024297760000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 2
+ShvasRune: 1
+Bloater: 2
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 11:44:44 || [Tx Hash] 0x534f2edf2edaa482d66af41b86fb4df1b46fd1138786e8692e3845892ed7cbb9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.000608104 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -1
+Serendale_JewelToken: -100000000000000000
+Hero transfers
+levelupHero_52310
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -1
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -100000000000000000
+Liquidity pool
+-
+
+
+[2021/12/22, 11:45:14 || [Tx Hash] 0x8a9ccb3b935f18361236e2edbeb4e353ecb7abba7be42800208bfdf691a64296 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.0077485 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 11:47:11 || [Tx Hash] 0x83ddae4f805e6d08e22efcb657b2c72774b4b4a9d472ee233db9aad9d41a5d15 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.000807822 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 11:51:00 || [Tx Hash] 0xfe4697bdd0c9ff9e00f916c8a77522d858c4b08ffc0f15021d4d1ca1b9fa832f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001513259 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 16:56:04 || [Tx Hash] 0x4b8fb893f19a78d83068e5321e1629b178e720c9620006d4b9b3fcd766af3b31 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207907 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 17:00:27 || [Tx Hash] 0x2035d7c48890ab42150598921dddc058e4d5d2c51f9869eb0c9a2ee9d5841b78 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002319911 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Lanterneye: 1
+Bloater: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 23:24:52 || [Tx Hash] 0x64885d55594e92aece2c1ba4af3b629c47797fedfa29c98c46598f371a1ed294 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207907 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/22, 23:37:30 || [Tx Hash] 0x957ba9d1e4bb8e4c1b2b35889923728c8c723c390c28cd9a2e7304c644d1c0e8 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0026899090000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Bloater: 4
+GaiaTears: 5
+Shimmerskin: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 07:49:22 || [Tx Hash] 0xcc5a21618754dca9c383114339ce00a20a6d8ee3f0b3905c1121645f628ad9e4 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.00120593 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 07:55:25 || [Tx Hash] 0x7e18c5a0206536b9c852346efafd731cbe9c1ec0f47a9cedf94059eebad381c4 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002909417 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+GaiaTears: 4
+Lanterneye: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 11:26:30 || [Tx Hash] 0xc73fa1c771df3ce06ac3e06c7d51c9ae658f3b3cac3ecbf9e3e91e5f4b399e49 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207907 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 11:29:11 || [Tx Hash] 0x9f4cd60342b4a5b87584659e8aad5de34fd9340aa89effe0e222d127bc66d222 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001885083 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 16:02:58 || [Tx Hash] 0x13fb824143f8ec25c3dfe5f94d8a0da0b5c3388cd8dd681409b80712c018bcae || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207907 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 16:06:29 || [Tx Hash] 0x7d633a452a39c971a5ab4a0fc479a43ee118edb94834a5cd0445c231b3a5fd99 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002323115 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+GaiaTears: 4
+Lanterneye: 1
+Redgill: 1
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 21:23:34 || [Tx Hash] 0xac50b7cced93c065c7ef0c14b9a061f0aca9270d2da20da805d402dcf4ad9a96 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 21:28:39 || [Tx Hash] 0x18f5492130e3d326f3b5e3e660b0b309b060f2d7b6d0f6397036b1231a234b00 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002431679 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 5
+Ironscale: 1
+Lanterneye: 1
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/23, 23:53:31 || [Tx Hash] 0x13e48da45365b25b7fc8467b1f5ee082fc61aacf9aed5dba899b4778b2123cdb || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 00:00:15 || [Tx Hash] 0x314469fbacd0c8b913e3420f32f70df0e29348d6bddcdad7ce30144ba23c8e78 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001455916 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 02:51:05 || [Tx Hash] 0x95976856ef34c6607862d8ae06d645771d38faa39d67e17b01a8d996b5a0354c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 02:53:55 || [Tx Hash] 0x15a800862719f51e9e1fb946d13d4f7c649226815b28e9f48c0f74fa1eaf6c99 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001819185 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 08:50:57 || [Tx Hash] 0x4d0def53a347b64cc05bcecc16a064dcfda2fc0613146e6a4987d8896982fb8f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 09:11:59 || [Tx Hash] 0xd4db94a911cb9c2d24442f4c148d0c67c1a8243789b0629393380f3803b8ee19 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002613059 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 4
+Lanterneye: 2
+GaiaTears: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 14:34:34 || [Tx Hash] 0xe9a5a6938e51ed24f623dfd4a7eb005322fe06f90427d29af266255b3b5ca276 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 14:41:54 || [Tx Hash] 0x0886d889e5e46988ece87e219b7de2d4d0be35bc8d718017fb60a95fb8fde7e9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002363898 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 2
+Redgill: 1
+GaiaTears: 2
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 17:32:07 || [Tx Hash] 0xecc96e73ab1df586a42273857102e6139bea64500600fa4c2c6208f7ab27ac6b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 17:34:49 || [Tx Hash] 0x778e080bb8368b84c32be446f26b717ff14dc69145d38e5c083bfbcf5c910c15 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0018519160000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 22:55:54 || [Tx Hash] 0x5e606da427e978a957a401be6db5093050e803b41388369c51f76008bc4705c6 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/24, 23:03:51 || [Tx Hash] 0xe6bff82c8a91c2e59b9211075970ccdf4e1f378cd239686bb24435d838dea973 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0022493070000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 2
+Lanterneye: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 00:26:03 || [Tx Hash] 0x457cc0d0bc651c737c8b4ba06e016dc5b6eb26a7cedd80e51ebfe176e6a6e9e2 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.000165133 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 6823751890972051619
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 00:26:15 || [Tx Hash] 0xf7f31070c21e8863bb82f55804b7236017fed097942008ee9fd5a03edfcb07c9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00410935 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 281024535527013
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 03:00:20 || [Tx Hash] 0xc198b607b721d9070aa61fcbfeed56a87676c3d54449d341b361607d3bdd0fb9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 03:06:13 || [Tx Hash] 0x9cb0b29c5efe45d218620bc18ada3559dc73b081f4c8d2b0dc32671208efc2f3 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002251256 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+GaiaTears: 2
+Lanterneye: 2
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 08:55:48 || [Tx Hash] 0x0caa1aaa6d9087cac8a36904be0dfbfe63ed6cb5034511bedcafacc4eafd69b3 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 09:11:46 || [Tx Hash] 0x699a21c4919a007cc56039437711d51c57180784f349b27bc40fad88ad571a50 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002328086 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 3
+Bloater: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 14:39:52 || [Tx Hash] 0x21de1cf0cdf2f0eeb0d1d235a4b5d9e14a320bc1af1110564085cb8831388c38 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 14:45:00 || [Tx Hash] 0x34239dd9a39000f0ec6ec250b94ee2c7e30b29ab81e813d67da85e309f639702 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002722487 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 2
+Sailfish: 1
+Bloater: 2
+ShvasRune: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 15:35:54 || [Tx Hash] 0x8798cbc6c5d026d50e1b6614a227b9a45a4461851eee8ff342d9d9fbafb52d44 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.000165133 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1191271186177036710
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 21:25:01 || [Tx Hash] 0x13e79bade0eea9314a3419f266f73e05c4f15c7e35f893fde19f77245b816b15 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 21:35:17 || [Tx Hash] 0x8b2ba937d1bdd8722760e3b44e31b1966438a2bf3ed2759a3af0c85bfdb7ffc8 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0025445520000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 2
+Ironscale: 2
+GaiaTears: 1
+Redgill: 1
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 23:38:25 || [Tx Hash] 0xfa241e52a48033529e0ffefe0d5e877fe04d66ccad4e30e354a9e564722b7e4d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/25, 23:39:34 || [Tx Hash] 0xa0c43f3283bf2dec4962943041f53bbb2bba3e5e905ccaa2d1ebc14a1613c6b0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.00157288 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 08:17:26 || [Tx Hash] 0x4b519deebeacf6d524fa178aef56fae9cb4944aa5c4b0955e8c0aaaa8de6fdfa || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203997 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 08:23:18 || [Tx Hash] 0x0c381a31de024a8a0c9331154294d8ad63cf29794db844ffd4e4d2773ea707b3 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.00287156 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 2
+Lanterneye: 1
+Shimmerskin: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 15:15:07 || [Tx Hash] 0xe383f8930befc7c4318da37190e83d7ee17494aea03ccd4d6714b2ad9f58aa00 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 15:24:08 || [Tx Hash] 0x3769ac7736e1174619395c95231f3e866adc4f21320f57f14fb7a103789b94ff || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002546645 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Ironscale: 1
+Silverfin: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 21:50:03 || [Tx Hash] 0x53c414faf41dbd1973f4fb56f6a2b43d27115d9135b7cbb903a33b1267c25938 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 21:56:45 || [Tx Hash] 0x2ee23c22a93b46a66dbf990c520cf430e32adb3276035cc68c216a23cc100d3c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002783741 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Ironscale: 2
+Lanterneye: 2
+GaiaTears: 4
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 23:32:05 || [Tx Hash] 0xa5eceb3559f10b787ac665542ba1c10e365c382d84b9cdcc7d1a773b00fcd3b7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/26, 23:36:56 || [Tx Hash] 0x0e0a4c9457313e79daed01f07c3b2e92057191c6c6d9f920c2075541bef4b342 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001597915 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 01:44:57 || [Tx Hash] 0xe5ea8561cc3d2cbd58539ede04a1e2a86b38d2351c386b187e0da164e501dfce || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 01:46:45 || [Tx Hash] 0x1c804f7c616e279364bd779fd359f1257ae97dc6b1604027c23c74638207ed49 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001500147 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 03:07:27 || [Tx Hash] 0xa405c9bb57ffa2cf253aae07c8f158dc6484a2f7d62516e85f4aa4a84f5dc725 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) createAuction
+(Transaction fee) 0.000215741 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 09:18:02 || [Tx Hash] 0x07976fbcb82a0993d7d00eec775e28fa7aa2dd196b752d0e5bc6131c993f88fd || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 09:35:19 || [Tx Hash] 0x0b83eb07c77614376d9f328d4dcfa3e5f6f124bbe10b4c94a1acbc4358eabba2 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.003082771 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Redgill: 1
+Ironscale: 2
+GaiaTears: 6
+Silverfin: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 14:23:56 || [Tx Hash] 0x231f506408487cf34dac43384a1cfe614ef0a52347c38d6f226867b1f92f461a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 14:30:43 || [Tx Hash] 0x2a3ce207a0774afa6ad403794a4f7fdd38e2a4b4c3e33181b6745f61256a286e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002260778 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Redgill: 1
+Ironscale: 1
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 19:24:00 || [Tx Hash] 0x717aa9f57beea73e767c32343ab6abcba862dedcc742cdfe8c94eefcf316be4b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 19:45:22 || [Tx Hash] 0x7c8463ff6091aa89352d21202d47ea019016724e496e9de15676266e44941027 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002211147 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 2
+Sailfish: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 23:45:02 || [Tx Hash] 0xa9a56ea8c954f6216e35ebae8772271be8deb3bc24847a6a32145a3f14a4e63e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/27, 23:47:22 || [Tx Hash] 0x9639fc59d528e621c95ae7fe1a9b0bca685d4b18e38788ded246e0c0028a085e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001853903 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 5
+Bloater: 1
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 08:11:32 || [Tx Hash] 0x231ab293caf746d18b263fb734ebaf8c253c8261a778fd67af101ed671095c20 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203997 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 08:12:23 || [Tx Hash] 0x4f1c4ae2a85c67f7cde994f0a34d228c5ac63d8fa962079adb4bcaf3420b4a07 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.000410935 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 4771603206307820487
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 08:12:53 || [Tx Hash] 0x72c76273379e228397dd1ebadfb0a8977f6ab87fe4f8ee570f0b0986140f6a3a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xA9cE83507D872C5e1273E745aBcfDa849DAA654F
+(Remapped addresses) USER > Serendale_Bank
+(Function) enter
+(Transaction fee) 5.7216e-05 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_Bank: 18652145019865059246
+Serendale_JewelToken: -30662803514998129067
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 08:17:59 || [Tx Hash] 0xa2c44705a153b10d5ac850d7e85afb98ebf49242979e50e4bc864fe873f0fd07 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0029872040000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+ShvasRune: 1
+Redgill: 2
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 15:05:55 || [Tx Hash] 0x9b632616e065f7cbeed4f7cddfe52a21ee99d603ca3be02963db5070cf422407 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 15:10:33 || [Tx Hash] 0xced4a41f0b5b67dee3bd2cba7a83715d7e4a40a1eadb7e60a8d2a8a2afbc8341 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0027143320000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 4
+Ironscale: 1
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 16:33:16 || [Tx Hash] 0x1ca861305efc63130f21d68fc6df9bf9943bc58e4243bbe79ce882706a7f52e9 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/28, 16:35:16 || [Tx Hash] 0xdea6595dc445ea092139d3e80c09ab251ed65fc7fbc2aa7b3cda522400a19590 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0014727170000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 00:41:38 || [Tx Hash] 0xada1d2d0bd46da2c10dd3cfb75f05de0ad2219072db0c202351a5ebb837bce24 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 00:48:37 || [Tx Hash] 0x2f9955b3c345ae964a400061f4b53538f79715d13b74a19157c23c2ab91a63f7 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.003081814 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Sailfish: 1
+Lanterneye: 1
+GaiaTears: 5
+Ironscale: 2
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 02:23:10 || [Tx Hash] 0xf220e9d7b9849d2a0702ab1b57fb470ee5e77a3c8f15414407629561263fa48b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 02:25:29 || [Tx Hash] 0xcdf23914ec7966f66e11da702a6df1cf2ec06dc5bddfe09d3c4b93635ec0cb7e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.00152453 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 08:48:23 || [Tx Hash] 0x0fc8434dd012c7c7363b7269583685532672a97e29af892f3991a891ebe6b258 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x65DEA93f7b886c33A78c10343267DD39727778c2
+(Remapped addresses) USER > Serendale_summoning
+(Function) cancelAuction
+(Transaction fee) 2.8265e-05 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 08:59:59 || [Tx Hash] 0x0f006fd074beb89ee9f4e68f85293f2003e2b157bcbea3885802bbb37fd9dedd || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 09:04:44 || [Tx Hash] 0x05d7ec62e2a0e0788bfed2f416fe29128b626417b8f35bc12d832271de50151b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002655141 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Redgill: 1
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 12:39:12 || [Tx Hash] 0xe668a737d908c8344fabfa5968465fdde17f1d9c04ee08f01be7dd3c11c58860 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.01207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 12:41:23 || [Tx Hash] 0xd456cf5775f0066031fc62f66c305e501f83b9d0ca5db956a0fd9197d259b88d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01943212 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+GaiaTears: 2
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 16:07:52 || [Tx Hash] 0xfad374de24025739a54f51d28f7358b662fbc4fed504efabe62f45c5bc959e68 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 16:11:04 || [Tx Hash] 0x64c39a1846c5fa4eb950af7f7fe08685606c55823bbad82830ff6b8f3d4058fe || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0019180680000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Sailfish: 1
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 22:31:54 || [Tx Hash] 0x1ebe0e6ba89903ca3865932eb8596331fef64080fc91e4d0b78256b1ce52c262 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/29, 22:36:58 || [Tx Hash] 0x640451658311dca0d6790407ab4cd817b75b6305b89bed1bbf460b84c640a9fd || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0025998320000000003 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Ironscale: 1
+Lanterneye: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 08:09:45 || [Tx Hash] 0x3b3fdf360967980bcb50ea7af4b4b68571bcd14341721fb93de7c655596ce0eb || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203997 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 08:17:16 || [Tx Hash] 0x226fc8c48bb154cbcbd957cf0b43a2d008b718b6f147308fa7379c3c4d983c1d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0029190320000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Shimmerskin: 1
+GaiaTears: 4
+Lanterneye: 2
+Bloater: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 08:30:12 || [Tx Hash] 0x2903e0e593a265c41c3ab6b776398705e9cd3f22a21ca6ad4d5c977fe191688e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.000425935 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 3622341703818112644
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 13:02:01 || [Tx Hash] 0x9cb02038959895eae4cd95c24dae5b49fc87243ae1f09351bc144b5b68232822 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 13:05:53 || [Tx Hash] 0x4017db780ccdacc0d79c4388f62f2413901a9a9422d79f73a958fa815cba7e69 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0022465000000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 2
+Bloater: 1
+Lanterneye: 1
+GaiaTears: 5
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 17:18:28 || [Tx Hash] 0xde776102a3113fe88dfcb9203cccdeb4cfec05341f03276cdb8054fef83c0c64 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.01207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 17:21:53 || [Tx Hash] 0x5d7c346120766ebede1e264a8110c8441d59c6ea24051942c588d06efb0a365d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.01974859 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Sailfish: 1
+Lanterneye: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:47:46 || [Tx Hash] 0x553c9d8c23fb713275e78a76d76a80ebb138ca85fd97a12eee11c8a3cf0be406 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:50:32 || [Tx Hash] 0x368859b7222fff1b810f7431d38faf6f56f86ad58c3439cff69e5d513617d0eb || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0018841740000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 2
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:51:55 || [Tx Hash] 0x6ebf2c1977f5d64f15da7aa9fec3dffec3fb61d311fe7002e8e5127e493a71ec || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) startMeditation
+(Transaction fee) 0.0062730400000000006 ONE
+(Value) 0.0 ONE
+Token transfers
+ShvasRune: -2
+Serendale_JewelToken: -200000000000000000
+Hero transfers
+levelupHero_66999
+0x66F5BfD910cd83d3766c4B39d13730C911b2D286: -2
+0x72Cb10C6bfA5624dD07Ef608027E366bd690048F: -200000000000000000
+Liquidity pool
+-
+
+
+[2021/12/30, 19:52:20 || [Tx Hash] 0xf4e8eb558fb5b540fb5e8356001449196cb06d1397a56e512cb741990c68e69c || [Status] 0
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.000654253 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:52:37 || [Tx Hash] 0x15318a33daab0584888369471df4a10f96d225fea924c31546626ee1ad4d292c || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x0594D86b2923076a2316EaEA4E1Ca286dAA142C1
+(Remapped addresses) USER > Serendale_MeditationCircle
+(Function) completeMeditation
+(Transaction fee) 0.00517025 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:53:41 || [Tx Hash] 0x3d23d65940ecb08dbcf0e967be47130676d0fcd3f79096dcf340a5c2391ac46a || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.0008079830000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 19:57:19 || [Tx Hash] 0xcafef58f68a020508dd23a14f45c2a79deb6c5426dad8faadffc4ea96dec1d3f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0015156750000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Redgill: 1
+Bloater: 1
+Sailfish: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 21:32:37 || [Tx Hash] 0x0aea746676cf2cee5db479c7f4d7829e7e52037259677fbc8fed5d761c59f46d || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 21:35:15 || [Tx Hash] 0xd08623aa1ab468bdbfd33832313080f851c7e7e17ce245fd2dba1b60c9ef7dec || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0014863270000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 23:45:51 || [Tx Hash] 0xc12da5b262f910506d77325cc6493ba593246743ee5dc17fca66c4fb6047f879 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/30, 23:47:18 || [Tx Hash] 0x757618a7a3996087f877729eac1f56708d469ecdec33ae10687c4c8328ec6b74 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0014584040000000002 ONE
+(Value) 0.0 ONE
+Token transfers
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 08:51:38 || [Tx Hash] 0x7b077b8d01be3f573539b8b4dbc7eee75a0d51d173b9e0d3a22a2080027bc184 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001203997 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 08:57:33 || [Tx Hash] 0x75c8b942a0d34c4e4b6de094de15756c2c8db81c3cde7e28b29cd9296ef44544 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.003178643 ONE
+(Value) 0.0 ONE
+Token transfers
+Shimmerskin: 1
+Bloater: 5
+GaiaTears: 3
+Lanterneye: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 08:59:05 || [Tx Hash] 0x3f2c539c23b9d8e75fd0edf26ae8a4468761b25bff29aa404b461e4a5813e141 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xDB30643c71aC9e2122cA0341ED77d09D5f99F924
+(Remapped addresses) USER > Serendale_MasterGardener
+(Function) claimRewards
+(Transaction fee) 0.00410935 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_JewelToken: 1845142501547566539
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 08:59:45 || [Tx Hash] 0x34543cd2aa3eab7b1008f77c6f828ef33a896b2bc120534bc19af49959d1f2ef || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0xA9cE83507D872C5e1273E745aBcfDa849DAA654F
+(Remapped addresses) USER > Serendale_Bank
+(Function) enter
+(Transaction fee) 0.00057204 ONE
+(Value) 0.0 ONE
+Token transfers
+Serendale_Bank: 3199537054156285256
+Serendale_JewelToken: -5267484205365679183
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:38:28 || [Tx Hash] 0x204356578554ddcac89245ebf98fe084378cc28e5b6010f2def728f4624f1f73 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 13:41:58 || [Tx Hash] 0xb5b6ad1ef1114241bf6df0efb22e50b255561e4a1ae08d661639bfdd823d9867 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002180052 ONE
+(Value) 0.0 ONE
+Token transfers
+Redgill: 1
+Lanterneye: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 15:24:15 || [Tx Hash] 0xe636d5113930909a1dd7c79ea458ce03ab9e8c82fe47b871a74898e3b11001eb || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 15:26:13 || [Tx Hash] 0x068142701060469c25c9b312b8b1a4cc7d4eaaafc66768b3d8ec610f588f5d36 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0014631870000000001 ONE
+(Value) 0.0 ONE
+Token transfers
+Silverfin: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 21:59:39 || [Tx Hash] 0x9d6cbbd4a6d1f45bceecdabe5f916e1fd8343f3f48fbbb470107bd959598a6c0 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2021/12/31, 22:07:15 || [Tx Hash] 0x571b50166c9db8d3649751b0c44a03dfccfa3f94950d72c77e7c1f88e6ad726f || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.0026922 ONE
+(Value) 0.0 ONE
+Token transfers
+Bloater: 3
+Ironscale: 1
+Redgill: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 00:21:25 || [Tx Hash] 0xfba59d505d435a1ebde7fd121c31aa445c486db61228031583f0a6032bb0cd58 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.01207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 00:24:36 || [Tx Hash] 0xf89fb92b754862d0227e382fba06b743ad23989c142273fe8d0096c1f40b4c22 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.001500147 ONE
+(Value) 0.0 ONE
+Token transfers
+GaiaTears: 2
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 07:48:29 || [Tx Hash] 0xf12b317ea243a4c74fc860111506a0573ba92ec142d990cf76a71085831da12b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 07:53:54 || [Tx Hash] 0x0ab3ddf03a1489636fe9873c7cd27b90299bb59754e6ca30d36b38f701cbdb3e || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.002597369 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Bloater: 3
+Shimmerskin: 1
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 11:24:36 || [Tx Hash] 0x14c63d9155e9e19cc484d3dcfc2c4b99f88486f30754a095bc8de6adfefbfed4 || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) startQuest
+(Transaction fee) 0.001207951 ONE
+(Value) 0.0 ONE
+Token transfers
+-
+Hero transfers
+-
+Liquidity pool
+-
+
+
+[2022/01/01, 11:29:23 || [Tx Hash] 0x30bab7a21925529cd54543789562f69d71863076b6842b07868e1969cbfb910b || [Status] 1
+(Raw addresses) 0xe674B732DC82E9CB111D18cAbDf7543CE74e2c85 > 0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4
+(Remapped addresses) USER > Serendale_QuestCore
+(Function) completeQuest
+(Transaction fee) 0.00215401 ONE
+(Value) 0.0 ONE
+Token transfers
+Lanterneye: 1
+Bloater: 1
+Redgill: 1
+Ironscale: 1
+Hero transfers
+-
+Liquidity pool
+-
+

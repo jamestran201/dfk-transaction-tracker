@@ -7,11 +7,12 @@ import warnings
 warnings.simplefilter("ignore")
 
 class Transaction:
-    def __init__(self,main_address,transaction_df,transaction_receipt,transaction_data,verbose=False):
+    def __init__(self,main_address,transaction_df,transaction_receipt,transaction_data,crystalId_log,verbose=False):
         self.main_address = main_address
         self.transaction_df = transaction_df
         self.transaction_receipt = transaction_receipt
         self.transaction_data = transaction_data
+        self.crystalId_log = crystalId_log
         self.verbose = verbose
         self.info = {}
         self.hero_log = {}
@@ -25,8 +26,21 @@ class Transaction:
                 new_tx_tokens[token_name] = values
             else:
                 new_tx_tokens[key] = values
-
+        
         self.info['TxTokens'] = new_tx_tokens
+        
+        new_hero_log = {}
+        for hero, hero_values in self.hero_log.items():
+            new_hero_values = {}
+            for key, values in hero_values.items():
+                token_name = utils.process_address(key, self.main_address)
+                if token_name:
+                    new_hero_values[token_name] = values
+                else:
+                    new_hero_values[token_name] = values
+            new_hero_log[hero] = new_hero_values
+
+        self.hero_log = new_hero_log
 
     def get_receipt(self):
         """
@@ -50,7 +64,9 @@ class Transaction:
             receipt += f"-\n"
         else:
             for key,values in self.hero_log.items():
-                receipt += f"{key}: {values}\n"
+                receipt += f"{key}\n"
+                for _addr,_amount in values.items():
+                    receipt+=f"{_addr}: {_amount}\n"
         receipt += f"[bold underline]Liquidity pool[/]\n"
         if len(self.liquiditypool) == 0:
             receipt += f"-\n"
@@ -137,26 +153,31 @@ class Transaction:
             self.hero_log = hero.add_hero(
                     self.hero_log,
                     self.transaction_data,
-                    self.info['TxHash'],
+                    self.crystalId_log,
+                    self.info['TxTokens'],
                     self.info['function']
                     )
+            self.crystalId_log.update(self.hero_log)
         # open crystal to summon hero 
         # need to find example with re-charging crystal w/JEWEL to summon hero
         elif self.info['function'] == 'open':
             self.hero_log = hero.add_hero(
                     self.hero_log,
                     self.transaction_data,
-                    self.info['TxHash'],
+                    self.crystalId_log,
+                    self.info['TxTokens'],
                     self.info['function']
                     )
 
         ### Serendale_MeditationCircle
 
-        # TODO: ADD THIS TO VALUE OF THE HERO
-        # costs Rune & Jewel to level-up
-        # has attunementCrystal input not included in current method
+        # attunementCrystal input not included in current method
         elif self.info['function'] == 'startMeditation':
-            pass
+            self.hero_log = hero.levelup_hero(
+                    self.hero_log,
+                    self.transaction_data,
+                    self.info['TxTokens']
+                    )
         # Level-up stats (only TX fee)
         elif self.info['function'] == 'completeMeditation':
             pass
@@ -184,7 +205,8 @@ class Transaction:
             self.hero_log = hero.add_hero(
                     self.hero_log,
                     self.transaction_data,
-                    self.info['TxHash'],
+                    self.crystalId_log,
+                    self.info['TxTokens'],
                     self.info['function']
                     )
 
@@ -254,3 +276,5 @@ class Transaction:
         # Print receipt
         if self.verbose:
             self.get_receipt()
+
+

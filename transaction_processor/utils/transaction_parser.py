@@ -33,9 +33,7 @@ class TransactionFetcher:
         from_address = convert_one_to_hex(transaction["from"]).lower()
 
         return to_address in SerendaleContractAddress.CONTRACT_ADDRESS or \
-                    to_address in Tokens.TOKEN_ADDRESS or \
-                    from_address in SerendaleContractAddress.CONTRACT_ADDRESS or \
-                    from_address in Tokens.TOKEN_ADDRESS
+                    from_address in SerendaleContractAddress.CONTRACT_ADDRESS
 
     def _select_defi_kingdoms_txn(self, all_txns):
         return [txn for txn in all_txns if self._is_txn_relevant(txn)]
