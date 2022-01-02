@@ -15,11 +15,15 @@ class WalletAddressView(View):
             return render(request, "landing_page/index.html", {"error_message": "Please enter a valid 0x wallet address."})
 
         checksum_address = Web3.toChecksumAddress(wallet_address)
+        should_enqueue_task = False
         with transaction.atomic():
             last_task = TransactionSynchronization.objects.filter(wallet_address=checksum_address).last()
             if last_task is None or last_task.status not in ("PENDING", "IN_PROGRESS"):
                 sync_task = TransactionSynchronization(wallet_address=checksum_address)
                 sync_task.save()
-                sync_transactions.delay(checksum_address, sync_task.id)
+                should_enqueue_task = True
 
-            return render(request, "wallet_address/post.html")
+        if should_enqueue_task:
+            sync_transactions.delay(checksum_address, sync_task.id)
+
+        return render(request, "wallet_address/post.html")
