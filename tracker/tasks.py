@@ -3,8 +3,7 @@ from tracker.models import TransactionSynchronization
 from tracker.models import Wallet as WalletModel
 from tracker.models import Transaction as TransactionModel
 from transaction_processor.utils.transaction_parser import TransactionFetcher
-from transaction_processor.utils.utils import get_transaction_receipt
-from transaction_processor.utils.utils import get_transaction_receipt_data
+from transaction_processor.utils.utils import get_transaction_receipt, get_transaction_receipt_data
 from transaction_processor.utils.transaction import Transaction
 from datetime import datetime
 

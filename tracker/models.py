@@ -1,5 +1,4 @@
 from django.db import models
-from jsonfield import JSONField
 
 class TransactionSynchronization(models.Model):
 
@@ -19,12 +18,11 @@ class TransactionSynchronization(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
 def jsonfield_default_value():
-
     return {
-            'tokens':{},
-            'heroes':{},
-            'liquidity_pools':{}
-            }
+        'tokens':{},
+        'heroes':{},
+        'liquidity_pools':{}
+    }
 
 class Wallet(models.Model):
 
@@ -34,8 +32,8 @@ class Wallet(models.Model):
     created_at = models.DateTimeField(null=True,default=None)
     updated_at= models.DateTimeField(auto_now=True)
     wallet_address = models.CharField(max_length=1024,primary_key=True)
-    balance = JSONField(default=jsonfield_default_value())
-    crystal_log = JSONField(default={})
+    balance = models.JSONField(default=jsonfield_default_value)
+    crystal_log = models.JSONField(default=dict)
 
     def __str__(self):
         return self.wallet_address
@@ -57,9 +55,9 @@ class Transaction(models.Model):
     address_to = models.CharField(max_length=1024)
     function = models.CharField(max_length=128)
     transaction_fee = models.FloatField()
-    token_transaction = JSONField(null=True)
-    hero_transaction = JSONField(null=True)
-    lp_transaction = JSONField(null=True)
+    token_transaction = models.JSONField(null=True)
+    hero_transaction = models.JSONField(null=True)
+    lp_transaction = models.JSONField(null=True)
     
     def update_balance(self):
         if self.token_transaction is not None:
