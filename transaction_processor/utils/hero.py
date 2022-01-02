@@ -35,25 +35,43 @@ def check_hero_sold(auction_id,to_mapped):
         sold_hero_flag = False
     
     return sold_hero_flag
+
+def invert_token_values(tx_tokens):
+    new_tx_tokens = {}
+    for token,value in tx_tokens.items():
+        new_tx_tokens[token] = -1 * value
+
+    return new_tx_tokens
  
-def add_hero(hero_log,transaction_data,tx_hash,_type):
+def add_hero(hero_log,transaction_data,crystalId_log,tx_tokens,_type):
 
     if _type == 'summonCrystal':
 
-        # [TxHASH: 0xecb4af1d9f0671d70a6fc50a215b6f9a82e64c9e3eaa13dfb27c0680ead31c5a] TXN receipt has no events (not sure why this is)
-        # However, I don't think a crystal was summoned in this transaction.
         try:
             _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalSummoned'][1]['crystalId'][0]
-            hero_log[f"Crystal_{_id}"] = tx_hash
+            hero_log[f"Crystal_{_id}"] = invert_token_values(tx_tokens)
         except:
             return hero_log
 
     if _type == 'bid':
         _id = transaction_data['SaleAuction.json']['event']['AuctionSuccessful'][0]['tokenId'][0]
-        hero_log[f"addHero_{_id}"] = tx_hash
+        hero_log[f"addHero_{_id}"] = invert_token_values(tx_tokens)
 
     if _type == 'open':
         _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalOpen'][2]['heroId'][0]
-        hero_log[f"addHero_{_id}"] = tx_hash
+        crystal_id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalOpen'][1]['crystalId'][0]
+        hero_log[f"addHero_{_id}"] = crystalId_log[f'Crystal_{crystal_id}']
+        crystalId_log.pop(f"Crystal_{crystal_id}")
 
     return hero_log
+
+def levelup_hero(hero_log,transaction_data,tx_tokens):
+
+    _id = transaction_data['MeditationCircle.json']['function']['startMeditation'][0]['_heroId'][0]
+    hero_log[f"levelupHero_{_id}"] = invert_token_values(tx_tokens)
+
+    return hero_log
+
+
+
+
