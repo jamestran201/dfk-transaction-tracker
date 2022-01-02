@@ -54,3 +54,7 @@ make start-celery
 ```bash
 make runserver
 ```
+
+## Build and Deploy
+
+See [DEPLOYMENT.md](DEPLOYMENT.md)

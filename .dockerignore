@@ -103,6 +103,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.example
 .venv
 env/
 venv/
@@ -133,7 +134,19 @@ node_modules/
 # SASS compilation
 CACHE/
 
-# For building docker images locally
-docker_build/
+.git/
+.gitignore
+LICENSE
+poetry.lock
+poetry.toml
+pytest.ini
+README.md
+DEPLOYMENT.md
+
+# Files in transaction_processor that are not needed in production
+*.txt
+main.py
+transaction_processor/test/
+transaction_processor/scripts/
 
 staticfiles/
