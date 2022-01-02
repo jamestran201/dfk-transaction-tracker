@@ -9,15 +9,13 @@ class TransactionPresenter:
         self.transaction = transaction
 
     def date(self):
-        # The timestamp field follows the format YYYY/MM/DD, HH:mm:ss
-        # This function returns only the date from the timestamp
-        return self.transaction["timestamp"].split(",")[0]
+        return self.transaction.transaction_timestamp
 
     def transaction_type(self):
-        if self.transaction["from_mapped"] == "USER":
-            contract_name = self.transaction["to_mapped"]
+        if self.transaction.from_mapped == "USER":
+            contract_name = self.transaction.to_mapped
         else:
-            contract_name = self.transaction["from_mapped"]
+            contract_name = self.transaction.from_mapped
 
         # Remove the Serendale_ prefix from the contract name, if any
         contract_name = contract_name.lstrip("Serendale_")
@@ -25,29 +23,29 @@ class TransactionPresenter:
         return CONTRACT_NAME_TO_GAME_NAME_MAPPING.get(contract_name, contract_name)
 
     def action(self):
-        return self.transaction["function"]
+        return self.transaction.function
 
     def tx_hash(self):
-        return self.transaction["TxHash"]
+        return self.transaction.transaction_hash
 
     def block_explorer_link(self):
-        return f"{HARMONY_BLOCK_EXPLORER}{self.transaction['TxHash']}"
+        return f"{HARMONY_BLOCK_EXPLORER}{self.transaction.transaction_hash}"
 
     def status(self):
-        return "Success" if self.transaction["status"] == 1 else "Error"
+        return self.transaction.status
 
     def status_badge_css_class(self):
-        return "bg-success" if self.transaction["status"] == 1 else "bg-danger"
+        return "bg-success" if self.transaction.status == "SUCCESS" else "bg-danger"
 
     def transaction_fee(self):
-        return f"{self.transaction['TxFee']} ONE"
+        return f"{self.transaction.transaction_fee} ONE"
 
     def has_token_transfers(self):
-        return len(self.transaction["TxTokens"]) > 0
+        return len(self.transaction.token_transaction) > 0
 
     def sent_tokens(self):
         results = []
-        for token, amount in self.transaction["TxTokens"].items():
+        for token, amount in self.transaction.token_transaction.items():
             if amount > 0:
                 continue
 
@@ -59,7 +57,7 @@ class TransactionPresenter:
 
     def received_tokens(self):
         results = []
-        for token, amount in self.transaction["TxTokens"].items():
+        for token, amount in self.transaction.token_transaction.items():
             if amount < 0:
                 continue
 
