@@ -50,6 +50,5 @@ for main_address in main_addresses:
                 verbose=verbose
                 )
         transaction.get_info()
-        import pdb; pdb.set_trace()
         # Update crystalId log
         crystal_log = transaction.crystalId_log

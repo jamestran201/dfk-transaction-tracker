@@ -26,8 +26,21 @@ class Transaction:
                 new_tx_tokens[token_name] = values
             else:
                 new_tx_tokens[key] = values
-
+        
         self.info['TxTokens'] = new_tx_tokens
+        
+        new_hero_log = {}
+        for hero, hero_values in self.hero_log.items():
+            new_hero_values = {}
+            for key, values in hero_values.items():
+                token_name = utils.process_address(key, self.main_address)
+                if token_name:
+                    new_hero_values[token_name] = values
+                else:
+                    new_hero_values[token_name] = values
+            new_hero_log[hero] = new_hero_values
+
+        self.hero_log = new_hero_log
 
     def get_receipt(self):
         """

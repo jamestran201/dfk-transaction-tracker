@@ -35,6 +35,13 @@ def check_hero_sold(auction_id,to_mapped):
         sold_hero_flag = False
     
     return sold_hero_flag
+
+def invert_token_values(tx_tokens):
+    new_tx_tokens = {}
+    for token,value in tx_tokens.items():
+        new_tx_tokens[token] = -1 * value
+
+    return new_tx_tokens
  
 def add_hero(hero_log,transaction_data,crystalId_log,tx_tokens,_type):
 
@@ -42,13 +49,13 @@ def add_hero(hero_log,transaction_data,crystalId_log,tx_tokens,_type):
 
         try:
             _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalSummoned'][1]['crystalId'][0]
-            hero_log[f"Crystal_{_id}"] = tx_tokens
+            hero_log[f"Crystal_{_id}"] = invert_token_values(tx_tokens)
         except:
             return hero_log
 
     if _type == 'bid':
         _id = transaction_data['SaleAuction.json']['event']['AuctionSuccessful'][0]['tokenId'][0]
-        hero_log[f"addHero_{_id}"] = tx_tokens
+        hero_log[f"addHero_{_id}"] = invert_token_values(tx_tokens)
 
     if _type == 'open':
         _id = transaction_data['HeroSummoningUpgradeable.json']['event']['CrystalOpen'][2]['heroId'][0]
@@ -61,7 +68,7 @@ def add_hero(hero_log,transaction_data,crystalId_log,tx_tokens,_type):
 def levelup_hero(hero_log,transaction_data,tx_tokens):
 
     _id = transaction_data['MeditationCircle.json']['function']['startMeditation'][0]['_heroId'][0]
-    hero_log[f"levelupHero_{_id}"] = tx_tokens
+    hero_log[f"levelupHero_{_id}"] = invert_token_values(tx_tokens)
 
     return hero_log
 
