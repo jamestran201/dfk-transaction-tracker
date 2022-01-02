@@ -56,4 +56,3 @@ COMPRESS_FILTERS = {
     "js": ["compressor.filters.jsmin.JSMinFilter"],
 }
 COMPRESS_ROOT = STATIC_ROOT
-COMPRESS_OFFLINE = True
