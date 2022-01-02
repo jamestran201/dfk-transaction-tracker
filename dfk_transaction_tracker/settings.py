@@ -20,6 +20,8 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 env = environ.Env()
 env.read_env(f"{BASE_DIR}/.env")
 
+APPS_DIR = BASE_DIR / "tracker"
+
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
@@ -38,7 +40,6 @@ ADMIN_ENABLED = False
 # Application definition
 
 DJANGO_APPS = [
-    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -71,7 +72,7 @@ ROOT_URLCONF = 'dfk_transaction_tracker.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [str(APPS_DIR / "templates")],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -121,6 +122,17 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+# SECURITY
+# https://docs.djangoproject.com/en/dev/ref/settings/#session-cookie-httponly
+SESSION_COOKIE_HTTPONLY = True
+# https://docs.djangoproject.com/en/dev/ref/settings/#csrf-cookie-httponly
+CSRF_COOKIE_HTTPONLY = True
+# https://docs.djangoproject.com/en/dev/ref/settings/#secure-browser-xss-filter
+SECURE_BROWSER_XSS_FILTER = True
+# https://docs.djangoproject.com/en/dev/ref/settings/#x-frame-options
+X_FRAME_OPTIONS = "DENY"
+
+
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
 
@@ -136,13 +148,14 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 STATICFILES_FINDERS = [
     'django.contrib.staticfiles.finders.FileSystemFinder',
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     'compressor.finders.CompressorFinder',
 ]
-STATIC_ROOT = str(BASE_DIR / "static/")
+STATIC_ROOT = str(BASE_DIR / "staticfiles")
+STATICFILES_DIRS = [str(BASE_DIR / "static")]
 
 # django-libsass
 COMPRESS_PRECOMPILERS = (
