@@ -16,4 +16,12 @@
   <span class="text-center info-text">Your transactions are being processed.</span>
   <span class="text-center info-text">This will take a couple of minutes.</span>
 </div>
+
+<input type="text" value={{ wallet_address }} class="invisible" id="wallet-address">
+{% endblock %}
+
+{% block javascript %}
+  {% compress js %}
+  <script defer src="{% static 'js/wallet_address_post.js' %}"></script>
+  {% endcompress %}
 {% endblock %}
