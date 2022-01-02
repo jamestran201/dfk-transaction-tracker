@@ -71,6 +71,8 @@ def sync_transactions(wallet_address, sync_task_id):
                 'status':status,
                 'address_from':transaction.info['from'],
                 'address_to':transaction.info['to'],
+                'from_mapped':transaction.info['from_mapped'],
+                'to_mapped':transaction.info['to_mapped'],
                 'function':transaction.info['function'],
                 'transaction_fee':transaction.info['TxFee'],
                 'token_transaction':transaction.info['TxTokens'],

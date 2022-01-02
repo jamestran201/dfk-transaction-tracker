@@ -7,7 +7,7 @@ function poll() {
     .then(response => response.json())
     .then(json => {
       if (json["status"] === "success") {
-        window.location.replace("http://localhost:8000/transactions?page=1");
+        window.location.replace(`http://localhost:8000/transactions?wallet_address=${walletAddress}&page=1`);
       } else if (json["status"] === "in_progress") {
         setTimeout(poll, 3000);
       }

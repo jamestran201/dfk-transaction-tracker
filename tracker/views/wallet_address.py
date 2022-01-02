@@ -1,6 +1,6 @@
 from django.db import transaction
 from django.http import JsonResponse
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.views import View
 from web3 import Web3
 
@@ -28,6 +28,7 @@ class WalletAddressView(View):
             sync_transactions.delay(checksum_address, sync_task.id)
 
         return render(request, "wallet_address/post.html", {"wallet_address": checksum_address})
+        # return redirect(f"/transactions?wallet_address={checksum_address}&page=1")
 
     def get(self, request):
         wallet_address = request.GET["wallet_address"]
@@ -37,4 +38,5 @@ class WalletAddressView(View):
             return JsonResponse({"status": "success"})
         elif sync_task.status in ("PENDING", "IN_PROGRESS"):
             return JsonResponse({"status": "in_progress"})
-        # TODO: Implement what happens when status is FAILED
+        else:
+            return JsonResponse({"status": "failed"})

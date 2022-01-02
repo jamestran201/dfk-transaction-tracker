@@ -53,6 +53,8 @@ class Transaction(models.Model):
     status = models.CharField(max_length=100, choices=Status.choices, default=Status.SUCCESS)
     address_from = models.CharField(max_length=1024)
     address_to = models.CharField(max_length=1024)
+    from_mapped = models.CharField(max_length=1024, default="")
+    to_mapped = models.CharField(max_length=1024, default="")
     function = models.CharField(max_length=128)
     transaction_fee = models.FloatField()
     token_transaction = models.JSONField(null=True)
