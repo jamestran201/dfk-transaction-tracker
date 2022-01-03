@@ -14,6 +14,8 @@ function poll() {
         setTimeout(poll, 3000);
       } else if (json["total_transactions"] > 0) {
         window.location.replace(`${endpoint}transactions?wallet_address=${walletAddress}&page=1`);
+      } else {
+        window.location.replace(`${endpoint}500/`);
       }
-    });
+    }).catch(() => window.location.replace(`${endpoint}500/`));
 }
