@@ -1,10 +1,11 @@
 from django.db import transaction
+from django.db.models import Q
 from django.http import JsonResponse
 from django.shortcuts import render, redirect
 from django.views import View
 from web3 import Web3
 
-from tracker.models import TransactionSynchronization
+from tracker.models import TransactionSynchronization, Transaction
 from tracker.tasks import sync_transactions
 
 
@@ -33,10 +34,9 @@ class WalletAddressView(View):
     def get(self, request):
         wallet_address = request.GET["wallet_address"]
 
+        query_condition = Q(address_to=wallet_address) | Q(address_from=wallet_address)
+        total_transactions = Transaction.objects.filter(query_condition).count()
+
         sync_task = TransactionSynchronization.objects.filter(wallet_address=wallet_address).last()
-        if sync_task.status == "SUCCESS":
-            return JsonResponse({"status": "success"})
-        elif sync_task.status in ("PENDING", "IN_PROGRESS"):
-            return JsonResponse({"status": "in_progress"})
-        else:
-            return JsonResponse({"status": "failed"})
+
+        return JsonResponse({"status": sync_task.status, "total_transactions": total_transactions})

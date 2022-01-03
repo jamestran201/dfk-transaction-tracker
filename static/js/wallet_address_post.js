@@ -8,10 +8,12 @@ function poll() {
   fetch(`${endpoint}wallet_address?wallet_address=${walletAddress}`)
     .then(response => response.json())
     .then(json => {
-      if (json["status"] === "success") {
+      if (json["status"] === "SUCCESS") {
         window.location.replace(`${endpoint}transactions?wallet_address=${walletAddress}&page=1`);
-      } else if (json["status"] === "in_progress") {
+      } else if (json["status"] === "IN_PROGRESS" || json["status"] === "PENDING") {
         setTimeout(poll, 3000);
+      } else if (json["total_transactions"] > 0) {
+        window.location.replace(`${endpoint}transactions?wallet_address=${walletAddress}&page=1`);
       }
     });
 }
