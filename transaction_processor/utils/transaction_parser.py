@@ -16,11 +16,11 @@ def _map_address_to_readable_name(address, main_address):
 
     CONTRACT_ADDRESSES = SerendaleContractAddress.CONTRACT_ADDRESS
     CONTRACT_ADDRESSES[main_address.lower()] = "USER"
-    name = CONTRACT_ADDRESSES.get(address, None)
+    name = CONTRACT_ADDRESSES.get(address, "")
     if name:
         return name
 
-    name = Tokens.TOKEN_ADDRESS.get(address, None)
+    name = Tokens.TOKEN_ADDRESS.get(address, "")
     return name
 
 class TransactionFetcher:
