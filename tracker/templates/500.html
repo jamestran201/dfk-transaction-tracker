@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load static compress %}
+
+{% block css %}
+  {% compress css %}
+    <link type="text/x-scss" href="{% static 'scss/internal_server_error.scss' %}" rel="stylesheet">
+  {% endcompress %}
+{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-center">
+  <header class="d-flex justify-content-center custom-container mx-3 mt-2">
+    <a href="/" class="header-link">Home</a>
+  </header>
+</div>
+
+<div class="d-flex flex-column justify-content-center vh-100 message-container">
+  <div class="d-flex justify-content-center mx-3">
+    <div>
+      <h1>Internal server error</h1>
+      <p>An error has occurred. Please try again.</p>
+    </div>
+  </div>
+</div>
+{% endblock %}
