@@ -22,10 +22,6 @@ warnings.simplefilter("ignore")
 INPUTS
 """
 main_addresses = [
-        '***REMOVED***', # My Wallet
-        #'***REMOVED***', # FriskyFox
-        #'***REMOVED***', # Raspberry Swirl
-        #'***REMOVED***', # baloo3101
         ]
 
 # Writing info into log

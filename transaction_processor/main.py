@@ -16,10 +16,6 @@ warnings.simplefilter("ignore")
 INPUTS
 """
 main_addresses = [
-        '***REMOVED***', # My Wallet
-        #'***REMOVED***', # FriskyFox (Dev)
-        #'***REMOVED***', # Raspberry Swirl (Dev)
-        #'***REMOVED***', # baloo3101 (dfk auction bot)
         ]
 verbose = True
 
